@@ -1,2 +1,2 @@
 # seeess1.github.io
-My GitHub Pages 
+My GitHub Pages site. 
