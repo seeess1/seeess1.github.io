@@ -10,7 +10,7 @@ Testing testing testing
 
 [Template](./index-template.md)
 
-[Html test](./index-template.md)
+[Html test](./html-test.html)
 
 # My deal
 
