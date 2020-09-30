@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# About this
+# New Page
 
-Testing testing testing
+This is a new page
