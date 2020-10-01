@@ -8,9 +8,9 @@ A simple website to help you understand who Sam Burns is, what he knows how to d
 
 # What I do/know how to do
 
-Mainly two things: 1) I'm a data engineer; and 2) I'm on the board at a non-profit in Brooklyn, NY. (Plus some other stuff - read below.)
+Mainly two things: 1) I'm a data engineer; and 2) I'm on the board at a non-profit in Brooklyn, NY. (Plus some other stuff further down this page.)
 
-My professional experience as a data engineer was with a Brooklyn-based startup called Topos ([more on that here](./data.md)). Plus I have a few side projects/hustles related to data and web development that you can check out [here](./side-projects.md).
+My work experience as a data engineer has primarily been with a Brooklyn-based startup called Topos ([more on that here](./data.md)). Plus I have a few side projects/hustles related to data and web development that you can check out [here](./side-projects.md).
 
 And I explain [more about my non-profit work here](./non-profit.md).
 
@@ -19,6 +19,10 @@ And I explain [more about my non-profit work here](./non-profit.md).
 Before data engineering and non-profit work but since I finished college in 2010, I've lived a few different lives. I taught English in China for a year, harvested vegetables on a farm in Vermont for a season, and then moved to NYC, where I've driven a delivery truck for an UWS bakery (the one with the very, very large cookies), taught tennis on the roof of a building in Chelsea, and worked for a pair of private investigators (it's not quite as sexy as it sounds but some of it actually *is* as sexy as it sounds).
 
 More on all of that [here](./past-life.md).
+
+# So what's the throughline?
+
+I'm a data geek who took his time to try out other ways of living but I've found my way to where I need to be, which is, apparently, behind a computer screen writing Python, SQL, and, apparently, prose every now and then.
 
 # Contact
 
