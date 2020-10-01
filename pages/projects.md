@@ -27,12 +27,12 @@ When I wasn't transforming large data sets at Topos, I did my own analysis on to
 
 # Data science
 
-![Computer vision](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/pedestrians.png)
-
 But before Topos, I cut my teeth with data engineering, mapping, and data science at NYU in an [applied data science program](https://cusp.nyu.edu/) where we learned how to apply machine learning modules in Python. Projects included: 
 * [Anomoly detection](https://github.com/seeess1/machineLearning/blob/master/anomalies_traffic_health.ipynb) in traffic data
-* [Using computer vision](https://github.com/seeess1/pedestrian_cv) to count pedestrian traffic at an intersection on campus
 * Analyzing the relationship between [bars and 311 complaints](https://github.com/seeess1/publicDrunkenness/blob/master/public_drunkenness.ipynb)
+* [Using computer vision] to count pedestrians at an intersection on campus:
+
+[![Computer vision](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/pedestrians.png)](https://github.com/seeess1/pedestrian_cv)
 
 And [a lot more](https://github.com/seeess1/machineLearning).
 
