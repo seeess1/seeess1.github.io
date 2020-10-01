@@ -6,7 +6,9 @@ layout: default
 
 # Data engineering
 
-Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/). Topos specialized in making maps (like the one above - our [COVID-19 tracker](https://covid19.topos.com/)). We made maps to help owners of small retail chains find the best neighborhood to expand into:
+Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps (like the one above - our [COVID-19 tracker](https://covid19.topos.com/)). 
+
+We made maps to help owners of small retail chains find the best neighborhood to expand into:
 
 ![Neighborhoods in Chicago similar to Grant Park in Atlanta](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/atlanta-chicago.png)
 
@@ -37,5 +39,6 @@ But before Topos, I cut my teeth with data engineering, mapping, and data scienc
 
 And [a lot more](https://github.com/seeess1/machineLearning).
 
-# Side projects
+# But wait, there's more!
 
+Like this website I created and this map of tennis and handball courts in NYC. If you're particularly interested in data analysis related to tennis, there's more of that [in here](./pages/tennis.md).
