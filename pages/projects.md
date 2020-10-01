@@ -13,11 +13,11 @@ We made maps to help owners of small retail chains find the best neighborhood to
 
 [![Neighborhoods in Chicago similar to Grant Park in Atlanta](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/atlanta-chicago.png)](https://topos.com/)
 
-Or maps to help New Yorkers find a place to get a drink outside:
+Or maps for New Yorkers to find a place to get a drink outside:
 
 [![NYC cocktail map](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/cocktails-v2.jpg)](https://cocktails.topos.com/)
 
-And we worked with all kinds of data: demographic stats from the US Census, the location of every business and the average traffic for every road segment across the US, restaurant menus and reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
+And we worked with all kinds of data to create these maps: demographic stats from the US Census, the location of every business and the average traffic for every road segment across the US, restaurant menus and reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
 
 # Data analysis
 
@@ -30,9 +30,9 @@ When I wasn't transforming large data sets at Topos, I did my own analysis on to
 ![Computer vision](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/pedestrians.png)
 
 But before Topos, I cut my teeth with data engineering, mapping, and data science at NYU in an [applied data science program](https://cusp.nyu.edu/) where we learned how to apply machine learning modules in Python. Projects included: 
-* [Anomoly detection in traffic data](https://github.com/seeess1/machineLearning/blob/master/anomalies_traffic_health.ipynb)
-* Using computer vision to [count pedestrian traffic at an intersection on campus](https://github.com/seeess1/pedestrian_cv)
-* Analyzing the [relationship between bars and 311 complaints](https://github.com/seeess1/publicDrunkenness/blob/master/public_drunkenness.ipynb)
+* [Anomoly detection](https://github.com/seeess1/machineLearning/blob/master/anomalies_traffic_health.ipynb) in traffic data
+* [Using computer vision](https://github.com/seeess1/pedestrian_cv) to count pedestrian traffic at an intersection on campus
+* Analyzing the relationship between [bars and 311 complaints](https://github.com/seeess1/publicDrunkenness/blob/master/public_drunkenness.ipynb)
 
 And [a lot more](https://github.com/seeess1/machineLearning).
 
