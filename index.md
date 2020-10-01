@@ -4,7 +4,7 @@ layout: default
 
 # Intro
 
-I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps. These are some of my projects.
+I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps. These are [some of my projects](./pages/projects.md).
 
 # Other
 
