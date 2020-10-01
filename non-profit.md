@@ -4,7 +4,7 @@ layout: default
 
 # Non-profit work
 
-I've been playing tennis for as long as I can remember. My dad taught my brother and I how to play and it became a family sport. I played in high school and college and have stuck with it as an adult. And since I moved to NYC in December 2011, I got involved with the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), which (you guessed it) manages all things tennis at Fort Greene Park in Brooklyn, NY.
+I've been playing tennis for as long as I can remember. And since I moved to NYC in December 2011, I got involved with the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), which (you guessed it) manages all things tennis at Fort Greene Park in Brooklyn, NY.
 
 ![Neighborhoods in Chicago similar to Grant Park in Atlanta](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/fort-greene-park.jpg)
 
