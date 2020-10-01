@@ -4,7 +4,7 @@ layout: default
 
 # What is this and why? 
 
-A simple website to help you understand who Sam Burns is, what he knows how to do, and what he's interested in. GitHub + LinkedIn = an incomplete picture. I'm hoping this fills in some of the gaps.
+A simple website to help you understand who Sam Burns is, what he knows how to do, and what he's interested in. GitHub + LinkedIn = an incomplete picture. I'm hoping this fills in some of the gaps through a combination of text and samples from past projects.
 
 # What I do/know how to do
 
@@ -16,7 +16,7 @@ Plus some other stuff...
 
 # What I've done
 
-Before data engineering and non-profit work but since I finished college in 2010, I've lived a few different lives. I taught English in China for a year, harvested vegetables on a farm in Vermont for a season, and then moved to NYC, where I've driven a delivery truck for an UWS bakery (the one with the very, very large cookies), taught tennis on the roof of a building in Chelsea, and worked for a pair of private investigators (it's not quite as sexy as it sounds but some of it actually *is* as sexy as it sounds).
+Before data engineering and non-profit work but since I finished college in 2010, I've lived a few different lives. I taught English in China for a year, harvested vegetables on a farm in Vermont for a season, moved to NYC, drove a delivery truck for an UWS bakery (the one with the very, very large cookies), and worked for a pair of private investigators (it's not quite as sexy as it sounds but some of it actually *is* as sexy as it sounds).
 
 More on all of that [here](./past-life.md).
 
