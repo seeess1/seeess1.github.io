@@ -16,9 +16,9 @@ Mainly two things: 1) I'm a data engineer; and 2) I'm on the board at a non-prof
 
 # What I've done
 
- I've had a few different lives since I finished college in 2010. I taught English in China for a year, harvested vegetables on a farm in Vermont for a season, and then moved to NYC, where I've driven a delivery truck for an UWS bakery (the one with the very, very large cookies), taught tennis on the roof of a building in Chelsea, and worked for a pair of private investigators (it's not quite as sexy as it sounds but some of it actually *is* as sexy as it sounds).
+I've had a few different lives since I finished college in 2010. I taught English in China for a year, harvested vegetables on a farm in Vermont for a season, and then moved to NYC, where I've driven a delivery truck for an UWS bakery (the one with the very, very large cookies), taught tennis on the roof of a building in Chelsea, and worked for a pair of private investigators (it's not quite as sexy as it sounds but some of it actually *is* as sexy as it sounds).
 
- More on all of that [here](./past-life.md).
+More on all of that [here](./past-life.md).
 
 # Contact
 

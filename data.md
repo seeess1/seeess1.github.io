@@ -8,4 +8,4 @@ Up until September 2020, I was a data engineer at a Brooklyn-based startup calle
 
 Enter Topos. We would give you ranked recommendations for specific sections of particular neighborhoods in Chicago where you'd be most likely to find your target market. And we'd do that by using data from a bunch of different places - like demographic stats from the US Census, the locations of all businesses across the country, vehicular traffic counts per hour per road segment for the entire US, restaurant reviews, and a lot more - and then feeding that data into our recommendation algorithm.
 
-My job as a data engineer 
+My job as a data engineer was to collect all the data feeding our algorithm, generate metrics from that data, 
