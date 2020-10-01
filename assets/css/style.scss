@@ -4,14 +4,15 @@
 @import "{{ site.theme }}";
 * {
   font-family: "Arial Black", Gadget, sans-serif;
+
 }
 
 a:link {
-  color: red;
+  color: #FF7F50;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: red;
+  color: #FF7F50;
 }
