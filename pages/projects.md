@@ -15,7 +15,7 @@ We made maps to help owners of small retail chains find the best neighborhood to
 
 Or maps for New Yorkers to find a place to get a drink outside:
 
-[![NYC cocktail map](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/cocktails-v2.jpg)](https://cocktails.topos.com/)
+[![NYC cocktail map](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/cocktails-v2.png)](https://cocktails.topos.com/)
 
 And we worked with all kinds of data to create these maps: demographic stats from the US Census, the location of every business and the average traffic for every road segment across the US, restaurant menus and reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
 
