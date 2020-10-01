@@ -14,7 +14,7 @@ Mainly two things: 1) I'm a data engineer (more on that [here](./data.md) and [h
 
 and 2) I'm on the board at a non-profit in Brooklyn, NY (more on that [here](./non-profit.md)). 
 
-Plus ...
+Plus...
 
 # What I did before
 
