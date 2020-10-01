@@ -7,27 +7,23 @@ layout: default
 
 # Data engineering
 
-Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps (like the one above - our [COVID-19 tracker](https://covid19.topos.com/)). 
+Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps like the one above, which is a [COVID-19 tracker](https://covid19.topos.com/) that we built in Spring 2020. 
 
 We made maps to help owners of small retail chains find the best neighborhood to expand into:
 
-![Neighborhoods in Chicago similar to Grant Park in Atlanta](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/atlanta-chicago.png)
+[![Neighborhoods in Chicago similar to Grant Park in Atlanta](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/atlanta-chicago.png)](https://topos.com/)
 
 Or maps to help New Yorkers find a place to get a drink outside:
 
-![NYC cocktail map](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/cocktails.jpg)
+[![NYC cocktail map](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/cocktails.jpg)](https://cocktails.topos.com/)
 
-And we worked with all kinds of data: demographic stats from the US Census, metadata for every businesses across the country, the average traffic volume of every road segment at every hour of the day for the entire US, restaurant menus and reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
+And we worked with all kinds of data: demographic stats from the US Census, the location of every business and the average traffic for every road segment across the US, restaurant menus and reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
 
 # Data analysis
 
-When I wasn't ingesting/transforming large data sets at Topos, I did my own analysis on topics like the number of new businesses opened weekly in each state this year (as another way to understand the economic impact of COVID-19):
+When I wasn't transforming large data sets at Topos, I did my own analysis on topics like the [number of jobs available following the onset of COVID-19](https://twitter.com/topos_ai/status/1258184297732849666). Or looking at communities in the American Southwest that are particularly vulnerable to [public health crises](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb):
 
-![New business filings](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/new-biz.png)
-
-Or looking at communities in the American Southwest that are particularly vulnerable to [public health crises](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb):
-
-![COVID-19 cases in the American Southwest](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/reservations.png)
+[![COVID-19 cases in the American Southwest](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/reservations.png)](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb)
 
 # Data science
 
