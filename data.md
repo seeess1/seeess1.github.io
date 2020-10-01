@@ -10,7 +10,7 @@ Enter Topos. We would give you ranked recommendations for specific sections of p
 
 (Screenshot of Atlanta - Chicago)
 
-![Neighborhoods in Chicago similar to Grant Park in Atlanta]
+![Neighborhoods in Chicago similar to Grant Park in Atlanta](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/atlanta-chicago.png)
 
 And we'd do that by using data from a bunch of different places - like demographic stats from the US Census, the locations of all businesses across the country, vehicular traffic counts per hour per road segment for the entire US, restaurant reviews, and a lot more - and then feeding that data into our recommendation algorithm.
 
