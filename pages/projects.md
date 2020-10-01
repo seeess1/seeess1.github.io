@@ -2,7 +2,8 @@
 layout: default
 ---
 
-![COVID-19 Tracker](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/covid.png)
+[![COVID-19 Tracker](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/covid.png)](https://covid19.topos.com/)
+
 
 # Data engineering
 
@@ -24,7 +25,7 @@ When I wasn't ingesting/transforming large data sets at Topos, I did my own anal
 
 ![New business filings](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/new-biz.png)
 
-Or looking at communities in the American Southwest that are [particularly vulnerable to public health crises](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb):
+Or looking at communities in the American Southwest that are particularly vulnerable to [public health crises](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb):
 
 ![COVID-19 cases in the American Southwest](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/reservations.png)
 
