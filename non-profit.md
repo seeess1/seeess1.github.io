@@ -2,8 +2,10 @@
 layout: default
 ---
 
-# Data engineering
+# Non-profit work
 
-Up until September 2020, I was a data engineer at a Brooklyn-based startup called Topos. At Topos, our goal was to help business owners figure out where to expand to. For example, let's say you own a couple bars in the Grant Park neighborhood of Atlanta, GA and you want to open a new location in an entirely new city: Chicago, IL. But you have no idea which part of Chicago would be the best place for your business. Enter Topos. We would give you ranked recommendations for specific sections of particular neighborhoods in Chicago where you'd be most likely to find your target market. And we'd do that by using data from a bunch of different places - like demographic stats from the US Census, the locations of all businesses across the country, vehicular traffic counts per hour per road segment for the entire US, restaurant reviews, and a lot more - and feeding that data into our recommendation algorithm.
+I've been playing tennis for as long as I can remember. My dad taught my brother and I how to play and it became a family sport. I played in high school and college and have stuck with it as an adult. And since I moved to NYC in December 2011, I got involved with the Fort Greene Tennis Association, which (you guessed it) manages all things tennis at Fort Greene Park in Brooklyn, NY.
 
-My job as a data engineer 
+I joined FGTA in 2015 because the board needed extra help from new board members and it's been a great experience since then. NYC Parks is, sadly, chronically underfunded and tennis courts are low on the totem pole. So it's up to organizations like ours to maintain the courts, even when that maintenance is relatively intensive and costly.
+
+But we have an extremely dedicated community and between 2017 and 2019, I spearheaded our fundraising campaign, which raised more than $70,000 to resurface the 6 tennis courts at Fort Greene Park. Along the way, I've taken on additional projects for FGTA, including creating our website, organizing events, 
