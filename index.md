@@ -10,7 +10,7 @@ GitHub + LinkedIn = an incomplete picture. I'm hoping this fills in some of the 
 
 # What I do/know how to do
 
-Mainly two things: 1) I'm a data engineer (more on that [here](./data.md) and [here](./side-projects.md)); 
+Mainly two things: 1) I'm a data engineer (more on that [here](./assets/pages/data-test.md) and [here](./side-projects.md)); 
 
 and 2) I'm on the board at a non-profit in Brooklyn, NY (more on that [here](./non-profit.md)). 
 
