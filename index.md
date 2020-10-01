@@ -6,7 +6,7 @@ layout: default
 
 A simple website to help you understand who Sam Burns is, what he knows how to do, and what he's interested in. 
 
-GitHub + LinkedIn = an incomplete picture. I'm hoping this fills in some of the gaps through a combination of text and samples from past projects.
+GitHub + LinkedIn = an incomplete picture. I'm hoping this fills in some of the gaps through a combination of text and examples from past projects.
 
 # What I do/know how to do
 
@@ -24,9 +24,9 @@ More on all of that [here](./past-life.md).
 
 # So what's the throughline?
 
-I'm a data geek who took his time to try out other ways of living but I've found my way to where I need to be, which is, apparently, behind a computer screen writing Python, SQL, and, apparently, prose every now and then.
+I'm a data geek who took his time to try out other ways of living but I've found my way to where I need to be, which is, apparently, behind a computer screen writing Python, SQL, and, every now and then, some prose.
 
-(Plus I like tennis)
+And I also happen to like tennis.
 
 # Contact
 
