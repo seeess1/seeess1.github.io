@@ -2,17 +2,13 @@
 layout: default
 ---
 
-# ?
+# What is this and why? 
 
-I'm a data engineer living in Brooklyn, NY and I like Python, SQL, maps, and tennis. These are some of my projects.
+A simple website to help you understand who Sam Burns is, what he knows how to do, and what he's interested in. 
 
-# Other
+GitHub + LinkedIn = an incomplete picture. I'm hoping this fills in some of the gaps through a combination of text and examples from past projects.
 
-I'm also a director at a non-profit in Brooklyn. I explain that plus all the other non-code stuff here.
-
-# Contact
-
-<burnssh@gmail.com>
+# What I do/know how to do
 
 Mainly two things: 1) I'm a data engineer (more on that [here](./assets/pages/data-test.md) and [here](./side-projects.md)); 
 

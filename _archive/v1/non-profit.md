@@ -6,7 +6,7 @@ layout: default
 
 I've been playing tennis for as long as I can remember. And since I moved to NYC in December 2011, I got involved with the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), which (you guessed it) manages all things tennis at Fort Greene Park in Brooklyn, NY.
 
-![Neighborhoods in Chicago similar to Grant Park in Atlanta](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/fort-greene-park.jpg)
+![Fort Greene](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/fort-greene-park.jpg)
 
 NYC Parks is chronically underfunded and tennis courts are low on the totem pole. So it's up to organizations like the Fort Greene Tennis Association (FGTA) to maintain public courts, even when that maintenance is relatively intensive and costly. So I joined the FGTA board in 2015 because they needed extra help from new members (read: they had babies, I didn't).
 
