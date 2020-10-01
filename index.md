@@ -22,4 +22,4 @@ More on all of that [here](./past-life.md).
 
 # Contact
 
-Reach out to me at: burnssh@gmail.com
+Reach out to me at burnssh@gmail.com
