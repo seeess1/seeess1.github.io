@@ -44,4 +44,4 @@ Plus exercises in [streaming big data](https://github.com/seeess1/bigData) and m
 
 # But wait, there's more!
 
-Like this website I created and this map of tennis and handball courts in NYC. If you're particularly interested in data analysis related to tennis, there's more of that [in here](./pages/tennis.md).
+Like [this website I created](https://www.bageled.nyc/) and this [map of tennis and handball courts in NYC](http://www.fortgreenetennis.org/nyc-courts). If you're particularly interested in data analysis related to tennis, there's more of that [in here](./pages/tennis.md).
