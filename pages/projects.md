@@ -34,7 +34,7 @@ But before Topos, I cut my teeth with data engineering, mapping, and data scienc
 
 [![Computer vision](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/pedestrians.png)](https://github.com/seeess1/pedestrian_cv)
 
-And [a lot more](https://github.com/seeess1/machineLearning).
+Plus exercises in [streaming big data](https://github.com/seeess1/bigData) and more [machine learning](https://github.com/seeess1/machineLearning).
 
 # But wait, there's more!
 
