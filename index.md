@@ -10,9 +10,9 @@ A simple website to help you understand who Sam Burns is, what he knows how to d
 
 Mainly two things: 1) I'm a data engineer; and 2) I'm on the board at a non-profit in Brooklyn, NY. (Plus some other stuff - read below.)
 
-[Info and examples from work with data](./data.md)
+My professional experience as a data engineer was with a Brooklyn-based startup called Topos ([more on that here](./data.md)). I also have [a few more side projects/hustles](./side-projects.md) related to data and web development.
 
-[More about my non-profit work here](./non-profit.md)
+I explain [more about my non-profit work here](./non-profit.md)
 
 # What I've done
 
