@@ -30,7 +30,12 @@ Or looking at communities in the American Southwest that are [particularly vulne
 
 ![Computer vision](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/pedestrians.png)
 
-But before Topos, I cut my teeth with data engineering, mapping, and data science at NYU in an [applied data science program](https://cusp.nyu.edu/) where we learned how to apply machine learning modules in Python. Projects included: [anomoly detection in traffic data](https://github.com/seeess1/machineLearning/blob/master/anomalies_traffic_health.ipynb), using computer vision to [count pedestrian traffic at an intersection on campus](https://github.com/seeess1/pedestrian_cv), and analyzing the [relationship between bars and 311 complaints](https://github.com/seeess1/publicDrunkenness/blob/master/public_drunkenness.ipynb).
+But before Topos, I cut my teeth with data engineering, mapping, and data science at NYU in an [applied data science program](https://cusp.nyu.edu/) where we learned how to apply machine learning modules in Python. Projects included: 
+* [Anomoly detection in traffic data](https://github.com/seeess1/machineLearning/blob/master/anomalies_traffic_health.ipynb)
+* Using computer vision to [count pedestrian traffic at an intersection on campus](https://github.com/seeess1/pedestrian_cv)
+* Analyzing the [relationship between bars and 311 complaints](https://github.com/seeess1/publicDrunkenness/blob/master/public_drunkenness.ipynb)
+
+And [a lot more](https://github.com/seeess1/machineLearning).
 
 # Side projects
 
