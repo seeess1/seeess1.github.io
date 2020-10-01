@@ -14,7 +14,7 @@ Or maps to help New Yorkers find a place to get a drink outside:
 
 ![NYC cocktail map](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/cocktails.jpg)
 
-We worked with all kinds of data: demographic stats from the US Census, metadata for every businesses across the country, the average traffic volume of every road segment at every hour of the day for the entire US, restaurant menus and reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
+And we worked with all kinds of data: demographic stats from the US Census, metadata for every businesses across the country, the average traffic volume of every road segment at every hour of the day for the entire US, restaurant menus and reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
 
 # Data analysis
 
@@ -22,7 +22,7 @@ When I wasn't ingesting/transforming large data sets at Topos, I did my own anal
 
 ![New business filings](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/new-biz.png)
 
-Or looking at communities in the American Southwest that are particularly vulnerable to public health crises:
+Or looking at communities in the American Southwest that are [particularly vulnerable to public health crises](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb):
 
 ![COVID-19 cases in the American Southwest](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/reservations.png)
 
