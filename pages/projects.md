@@ -19,11 +19,15 @@ Or maps for New Yorkers to find a place to get a drink outside:
 
 To create these maps and our algorithmic recommendations for retail chains, we worked with all kinds of data: demographic stats from the US Census, the location of every business and the average traffic for every road segment across the US, restaurant menus and reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
 
+
+
 # Data analysis
 
 When I wasn't transforming large data sets at Topos, I did my own analysis on topics like the [number of jobs available following the onset of COVID-19](https://twitter.com/topos_ai/status/1258184297732849666). Or looking at communities in the American Southwest that are particularly vulnerable to [public health crises](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb):
 
 [![COVID-19 cases in the American Southwest](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/reservations.png)](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb)
+
+
 
 # Data science
 
@@ -35,6 +39,8 @@ But before Topos, I cut my teeth with data engineering, mapping, and data scienc
 [![Computer vision](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/pedestrians.png)](https://github.com/seeess1/pedestrian_cv)
 
 Plus exercises in [streaming big data](https://github.com/seeess1/bigData) and more [machine learning](https://github.com/seeess1/machineLearning).
+
+
 
 # But wait, there's more!
 
