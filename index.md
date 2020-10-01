@@ -10,7 +10,7 @@ A simple website to help you understand who Sam Burns is, what he knows how to d
 
 Mainly two things: 1) I'm a data engineer; and 2) I'm on the board at a non-profit in Brooklyn, NY. (Plus some other stuff - read below.)
 
-[Info and examples re data](./data.md)
+[Info and examples from work with data](./data.md)
 
 [More about my non-profit work here](./non-profit.md)
 
