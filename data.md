@@ -19,3 +19,6 @@ My job as a data engineer was to collect all the data feeding our algorithm, cle
 And retail expansion collapsed. But we wanted to make the best use of our time so we built a COVID-19 tracker (https://covid19.topos.com/):
 
 ![COVID-19 Tracker](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/covid.png)
+
+I really enjoyed working on this project because it was relevant and fast-paced and because I got to lead the data engineering for it (again, lots of Python scripting plus SQL).
+
