@@ -28,6 +28,8 @@ def score_analyzer():
 
 [![Bageled](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/bageled.png)](https://www.bageled.nyc/)
 
+Looking forward to working on this project more.
+
 ## NYC tennis
 
 As part of my non-profit work, I created the map at the top of this page using tennis permit data that I FOIA requested from the NYC Parks Department. And this chart visualizing trends in permit purchases among different age groups:
