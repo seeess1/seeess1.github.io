@@ -20,8 +20,6 @@ Since 2015, I've been helping to run a non-profit in Brooklyn called the [Fort G
 
 This is the team/project organization side of my brain.
 
-<!-- ![Fort Greene](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/fort-greene-park.jpg) -->
-
 ![Fort Greene](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/park-tennis.png)
 
 ## Last thing
