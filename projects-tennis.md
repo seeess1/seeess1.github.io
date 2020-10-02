@@ -48,3 +48,5 @@ And here's a snapshot of which players took home the most money out of the prize
 ![Pie of earnings](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/pie-earnings.png)
 
 In 2019, there was $230,506,600 in total prize money up for grabs. So we're seeing that ATP players in the top 100 captured 78% of that prize money while the other 22% was divided up among 400+ players.
+
+[Reach out](./contact.md) if you've got suggestions or wanna collaborate.
