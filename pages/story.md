@@ -20,6 +20,8 @@ Since 2015, I've been helping to run a non-profit in Brooklyn called the [Fort G
 
 This is the team/project organization side of my brain.
 
+![Fort Greene](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/fort-greene-park.jpg)
+
 ## Last thing
 
 Prior to data analysis and non-profit work, I lived a few different lives: I taught English in China for a year, harvested vegetables on a farm in Vermont for a season, drove a delivery truck for an UWS bakery (the one with the very, very large cookies), and taught tennis on a roof in Chelsea.
