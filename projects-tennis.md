@@ -38,7 +38,7 @@ The point of all of this work is to understand the degree to which tennis is gro
 
 ## ATP tennis
 
-And I've taken a look at earnings on the ATP Tour to understand which players are making bank, who's breaking even, and who's in the red (since life on the pro tour is apparently rather expensive). This project involved parsing thousands of pages of PDFs using Python into a machine-readable table and then some analysis in SQL. Here's what I found out about weekly earnings on the Tour:
+And I've taken a look at earnings on the ATP Tour to understand which players are making bank, who's breaking even, and who's in the red (since life on the pro tour is apparently rather expensive). This project involved transofrming thousands of pages of PDFs into a table using Python and then some analysis in SQL. Here's what I found out about weekly earnings on the Tour:
 
 ![Ranking groups](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/ranking-groups.png)
 Players in the top 20 did, in fact, make bank in 2019. And then weekly earnings drop off a cliff, which is a problem for the lower ranks since it apparently costs around $3k per week just to compete on the tour.
