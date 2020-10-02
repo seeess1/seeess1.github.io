@@ -44,4 +44,4 @@ Plus exercises in [streaming big data](https://github.com/seeess1/bigData) and m
 
 # One more thing
 
-Every now and then I find a way to combine programming with my interest in tennis. That combo has manifested itself in a few ways, including [this website I created](https://www.bageled.nyc/) and this [map of tennis and handball courts in NYC](http://www.fortgreenetennis.org/nyc-courts). If you're particularly interested in my work with data & tennis, there's more of that [in here](./pages/tennis.md).
+Every now and then I find a way to combine programming with my interest in tennis. That combo has manifested itself in a few different ways, including [this website I created](https://www.bageled.nyc/) and this [map of tennis and handball courts in NYC](http://www.fortgreenetennis.org/nyc-courts). If you're particularly interested in my work with data & tennis, there's more of that [in here](./pages/tennis.md).

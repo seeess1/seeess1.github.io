@@ -1,7 +1,5 @@
-# seeess1.github.io
+# Portfolio
 
-WIP
+My website (built with GitHub Pages):
 
-My GitHub Pages site:
-
-https://seeess1.github.io/
+http://samhburns.com/
