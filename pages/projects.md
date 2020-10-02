@@ -13,11 +13,11 @@ We made maps to help owners of small retail chains find the best neighborhood to
 
 [![Neighborhoods in Chicago similar to Grant Park in Atlanta](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/atlanta-chicago.png)](https://topos.com/)
 
-Or maps for New Yorkers to find a place to get a drink outside:
+And maps for New Yorkers looking for a place to get a drink outside:
 
 [![NYC cocktail map](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/cocktails-v2.png)](https://cocktails.topos.com/)
 
-To create these maps and our algorithmic recommendations for retail chains, we worked with all kinds of data: demographic stats from the US Census, the location of every business and the average traffic for every road segment across the US, restaurant menus and reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
+To create these maps and our algorithmic recommendations for retail chains, we worked with all kinds of data: demographic stats from the US Census, business metadata, vehicular traffic counts, restaurant reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
 
 
 
@@ -42,6 +42,6 @@ Plus exercises in [streaming big data](https://github.com/seeess1/bigData) and m
 
 
 
-# But wait, there's more!
+# One more thing
 
-Like [this website I created](https://www.bageled.nyc/) and this [map of tennis and handball courts in NYC](http://www.fortgreenetennis.org/nyc-courts). If you're particularly interested in data analysis related to tennis, there's more of that [in here](./pages/tennis.md).
+Every now and then I find a way to combine programming with my interest in tennis. That combo has manifested itself in a few ways, including [this website I created](https://www.bageled.nyc/) and this [map of tennis and handball courts in NYC](http://www.fortgreenetennis.org/nyc-courts). If you're particularly interested in my work with data & tennis, there's more of that [in here](./pages/tennis.md).
