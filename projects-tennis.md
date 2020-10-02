@@ -17,7 +17,7 @@ My friend Michael and I created bagel-themed grips for tennis rackets (in tennis
 def score_analyzer():
     # Iterate through pro matches
     for match in api_json["results"]:                
-            # Get the match score as a string
+            # Save the match score as a string
             match_score = ""
             set_scores = match["sport_event_status"]["period_scores"]
             # Iterate through sets in the match
@@ -30,7 +30,7 @@ def score_analyzer():
 
 ## NYC tennis
 
-I created the map at the top of this page using tennis permit data that I FOIA requested from the NYC Parks Department. And this chart visualizing trends in permit purchases among different age groups:
+As part of my non-profit work, I created the map at the top of this page using tennis permit data that I FOIA requested from the NYC Parks Department. And this chart visualizing trends in permit purchases among different age groups:
 
 ![Tennis permits age groups](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/permits-age.png)
 
