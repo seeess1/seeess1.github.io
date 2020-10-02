@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# tl;dr
+## tl;dr
 
 I'm an analyst who can also step in and organize teams/projects.
 
@@ -10,9 +10,11 @@ I'm an analyst who can also step in and organize teams/projects.
 
 Between 2013 and 2018, my career revolved around analyzing qualitative data in the legal-investigative world. I started out as an analyst at the [Manhattan DA's Office](https://www.manhattanda.org/district-attorney-vance-announces-expansion-anti-corruption-unit/) investigating city officials suspected of criminal activity. Then I moved over to the private sector as an investigator for a small [PI firm](https://www.questinvestigates.com/) where we did background checks, interviewed witnesses, and read lots of court cases. Finally, I moved back to the public sector as an auditor for the [NYC Campaign Finance Board](https://www.nyccfb.info/).
 
-During that last one (auditing), I started to make the switch from from qualitative to quantitative analysis. In my spare time, I learned basic Python and SQL until I decided to get serious and go full time. So in the summer of 2018 I enrolled in an applied data science masters program at [NYU](https://cusp.nyu.edu/). The program's focus on the intersection between urban planning and open data (aka how can we use data to understand/improve cities?) helped me make the transition to [Topos](https://topos.com/), a Brooklyn-based startup focused on understanding cities through data and passing along that understanding to retail chains looking to grow. I was a data engineer at Topos and you can find out more about my work at [this link](./projects.md)).
+During that last one (auditing), I started to make the switch from from qualitative to quantitative analysis. In my spare time, I learned basic Python and SQL until I decided to get serious and go full time. So I enrolled in an applied data science masters program at [NYU](https://cusp.nyu.edu/) in the summer of 2018. 
 
-In sum, I'm an analyst who likes data of all kinds - that's what's been tugging me along this path over the past 7 years.
+Our program focused on the intersection between urban planning and open data (aka how can we use data to understand/improve cities?), which helped me transition to [Topos](https://topos.com/), a Brooklyn-based startup that used data to understand cities and share our insights with retail chains looking to expand. I was a data engineer at Topos and you can find out more about my work for them at [this link](./projects.md)).
+
+In sum, I'm an analyst who likes data of all kinds and that's what's been tugging me along this path over the past 7 years.
 
 ## The second part
 
