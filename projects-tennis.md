@@ -38,10 +38,10 @@ The point of all of this work is to understand the degree to which tennis is gro
 
 ## ATP tennis
 
-And I've taken a look at earnings on the ATP Tour to understand which players are making bank, who's breaking even, and who's in the red since life on the pro tour is apparently rather expensive. This project involved parsing thousands of pages of PDFs using Python into a machine-readable table and then some analysis in SQL. Here are a couple findings:
+And I've taken a look at earnings on the ATP Tour to understand which players are making bank, who's breaking even, and who's in the red (since life on the pro tour is apparently rather expensive). This project involved parsing thousands of pages of PDFs using Python into a machine-readable table and then some analysis in SQL. Here are a couple findings:
 
 ![Ranking groups](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/ranking-groups.png)
 Players in the top 20 did, in fact, make bank in 2019. And then weekly earnings drop off a cliff, which is a problem for the lower ranks since it apparently costs around $3k per week just to compete on the tour.
 
 ![Pie of earnings](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/pie-earnings.png)
-In 2019, there was $230,506,600 in total prize money up for grabs. So we're seeing that ATP players in the top 100 captured 78% of that prize money. The other 22% was divided up among 400+ players.
+In 2019, there was $230,506,600 in total prize money up for grabs. So we're seeing that ATP players in the top 100 captured 78% of that prize money while the other 22% was divided up among 400+ players.
