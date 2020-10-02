@@ -18,7 +18,7 @@ In sum, I'm an analyst who likes data of all kinds and that's what's been tuggin
 
 ## The organizational part
 
-Since 2015, I've been helping to run a non-profit in Brooklyn called the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), which (you guessed it) manages all things tennis at Fort Greene Park in Brooklyn, NY. Since I became a board member, we've done things like raise $70k to resurface the courts in 2019, put on events for hundreds of people, manage a mailing list of 1k+ rabid tennis fans, plus I do the occassional [data analysis](./side-projects.md).
+Since 2015, I've been helping to run a non-profit in Brooklyn called the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), which (you guessed it) manages all things tennis at Fort Greene Park in Brooklyn, NY. Since I became a board member, we've done things like raise $70k to resurface the courts in 2019, put on events for hundreds of people, manage a mailing list of 1k+ rabid tennis fans, plus I do the occassional [data analysis](./projects-tennis.md).
 
 This is the team/project organization side of my brain.
 
