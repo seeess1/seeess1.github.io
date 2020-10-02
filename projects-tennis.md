@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Brooklyn tennis permits](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/geo-viz.png)
+![NYC tennis permits](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/geo-viz.png)
 
 
 # Data + tennis
@@ -30,7 +30,7 @@ def score_analyzer():
 
 ## NYC tennis
 
-I created the map at the top of this page using tennis permit purchase data that I FOIA requested from the NYC Parks Department. And this chart visualizing trends in permit purchases among different age groups:
+I created the map at the top of this page using tennis permit data that I FOIA requested from the NYC Parks Department. And this chart visualizing trends in permit purchases among different age groups:
 
 ![Tennis permits age groups](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/permits-age.png)
 
