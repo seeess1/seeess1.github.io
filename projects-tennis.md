@@ -11,7 +11,7 @@ I've done side projects combining tennis and data for fun and to help out with o
 
 ## Fun
 
-My friend Michael and I created bagel-themed grips for tennis rackets. Michael is the mastermind behind the concept and artwork. I put together our website, which includes scores from pro tennis matches across the globe that I scrape via a cloud-based Python script I wrote. 
+My friend Michael and I created bagel-themed grips for tennis rackets. Michael is the mastermind behind the concept and artwork. I put together [our website](https://www.bageled.nyc/), which includes a cloud-based Python script for scraping scores from pro tennis matches across the globe:
 
 ```python
 def score_analyzer():
@@ -25,8 +25,6 @@ def score_analyzer():
                     match_score += str(set_score["home_score"]) + \
                     " - " + str(set_score["away_score"]) + " "
 ```
-
-I enjoy this.
 
 ![Bageled](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/bageled.png)
 
