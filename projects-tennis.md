@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Brooklyn tennis permits](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/brooklyn-permits.png)
+![Brooklyn tennis permits](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/geo-viz.png)
 
 
 # Data + tennis
