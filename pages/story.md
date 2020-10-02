@@ -12,7 +12,7 @@ Between 2013 and 2018, I worked as an analyst in different domains dealing prima
 
 During that last one (auditing), I started to make the switch from from qualitative to quantitative analysis. In my spare time, I learned basic Python and SQL until I decided to get serious and go full time. So in the summer of 2018 I enrolled in an applied data science masters program at [NYU](https://cusp.nyu.edu/) The program's focus on the intersection between urban planning and open data (aka how can we use data to understand/improve cities?) helped me make the transition to [Topos](https://topos.com/), a Brooklyn-based startup focused on understanding cities through data and passing along that understanding to retail chains looking to grow. I was a data engineer at Topos and you can find out more about my work there by going [here](./projects.md)).
 
-In sum, I'm an analyst who likes data of all kinds - that's what's been tugging me along this path over the past 8 years.
+In sum, I'm an analyst who likes data of all kinds - that's what's been tugging me along this path over the past 7 years.
 
 ## The second part
 
