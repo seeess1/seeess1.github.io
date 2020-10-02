@@ -22,7 +22,8 @@ def bagel_finder():
             set_scores = match["sport_event_status"]["period_scores"]
             # Iterate through sets in the match
             for set_score in set_scores:                
-                    match_score += str(set_score["home_score"]) + " - " + str(set_score["away_score"]) + " "
+                    match_score += str(set_score["home_score"]) + \
+                    " - " + str(set_score["away_score"]) + " "
 ```
 
 I enjoy this.
@@ -44,5 +45,5 @@ And I've taken a look at earnings on the ATP Tour to understand which players ar
 ![Ranking groups](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/ranking-groups.png)
 Players in the top 20 did, in fact, make bank in 2019. And then weekly earnings drop off a cliff, which is a problem for the lower ranks since it apparently costs around $3k per week just to compete on the tour.
 
-![Pie of earnings](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/ranking-groups.png)
+![Pie of earnings](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/pie-earnings.png)
 In 2019, there was $230,506,600 in total prize money up for grabs. So we're seeing that ATP players in the top 100 captured 78% of that prize money. The other 22% was divided up among 400+ players.
