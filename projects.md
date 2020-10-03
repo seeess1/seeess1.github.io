@@ -6,7 +6,7 @@ layout: default
 
 # Data engineering
 
-Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps like the one above, which is a [COVID-19 tracker](https://covid19.topos.com/) that we built in Spring 2020:
+Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps like the [COVID-19 tracker](https://covid19.topos.com/) we built in Spring 2020:
 
 <a href = "assets/images/cases.gif"><img src="assets/images/cases.gif" alt="COVID-19 Tracker"></a>
 
