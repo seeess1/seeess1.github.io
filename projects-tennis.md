@@ -2,8 +2,7 @@
 layout: default
 ---
 
-![NYC tennis permits](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/geo-viz.png)
-
+<a href = "assets/images/geo-viz.png"><img src="assets/images/geo-viz.png" alt="NYC tennis permits"></a>
 
 # Data + tennis
 
@@ -26,7 +25,7 @@ def score_analyzer():
                     " - " + str(set_score["away_score"]) + " "
 ```
 
-[![Bageled](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/bageled.png)](https://www.bageled.nyc/)
+<a href = "assets/images/bageled.png"><img src="assets/images/bageled.png" alt="bageled.nyc"></a>
 
 Looking forward to working on this project more.
 
@@ -34,7 +33,7 @@ Looking forward to working on this project more.
 
 As part of my non-profit work, I created the map at the top of this page using tennis permit data that I FOIA requested from the NYC Parks Department. And this chart visualizing trends in permit purchases among different age groups:
 
-![Tennis permits age groups](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/permits-age.png)
+<a href = "assets/images/permits-age.png"><img src="assets/images/permits-age.png" alt="Tennis permits age groups"></a>
 
 The point of all of this work is to understand the degree to which tennis is growing in NYC and where. The work is ongoing.
 
@@ -42,12 +41,13 @@ The point of all of this work is to understand the degree to which tennis is gro
 
 And I've taken a look at earnings on the ATP Tour to understand which players are making bank, who's breaking even, and who's in the red (since life on the pro tour is apparently rather expensive). This project involved transforming thousands of pages of PDFs into a table using Python and then some analysis in SQL. Here's what I found out about weekly earnings on the Tour:
 
-![Ranking groups](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/ranking-groups.png)
+<a href = "assets/images/ranking-groups.png"><img src="assets/images/ranking-groups.png" alt="Ranking groups"></a>
+
 Players in the top 20 did, in fact, make bank in 2019. And then weekly earnings drop off a cliff, which is a problem for the lower ranks since it apparently costs around $3k per week just to compete on the tour.
 
 And here's a snapshot of which players took home the most money out of the prize money pot in the same year:
 
-![Pie of earnings](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/pie-earnings.png)
+<a href = "assets/images/pie-earnings.png"><img src="assets/images/pie-earnings.png" alt="Pie of earnings"></a>
 
 In 2019, there was $230,506,600 in total prize money up for grabs. So we're seeing that ATP players in the top 100 captured 78% of that prize money while the other 22% was divided up among 400+ players.
 
