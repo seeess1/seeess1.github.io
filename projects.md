@@ -13,6 +13,8 @@ We made maps to help owners of small retail chains find the best neighborhood to
 
 [![Neighborhoods in Chicago similar to Grant Park in Atlanta](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/atlanta-chicago.png)](https://topos.com/)
 
+<a href = "assets/images/tennis-v4.png"><img src="assets/images/atlanta-chicago.png" alt="Neighborhoods in Chicago similar to Grant Park in Atlanta"></a>
+
 And maps for New Yorkers looking for a place to get a drink outside:
 
 [![NYC cocktail map](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/cocktails-v2.png)](https://cocktails.topos.com/)
