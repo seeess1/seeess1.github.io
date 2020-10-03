@@ -18,7 +18,7 @@ And even maps for New Yorkers looking for [a place to get a drink outside](https
 
 <a href = "assets/images/cocktails-v2.png"><img src="assets/images/cocktails-v2.png" alt="COVID-19 Tracker"></a>
 
-To create these maps and our algorithmic recommendations for retail chains, we worked with all kinds of data: demographic stats from the US Census, business metadata, vehicular traffic counts, restaurant reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
+To make our maps, we worked with all kinds of data: demographic stats from the US Census, business metadata, vehicular traffic counts, restaurant reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
 
 
 
