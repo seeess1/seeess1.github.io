@@ -23,7 +23,7 @@ To create these maps and our algorithmic recommendations for retail chains, we w
 
 # Data analysis
 
-When I wasn't transforming large data sets at Topos, I did my own analysis on topics like the [number of jobs available following the onset of COVID-19](https://twitter.com/topos_ai/status/1258184297732849666). Or looking at communities in the American Southwest that are particularly vulnerable to [public health crises](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb):
+When I wasn't transforming large data sets at Topos, I did my own analysis on topics like [trends in job postings nationwide](https://twitter.com/topos_ai/status/1258184297732849666) following the onset of COVID-19. Or looking at communities in the American Southwest that are particularly vulnerable to [public health crises](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb):
 
 [![COVID-19 cases in the American Southwest](https://github.com/seeess1/seeess1.github.io/raw/master/assets/images/reservations.png)](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb)
 
