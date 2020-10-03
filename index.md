@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="shortcut icon" type="image/x-icon" href="assets/images/icon.ico">
+
 # Projects
 
 I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps. These are [some of my projects](./projects.md).
