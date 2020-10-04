@@ -11,7 +11,7 @@ layout: default
 I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plus the occassional web development - like this website, for example). Take a look at some of my projects [here](./projects.md). 
 <br>
 <br>
-I also happen to be very into tennis and have found ways to combine tennis with data in [a few different ways](./projects-tennis.md).
+I also happen to be very into tennis and have combined tennis with data in [a few different ways](./projects-tennis.md).
 
 # About
 
