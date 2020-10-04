@@ -7,7 +7,7 @@ layout: default
 Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps. 
 <br>
 <br>
-To make our maps, we needed lots of data: demographic stats from the US Census, business metadata, vehicular traffic counts, restaurant reviews, and much more. My job was to collect all the data, clean and transform it, and make it ready to serve as the backbone for our applications. Here are a couple snapshots from Topos projects featuring the data I wrangled:
+To make our maps, we needed lots of data: demographic stats from the Census, business metadata, vehicular traffic counts, restaurant reviews, and much more. My job was to collect all the data, clean and transform it, and make it ready to serve as the backbone for our applications. Here are a couple snapshots from Topos projects featuring the data I wrangled:
 <br>
 <br>
 <h3>COVID-19 Compiler</h3>
@@ -53,6 +53,4 @@ Plus exercises in [streaming big data](https://github.com/seeess1/bigData) and m
 <br>
 # Data + tennis
 
-Every now and then I find a way to combine programming with tennis and I've got a few related projects, including 
-
-If you're interested in my work with data & tennis, there's more of that [in here](./projects-tennis.md).
+Every now and then I find a way to combine programming with my interest and non-profit work in tennis. You can learn mor about those projects [here](./projects-tennis.md).
