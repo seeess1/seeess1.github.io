@@ -29,7 +29,7 @@ And even maps for New Yorkers looking for [a place to get a drink outside](https
 <a href = "assets/images/cocktails-smartphone.png"><img src="assets/images/cocktails-smartphone.png" alt="Cocktails To Go"></a>
 <br>
 <br>
-### Data
+### Data pipelines
 To make our maps, we worked with all kinds of data: demographic stats from the US Census, business metadata, vehicular traffic counts, restaurant reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
 <br>
 <br>
