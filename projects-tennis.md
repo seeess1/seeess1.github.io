@@ -16,7 +16,7 @@ I've also analyzed tennis permit sales by zip code using data I FOIA requested f
 
 <a href = "assets/images/geo-viz.png"><img src="assets/images/geo-viz.png" alt="Map of tennis permit sales"></a>
 
-And this chart visualizing trends in permit purchases among different age groups:
+And visualized trends in permit purchases among different age groups using the same data set from NYC Parks:
 
 <a href = "assets/images/permits-age.png"><img src="assets/images/permits-age.png" alt="Tennis permits age groups"></a>
 
