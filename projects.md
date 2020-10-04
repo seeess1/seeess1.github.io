@@ -20,13 +20,13 @@ It also lets users layer demographic stats (like population, unemployment number
 <a href = "assets/images/layers.gif"><img src="assets/images/layers.gif" alt="Layering stats"></a>
 <br>
 <br>
-### Retail
+## Retail
 We also helped retailers decide how to grow their business by making maps like this one, which finds similar neighborhoods across cities based on machine learning models:
 
 <a href = "assets/images/neighborhoods.gif"><img src="assets/images/neighborhoods.gif" alt="Neighborhoods gif"></a>
 <br>
 <br>
-### Cocktails To Go
+## Cocktails To Go
 And we even made maps for New Yorkers looking for [a place to get a drink outside](https://cocktails.topos.com/):
 
 <a href = "assets/images/cocktails-smartphone.png"><img src="assets/images/cocktails-smartphone.png" alt="Cocktails To Go"></a>
