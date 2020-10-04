@@ -6,11 +6,15 @@ layout: default
 
 # Data engineering
 
-Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps like this [COVID-19 tracker](https://covid19.topos.com/):
+Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps like this [COVID-19 tracker](https://covid19.topos.com/), which lets users explore different ways to measure COVID-19 cases in the US:
 
 <a href = "assets/images/cases.gif"><img src="assets/images/cases.gif" alt="COVID-19 Tracker"></a>
 
-And this map, which finds similar neighborhoods across cities based on machine learning models:
+And then layer demographic stats (like population, unemployment figures, and housing density) on top of case counts to look for correlations:
+
+<a href = "assets/images/layering.gif"><img src="assets/images/layering.gif" alt="Layering stats"></a>
+
+We also helped retailers decide how to grow their business by making maps like this one, which finds similar neighborhoods across cities based on machine learning models:
 
 <a href = "assets/images/atlanta-chicago.png"><img src="assets/images/atlanta-chicago.png" alt="Neighborhoods in Chicago similar to Grant Park in Atlanta"></a>
 
