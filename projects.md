@@ -19,7 +19,7 @@ In Spring 2020 we built a [COVID-19 tracker](https://covid19.topos.com/), which 
 
 And then layer demographic stats (like population, unemployment numbers, and housing density) on top of case counts to look for interesting overlaps:
 
-<a href = "assets/images/layering.gif"><img src="assets/images/layering.gif" alt="Layering stats"></a>
+<a href = "assets/images/layers.gif"><img src="assets/images/layers.gif" alt="Layering stats"></a>
 <br>
 <br>
 ### Retail
