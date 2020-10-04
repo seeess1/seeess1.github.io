@@ -17,4 +17,4 @@ I also happen to be very into tennis and have found ways to combine tennis with 
 
 The short version: I'm an analyst who can also organize teams/projects.
 
-The longer version: Along with data engineering and analysis, I'm also a board member at a non-profit in Brooklyn, where I work with other members of the community to put on events, raise money, and build connections with likeminded groups. I explain more about that and how I got into the data world [here](./story.md).
+The longer version: Along with data engineering and analysis, I'm also a board member at a non-profit in Brooklyn, where I work with other members of the community to put on events, raise money, and build connections with like-minded groups. I explain more about that and how I got into the data world [here](./story.md).
