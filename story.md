@@ -3,7 +3,7 @@ layout: default
 ---
 # Two halves
 
-There's an analyst half of my brain that feels most at home with data and programming. The other half, meanwhile, enjoys working with teams, organizing projects, and putting on events. This is how they work together...
+There's an analyst half of my brain that feels most at home with data and programming. The other half, meanwhile, enjoys working with teams, organizing projects, and putting on events. Here's how the two came about...
 
 ## The analyst half
 
