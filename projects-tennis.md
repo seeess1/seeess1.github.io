@@ -45,7 +45,7 @@ Looking forward to working on this project more.
 
 ### ATP tennis
 
-And I've taken a look at earnings on the ATP Tour to understand which players are making bank, who's breaking even, and who's in the red (since life on the pro tour is apparently rather expensive). This project involved transforming thousands of pages of PDFs into a table using Python and then some analysis in SQL. Here's what I found out about weekly earnings on the Tour:
+I've also  a look at earnings on the ATP Tour to understand which players are making bank, who's breaking even, and who's in the red (since life on the pro tour is apparently rather expensive). This project involved transforming thousands of pages of PDFs into a table using Python and then some analysis in SQL. Here's what I found out about weekly earnings on the Tour:
 
 <a href = "assets/images/ranking-groups.png"><img src="assets/images/ranking-groups.png" alt="Ranking groups"></a>
 
