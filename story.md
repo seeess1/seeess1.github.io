@@ -27,7 +27,7 @@ Since I joined, I've spearheaded a fundraising drive in which we raised $70k and
 (This is the team/project organization side of my brain.)
 <br>
 <br>
-## Some funny backstory
+## A couple other stories
 
 Prior to data analysis and non-profit work, I lived a few different lives: I taught English in China for a year, harvested vegetables on a farm in Vermont for a season, drove a delivery truck for an UWS bakery (the one with the very, very large cookies), and taught tennis on a roof in Chelsea.
 
