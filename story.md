@@ -27,7 +27,7 @@ This is the team/project organization side of my brain.
 <a href = "assets/images/tennis-v4.png"><img src="assets/images/tennis-v4.png" alt="Fort Greene tennis"></a>
 <br>
 <br>
-## Last thing
+## Some funny backstory
 
 Prior to data analysis and non-profit work, I lived a few different lives: I taught English in China for a year, harvested vegetables on a farm in Vermont for a season, drove a delivery truck for an UWS bakery (the one with the very, very large cookies), and taught tennis on a roof in Chelsea.
 
