@@ -15,7 +15,7 @@ In Spring 2020 we built a [COVID-19 tracker](https://covid19.topos.com/), which 
 
 <a href = "assets/images/cases.gif"><img src="assets/images/cases.gif" alt="COVID-19 Tracker"></a>
 
-And then layer demographic stats (like population, unemployment numbers, and housing density) on top of case counts to look for interesting overlaps:
+It also lets users layer demographic stats (like population, unemployment numbers, and housing density) on top of case counts to look for interesting overlaps:
 
 <a href = "assets/images/layers.gif"><img src="assets/images/layers.gif" alt="Layering stats"></a>
 <br>
