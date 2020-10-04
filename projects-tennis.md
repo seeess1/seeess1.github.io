@@ -26,7 +26,7 @@ The point of all of this work is to understand the degree to which tennis is gro
 
 ### Bageled NYC
 
-I'm working with a creative partner on bagel-themed grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). I put together [our website](https://www.bageled.nyc/), which includes a cloud-based Python script for scraping scores from pro tennis matches across the globe:
+I'm working with a creative partner on producing bagel-themed grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). We hhave our product ready and I created [our website](https://www.bageled.nyc/), which includes a cloud-based Python script for scraping scores from pro tennis matches across the globe:
 
 ```python
 def score_analyzer():
