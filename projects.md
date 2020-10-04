@@ -42,7 +42,7 @@ When I wasn't transforming large data sets at Topos, I did my own analysis on to
 <br>
 # Data science
 
-But before Topos, I cut my teeth with data engineering, mapping, and analysis at NYU in an [applied data science program](https://cusp.nyu.edu/). Projects included: 
+And before Topos, I cut my teeth with data engineering, mapping, and analysis at NYU in an [applied data science program](https://cusp.nyu.edu/). Projects included: 
 * [Anomaly detection](https://github.com/seeess1/machineLearning/blob/master/anomalies_traffic_health.ipynb) in traffic data
 * Analyzing the relationship between [bars and 311 complaints](https://github.com/seeess1/publicDrunkenness/blob/master/public_drunkenness.ipynb)
 * [Using computer vision](https://github.com/seeess1/pedestrian_cv) to count pedestrians at an intersection on campus:
