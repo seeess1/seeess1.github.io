@@ -24,7 +24,7 @@ We also helped retailers decide how to grow their business by making maps like t
 <br>
 <br>
 ### Cocktails To Go
-And even maps for New Yorkers looking for [a place to get a drink outside](https://cocktails.topos.com/):
+And we even made maps for New Yorkers looking for [a place to get a drink outside](https://cocktails.topos.com/):
 
 <a href = "assets/images/cocktails-smartphone.png"><img src="assets/images/cocktails-smartphone.png" alt="Cocktails To Go"></a>
 <br>
