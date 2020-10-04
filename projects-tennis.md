@@ -60,7 +60,7 @@ Pictured above are the weekly earnings for different groups of ranked players. T
 
 <a href = "assets/images/pie-earnings.png"><img src="assets/images/pie-earnings.png" alt="Pie of earnings"></a>
 
-This is a snapshot of which players took home the most money out of the prize money pot in the same year:
-In 2019, there was $230,506,600 in total prize money up for grabs. So we're seeing that ATP players in the top 100 captured 78% of that prize money while the other 22% was divided up among 400+ players.
+This is a snapshot of which players took home the most money out of the pot of total prize money in 2019.
+That year, there was $230,506,600 in total prize money up for grabs. So we're seeing that ATP players in the top 100 captured 78% of that prize money while the other 22% was divided up among 400+ players.
 
 [Reach out](./contact.md) if you've got suggestions or wanna collaborate.
