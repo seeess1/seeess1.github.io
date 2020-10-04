@@ -2,10 +2,7 @@
 layout: default
 ---
 
-<!-- <a href = "assets/images/covid.png"><img src="assets/images/covid.png" alt="COVID-19 Tracker"></a> -->
-
 # Data engineering
-<br>
 <br>
 ### COVID-19 Compiler
 
