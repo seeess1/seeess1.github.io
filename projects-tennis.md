@@ -48,7 +48,7 @@ I'm looking forward to working on this project more.
 
 ## ATP tennis
 
-I'm also generally curious to know more about life on the ATP tour, especially when it comes to the financial side of that lifestyle. So to figure out which players are making bank, who's breaking even, and who's in the red, I found prize money data from 2019 in PDF format, transformed thousands of those PDF pages into a table using Python, and analyzed the data using SQL. Here's what I found out about weekly earnings on the Tour:
+I'm also generally curious to know more about life on the ATP tour, especially when it comes to the financial side of that lifestyle. So to figure out which players are making bank, who's breaking even, and who's in the red, I found prize money data from 2019 in PDF format, transformed thousands of those PDF pages into a table using Python, and analyzed the data using SQL. Here are a couple early findings:
 
 ### Weekly earnings
 
