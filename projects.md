@@ -16,8 +16,6 @@ And then layer demographic stats (like population, unemployment numbers, and hou
 
 We also helped retailers decide how to grow their business by making maps like this one, which finds similar neighborhoods across cities based on machine learning models:
 
-<a href = "assets/images/atlanta-chicago.png"><img src="assets/images/atlanta-chicago.png" alt="Neighborhoods in Chicago similar to Grant Park in Atlanta"></a>
-
 <a href = "assets/images/neighborhoods.gif"><img src="assets/images/neighborhoods.gif" alt="Neighborhoods gif"></a>
 
 And even maps for New Yorkers looking for [a place to get a drink outside](https://cocktails.topos.com/):
