@@ -1,13 +1,11 @@
 ---
 layout: default
 ---
+# Two halves
 
-## tl;dr
+There's an analyst half of my brain that feels at home with data and programming. And the other half enjoys working with teams, organizing projects, and meeting larger goals. This is how they work together...
 
-I'm an analyst who can also organize teams/projects.
-<br>
-<br>
-## The analyst part
+## The analyst half
 
 Between 2013 and 2018, my career revolved around analyzing qualitative data in the legal-investigative world. I started out as an analyst at the [Manhattan DA's Office](https://www.manhattanda.org/district-attorney-vance-announces-expansion-anti-corruption-unit/) investigating city officials suspected of criminal activity. Then I moved over to the private sector as an investigator for a small [PI firm](https://www.questinvestigates.com/) where we did background checks, interviewed witnesses, and read lots of court cases. Finally, I moved back to the public sector as an auditor for the [NYC Campaign Finance Board](https://www.nyccfb.info/).
 
@@ -18,9 +16,9 @@ Our program focused on the intersection between urban planning and open data (ak
 In sum, I'm an analyst who likes data of all kinds and that's what's been tugging me along this path over the past 7 years.
 <br>
 <br>
-## The organizational part
+## The organizational half
 
-Since 2015, I've helped run a non-profit in Brooklyn called the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), which (you guessed it) manages all things tennis at Fort Greene Park in Brooklyn, NY. We've done things like raise $70k to resurface the courts in 2019, put on events for hundreds of people, manage a mailing list of 1k+ rabid tennis fans, plus some [data analysis](./projects-tennis.md).
+I've played tennis all my life and have been playing in Brooklyn at Fort Greene Park since 2012. In 2015, I became a board member at a non-profit called the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), which (you guessed it) manages all things tennis at Fort Greene Park. We've done things like raise $70k to resurface the courts in 2019, put on events for hundreds of people, manage a mailing list of 1k+ rabid tennis fans, plus some [data analysis](./projects-tennis.md).
 
 This is the team/project organization side of my brain.
 
