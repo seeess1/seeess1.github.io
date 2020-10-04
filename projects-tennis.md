@@ -6,7 +6,7 @@ layout: default
 
 I've come up with self-directed projects combining tennis and data to help with my work as a board member at the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), as part of an entrpreneurial project my friend and I started, and just for fun. 
 
-### FGTA and NYC Tennis
+## FGTA and NYC Tennis
 
 Data is playing a bigger role at the Fort Greene Tennis Association than ever before and I've spearheaded several related projects. 
 <br>
@@ -25,7 +25,7 @@ And visualized trends in permit purchases among different age groups using the s
 
 The point of all of this work is to understand the degree to which tennis is growing in NYC and to help meet the demand for tennis in the City (which is on the rise). The work is ongoing...
 
-### Bageled NYC
+## Bageled NYC
 
 I'm working with a creative partner on producing bagel-themed grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). We hhave our product ready and I created [our website](https://www.bageled.nyc/), which includes a cloud-based Python script for scraping scores from pro tennis matches across the globe:
 
@@ -46,18 +46,21 @@ def score_analyzer():
 
 Looking forward to working on this project more.
 
-### ATP tennis
+## ATP tennis
 
-I'm also generally curious about  a look at earnings on the ATP Tour to understand which players are making bank, who's breaking even, and who's in the red (since life on the pro tour is apparently rather expensive). This project involved transforming thousands of pages of PDFs into a table using Python and then some analysis in SQL. Here's what I found out about weekly earnings on the Tour:
+I'm also generally curious to know more about life on the ATP tour, especially when it comes to the financial aspect of that lifestyle. So to figure out which players are making bank, who's breaking even, and who's in the red, I found prize money data from 2019, transformed thousands of pages of PDFs into a table using Python, and used SQL for my analysis. Here's what I found out about weekly earnings on the Tour:
+
+### Weekly earnings
 
 <a href = "assets/images/ranking-groups.png"><img src="assets/images/ranking-groups.png" alt="Ranking groups"></a>
 
-Players in the top 20 did, in fact, make bank in 2019. And then weekly earnings drop off a cliff, which is a problem for the lower ranks since it apparently costs around $3k per week just to compete on the tour.
+Pictured above are the weekly earnings for different groups of ranked players. The analysis shows that players in the top 20 did, in fact, make bank in 2019. But then weekly earnings drop off a cliff, which is a problem for the lower ranks since it apparently costs around $3k per week just to compete on the tour.
 
-And here's a snapshot of which players took home the most money out of the prize money pot in the same year:
+### Total prize money pot
 
 <a href = "assets/images/pie-earnings.png"><img src="assets/images/pie-earnings.png" alt="Pie of earnings"></a>
 
+This is a snapshot of which players took home the most money out of the prize money pot in the same year:
 In 2019, there was $230,506,600 in total prize money up for grabs. So we're seeing that ATP players in the top 100 captured 78% of that prize money while the other 22% was divided up among 400+ players.
 
 [Reach out](./contact.md) if you've got suggestions or wanna collaborate.
