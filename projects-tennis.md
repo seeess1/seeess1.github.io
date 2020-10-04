@@ -24,7 +24,8 @@ And visualized trends in permit purchases among different age groups using the s
 <a href = "assets/images/permits-age.png"><img src="assets/images/permits-age.png" alt="Tennis permits age groups"></a>
 
 The point of all of this work is to understand the degree to which tennis is growing in NYC and to help meet the demand for tennis in the City (which is on the rise). The work is ongoing...
-
+<br>
+<br>
 ## Bageled NYC
 
 I'm working with a creative partner on producing bagel-themed grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). To showcase our product, I created [our website](https://www.bageled.nyc/), which includes a cloud-based Python script for scraping scores from pro tennis matches across the globe:
@@ -45,7 +46,8 @@ def score_analyzer():
 <a href = "assets/images/bageled.png"><img src="assets/images/bageled.png" alt="bageled.nyc"></a>
 
 I'm looking forward to working on this project more.
-
+<br>
+<br>
 ## ATP tennis
 
 I'm also generally curious to know more about life on the ATP tour, especially when it comes to the financial side of that lifestyle. So to figure out which players are making bank, who's breaking even, and who's in the red, I found prize money data from 2019 in PDF format, transformed thousands of those PDF pages into a table using Python, and analyzed the data using SQL. Here are a couple early findings:
