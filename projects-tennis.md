@@ -8,7 +8,7 @@ layout: default
 
 I've done side projects combining tennis and data for fun and to help out with our non-profit work at the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/). 
 
-## Fun
+## Bageled NYC
 
 My friend Michael and I created bagel-themed grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). I put together [our website](https://www.bageled.nyc/), which includes a cloud-based Python script for scraping scores from pro tennis matches across the globe:
 

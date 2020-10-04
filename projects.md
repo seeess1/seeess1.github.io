@@ -4,7 +4,12 @@ layout: default
 
 <h1>Data engineering</h1>
 
-Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps. Here are a few of our projects:
+Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps. 
+
+# Revise
+To make our maps, we worked with all kinds of data: demographic stats from the US Census, business metadata, vehicular traffic counts, restaurant reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
+
+Here are a few of our projects:
 <br>
 <br>
 <h3>COVID-19 Compiler</h3>
@@ -29,20 +34,16 @@ And we even made maps for New Yorkers looking for [a place to get a drink outsid
 <a href = "assets/images/cocktails-smartphone.png"><img src="assets/images/cocktails-smartphone.png" alt="Cocktails To Go"></a>
 <br>
 <br>
-### Data pipelines
-To make our maps, we worked with all kinds of data: demographic stats from the US Census, business metadata, vehicular traffic counts, restaurant reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
-<br>
-<br>
 # Data analysis
 
-When I wasn't transforming large data sets at Topos, I did my own analysis on topics like [trends in job postings nationwide](https://twitter.com/topos_ai/status/1258184297732849666) following the onset of COVID-19. Or looking at communities in the American Southwest that are particularly vulnerable to [public health crises](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb):
+When I wasn't transforming large data sets, I did my own analysis for Topos on topics like [trends in job postings nationwide](https://twitter.com/topos_ai/status/1258184297732849666) following the onset of COVID-19. Or looking at communities in the American Southwest that are particularly vulnerable to [public health crises](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb):
 
 <a href = "assets/images/reservations.png"><img src="assets/images/reservations.png" alt="COVID-19 cases in the American Southwest"></a>
 <br>
 <br>
 # Data science
 
-And before Topos, I cut my teeth with data engineering, mapping, and analysis at NYU in an [applied data science program](https://cusp.nyu.edu/). Projects included: 
+And before joining Topos, I cut my teeth with data engineering, mapping, and analysis at NYU in an [applied data science program](https://cusp.nyu.edu/). My projects included: 
 * [Anomaly detection](https://github.com/seeess1/machineLearning/blob/master/anomalies_traffic_health.ipynb) in traffic data
 * Analyzing the relationship between [bars and 311 complaints](https://github.com/seeess1/publicDrunkenness/blob/master/public_drunkenness.ipynb)
 * [Using computer vision](https://github.com/seeess1/pedestrian_cv) to count pedestrians at an intersection on campus:
@@ -52,6 +53,8 @@ And before Topos, I cut my teeth with data engineering, mapping, and analysis at
 Plus exercises in [streaming big data](https://github.com/seeess1/bigData) and more [machine learning](https://github.com/seeess1/machineLearning).
 <br>
 <br>
-# One more thing
+# Data + tennis
 
-Every now and then I find a way to combine programming with tennis and I've got a few related projects, including [this website I created](https://www.bageled.nyc/) and this [map of tennis and handball courts in NYC](http://www.fortgreenetennis.org/nyc-courts). If you're interested in my work with data & tennis, there's more of that [in here](./projects-tennis.md).
+Every now and then I find a way to combine programming with tennis and I've got a few related projects, including 
+
+If you're interested in my work with data & tennis, there's more of that [in here](./projects-tennis.md).

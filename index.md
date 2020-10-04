@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<link rel="shortcut icon" type="image/x-icon" href="assets/images/icon.ico">
+<!-- <link rel="shortcut icon" type="image/x-icon" href="assets/images/icon.ico"> -->
+
+<a href = "assets/images/cases.gif"><img src="assets/images/cases.gif" alt="COVID-19 Tracker"></a>
 
 # Projects
 
