@@ -5,7 +5,8 @@ layout: default
 <!-- <a href = "assets/images/covid.png"><img src="assets/images/covid.png" alt="COVID-19 Tracker"></a> -->
 
 # Data engineering
-
+<br>
+<br>
 ### COVID-19 Compiler
 
 Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps like this [COVID-19 tracker](https://covid19.topos.com/), which lets users explore different ways to measure COVID-19 cases in the US:
