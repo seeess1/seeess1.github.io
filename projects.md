@@ -5,11 +5,8 @@ layout: default
 <h1>Data engineering</h1>
 
 Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps. 
-
-# Revise
-To make our maps, we worked with all kinds of data: demographic stats from the US Census, business metadata, vehicular traffic counts, restaurant reviews, and a lot more. My job as a data engineer was to collect all the data, clean it, and generate new metrics for our data science and front end teams.
-
-Here are a few of our projects:
+<br>
+To make our maps, we needed lots of data: demographic stats from the US Census, business metadata, vehicular traffic counts, restaurant reviews, and much more. My job was to collect all the data, clean and transform it, and make sure it was ready to serve as the backbone for our applications. Here are a couple snapshots of projects featuring data I wrangled:
 <br>
 <br>
 <h3>COVID-19 Compiler</h3>
