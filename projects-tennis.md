@@ -6,11 +6,23 @@ layout: default
 
 # Data + tennis
 
-I've done side projects combining tennis and data for fun and to help out with our non-profit work at the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/). 
+I've done side projects combining tennis and data as part of my work as a board member at the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/) and for fun. 
 
-## Bageled NYC
+### NYC Tennis
 
-My friend Michael and I created bagel-themed grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). I put together [our website](https://www.bageled.nyc/), which includes a cloud-based Python script for scraping scores from pro tennis matches across the globe:
+I've come up with self-directed projects during my time at the Fort Greene Tennis Association, including this map of tennis permit sales by NYC zip code (using data I FOIA requested from the NYC Parks Department):
+
+<a href = "assets/images/geo-viz.png"><img src="assets/images/geo-viz.png" alt="Map of tennis permit sales"></a>
+
+And this chart visualizing trends in permit purchases among different age groups:
+
+<a href = "assets/images/permits-age.png"><img src="assets/images/permits-age.png" alt="Tennis permits age groups"></a>
+
+The point of all of this work is to understand the degree to which tennis is growing in NYC and where. The work is ongoing.
+
+### Bageled NYC
+
+I'm working with a creative partner on bagel-themed grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). I put together [our website](https://www.bageled.nyc/), which includes a cloud-based Python script for scraping scores from pro tennis matches across the globe:
 
 ```python
 def score_analyzer():
@@ -29,15 +41,7 @@ def score_analyzer():
 
 Looking forward to working on this project more.
 
-## NYC tennis
-
-As part of my non-profit work, I created the map at the top of this page using tennis permit data that I FOIA requested from the NYC Parks Department. And this chart visualizing trends in permit purchases among different age groups:
-
-<a href = "assets/images/permits-age.png"><img src="assets/images/permits-age.png" alt="Tennis permits age groups"></a>
-
-The point of all of this work is to understand the degree to which tennis is growing in NYC and where. The work is ongoing.
-
-## ATP tennis
+### ATP tennis
 
 And I've taken a look at earnings on the ATP Tour to understand which players are making bank, who's breaking even, and who's in the red (since life on the pro tour is apparently rather expensive). This project involved transforming thousands of pages of PDFs into a table using Python and then some analysis in SQL. Here's what I found out about weekly earnings on the Tour:
 
