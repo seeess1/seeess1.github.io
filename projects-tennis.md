@@ -8,7 +8,7 @@ I've come up with self-directed projects combining tennis and data to help with 
 
 ### FGTA and NYC Tennis
 
-Data is playing a bigger role at the Fort Greene Tennis Association than ever before and I've spearheaded several related projects. To help people find places to play racket sports in NYC, I collected data with the location of every handball wall and public tennis court in NYC and used Python to clean it and geocode the addresses. [this map](http://www.fortgreenetennis.org/nyc-courts) :
+Data is playing a bigger role at the Fort Greene Tennis Association than ever before and I've spearheaded several related projects. To help people find places to play racket sports in NYC, I collected data with the location of every [handball wall and public tennis court](http://www.fortgreenetennis.org/nyc-courts) in NYC and used Python to clean it and geocode the addresses:
 
 <a href = "assets/images/tennis-map.gif"><img src="assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
 
@@ -45,7 +45,7 @@ Looking forward to working on this project more.
 
 ### ATP tennis
 
-I've also  a look at earnings on the ATP Tour to understand which players are making bank, who's breaking even, and who's in the red (since life on the pro tour is apparently rather expensive). This project involved transforming thousands of pages of PDFs into a table using Python and then some analysis in SQL. Here's what I found out about weekly earnings on the Tour:
+I'm also generally curious about  a look at earnings on the ATP Tour to understand which players are making bank, who's breaking even, and who's in the red (since life on the pro tour is apparently rather expensive). This project involved transforming thousands of pages of PDFs into a table using Python and then some analysis in SQL. Here's what I found out about weekly earnings on the Tour:
 
 <a href = "assets/images/ranking-groups.png"><img src="assets/images/ranking-groups.png" alt="Ranking groups"></a>
 
