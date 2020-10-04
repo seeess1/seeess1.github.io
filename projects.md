@@ -53,4 +53,4 @@ Plus exercises in [streaming big data](https://github.com/seeess1/bigData) and m
 <br>
 # Data + tennis
 
-Every now and then I find a way to combine programming with my interest and non-profit work in tennis. You can learn mor about those projects [here](./projects-tennis.md).
+I also look for ways to combine programming with my non-profit work and general interest in tennis. You can learn more about those projects [here](./projects-tennis.md).

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<a href = "assets/images/geo-viz.png"><img src="assets/images/geo-viz.png" alt="NYC tennis permits"></a>
+<a href = "assets/images/tennis-map.gif"><img src="assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
 
 # Data + tennis
 
