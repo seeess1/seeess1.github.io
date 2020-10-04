@@ -10,7 +10,7 @@ I've come up with self-directed projects combining tennis and data to help with 
 
 ### FGTA and NYC Tennis
 
-Data is playing a bigger role at the Fort Greene Tennis Association and I've spearheaded several related projects. To help people find places to play racket sports in NYC, I created the map above (using open data and some Python scripting to clean and geocode addresses), which shows every handball wall and public tennis court in NYC.
+Data is playing a bigger role at the Fort Greene Tennis Association than ever before and I've spearheaded several related projects. To help people find places to play racket sports in NYC, I created the map above (using open data and some Python scripting to clean and geocode addresses), which shows every handball wall and public tennis court in NYC.
 
 I've also analyzed tennis permit sales by NYC zip code using data I FOIA requested from the NYC Parks Department:
 
