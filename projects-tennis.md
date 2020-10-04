@@ -20,7 +20,7 @@ And this chart visualizing trends in permit purchases among different age groups
 
 <a href = "assets/images/permits-age.png"><img src="assets/images/permits-age.png" alt="Tennis permits age groups"></a>
 
-The point of all of this work is to understand the degree to which tennis is growing in NYC and where. The work is ongoing.
+The point of all of this work is to understand the degree to which tennis is growing in NYC and to help meet the demand for tennis in the City. The work is ongoing...
 
 ### Bageled NYC
 
