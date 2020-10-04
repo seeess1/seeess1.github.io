@@ -10,7 +10,7 @@ Up until September 2020, I was a data engineer at a Brooklyn-based startup calle
 To make our maps, we needed lots of data: demographic stats from the Census, business metadata, vehicular traffic counts, restaurant reviews, and much more. My job was to collect all the data, clean and transform it, and make it ready to serve as the backbone for our applications. Here are a couple snapshots from Topos projects featuring the data I wrangled:
 <br>
 <br>
-<h3>COVID-19 Compiler</h3>
+<h2>COVID-19 Compiler</h2>
 In Spring 2020 we built a [COVID-19 tracker](https://covid19.topos.com/), which lets users explore different ways to measure COVID-19 cases in the US:
 
 <a href = "assets/images/cases.gif"><img src="assets/images/cases.gif" alt="COVID-19 Tracker"></a>
