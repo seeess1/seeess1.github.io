@@ -11,8 +11,10 @@ layout: default
 I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plus the occassional web development - like this website, for example). [These are some of my projects](./projects.md). 
 <br>
 <br>
-I'm also a tennis player and community organizer and have found ways to combine tennis & data. More on those projects [here](./projects-tennis.md).
+I also happen to be very into tennis and have found ways to combine tennis with data in [a few different ways](./projects-tennis.md).
 
 # About
 
-Like I said, I'm a big tennis fan. I'm also a board member at a non-profit where we manage the public tennis courts at Fort Greene Park in Brooklyn, NY. I explain that plus all the other non-code stuff [here](./story.md).
+The short version: I'm an analyst who can also organize teams/projects.
+
+The longer version: Along with data engineering and analysis, I'm also a board member at a non-profit in Brooklyn. I explain more about that and how I got into the data world [here](./story.md).
