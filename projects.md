@@ -6,7 +6,7 @@ layout: default
 
 # Data engineering
 
-## COVID-19 Compiler
+### COVID-19 Compiler
 
 Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps like this [COVID-19 tracker](https://covid19.topos.com/), which lets users explore different ways to measure COVID-19 cases in the US:
 
@@ -17,13 +17,13 @@ And then layer demographic stats (like population, unemployment numbers, and hou
 <a href = "assets/images/layering.gif"><img src="assets/images/layering.gif" alt="Layering stats"></a>
 <br>
 <br>
-## Retail
+### Retail
 We also helped retailers decide how to grow their business by making maps like this one, which finds similar neighborhoods across cities based on machine learning models:
 
 <a href = "assets/images/neighborhoods.gif"><img src="assets/images/neighborhoods.gif" alt="Neighborhoods gif"></a>
 <br>
 <br>
-## Cocktails To Go
+### Cocktails To Go
 And even maps for New Yorkers looking for [a place to get a drink outside](https://cocktails.topos.com/):
 
 <a href = "assets/images/cocktails-smartphone.png"><img src="assets/images/cocktails-smartphone.png" alt="Cocktails To Go"></a>
