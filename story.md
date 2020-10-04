@@ -12,18 +12,20 @@ Between 2013 and 2018, my career revolved around analyzing qualitative data in t
 
 During that last one (auditing), I started to make the switch from qualitative to quantitative analysis. In my spare time, I learned basic Python and SQL until I decided to get serious and go full time. So I enrolled in an applied data science masters program at [NYU](https://cusp.nyu.edu/) in the summer of 2018. 
 
-Our program focused on the intersection between urban planning and open data (aka how can we use data to understand/improve cities?), which helped me transition to [Topos](https://topos.com/), a Brooklyn-based startup that used data to understand cities and share our insights with retail chains looking to expand. I was a data engineer at Topos and you can find out more about my work for them at [this link](./projects.md).
+Our program focused on the intersection between urban planning and open data (aka how can we use data to understand/improve cities?), which helped me transition to [Topos](https://topos.com/), a Brooklyn-based startup that used data to understand cities and share our insights with retail chains looking to expand. I was a data engineer at Topos and you can find out more about my work with them at [this link](./projects.md).
 
 In sum, I'm an analyst who likes data of all kinds and that's what's been tugging me along this path over the past 7 years.
-
+<br>
+<br>
 ## The organizational part
 
-Since 2015, I've been helping to run a non-profit in Brooklyn called the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), which (you guessed it) manages all things tennis at Fort Greene Park in Brooklyn, NY. We've done things like raise $70k to resurface the courts in 2019, put on events for hundreds of people, manage a mailing list of 1k+ rabid tennis fans, plus I do the occasional [data analysis](./projects-tennis.md).
+Since 2015, I've helped run a non-profit in Brooklyn called the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), which (you guessed it) manages all things tennis at Fort Greene Park in Brooklyn, NY. We've done things like raise $70k to resurface the courts in 2019, put on events for hundreds of people, manage a mailing list of 1k+ rabid tennis fans, plus some [data analysis](./projects-tennis.md).
 
 This is the team/project organization side of my brain.
 
 <a href = "assets/images/tennis-v4.png"><img src="assets/images/tennis-v4.png" alt="Fort Greene tennis"></a>
-
+<br>
+<br>
 ## Last thing
 
 Prior to data analysis and non-profit work, I lived a few different lives: I taught English in China for a year, harvested vegetables on a farm in Vermont for a season, drove a delivery truck for an UWS bakery (the one with the very, very large cookies), and taught tennis on a roof in Chelsea.
