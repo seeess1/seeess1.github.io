@@ -15,4 +15,4 @@ I'm also a tennis player and community organizer and have found ways to combine 
 
 # About
 
-Like I said, I'm a big tennis fan and I'm a board member at a non-profit where we manage the public tennis courts at Fort Greene Park in Brooklyn, NY. I explain that plus all the other non-code stuff [here](./story.md).
+Like I said, I'm a big tennis fan. I'm also a board member at a non-profit where we manage the public tennis courts at Fort Greene Park in Brooklyn, NY. I explain that plus all the other non-code stuff [here](./story.md).
