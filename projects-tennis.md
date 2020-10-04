@@ -6,9 +6,9 @@ layout: default
 
 # Data + tennis
 
-I've done side projects combining tennis and data as part of my work as a board member at the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/) and for fun. 
+I've done side projects combining tennis and data as part of my work as a board member at the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), as a product-based side project, and just out of curiosity. 
 
-### NYC Tennis
+### FGTA and NYC Tennis
 
 I've come up with self-directed projects during my time at the Fort Greene Tennis Association, including this map of tennis permit sales by NYC zip code (using data I FOIA requested from the NYC Parks Department):
 
