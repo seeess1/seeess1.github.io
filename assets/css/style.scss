@@ -4,20 +4,20 @@
 @import "{{ site.theme }}";
 * {
   font-family: 'DM Sans';
-  color: #5a2d0c;
-}
-a:link {
   color: #437070;
 }
+a:link {
+  color: #5a2d0c;
+}
 a:visited {
-  color: #305050;
+  color: #2d1606;
 }
 h1 {
-  color: #2d1606;
+  color: #305050;
 }
 h2 {
-  color: #2d1606;
+  color: #305050;
 }
 h3 {
-  color: #2d1606;
+  color: #305050;
 }
