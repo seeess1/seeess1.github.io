@@ -10,7 +10,9 @@ I've done side projects combining tennis and data as part of my work as a board 
 
 ### FGTA and NYC Tennis
 
-I've come up with self-directed projects during my time at the Fort Greene Tennis Association, including this map of tennis permit sales by NYC zip code (using data I FOIA requested from the NYC Parks Department):
+I've come up with self-directed projects involving tennis and data during my time at the Fort Greene Tennis Association. The map above shows all the handball walls and public tennis courts in NYC, which I downloaded from NYC Open Data and prepared for mapping.
+
+I've also analyzed tennis permit sales by NYC zip code using data I FOIA requested from the NYC Parks Department:
 
 <a href = "assets/images/geo-viz.png"><img src="assets/images/geo-viz.png" alt="Map of tennis permit sales"></a>
 
