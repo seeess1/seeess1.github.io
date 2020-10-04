@@ -5,7 +5,8 @@ layout: default
 ## tl;dr
 
 I'm an analyst who can also organize teams/projects.
-
+<br>
+<br>
 ## The analyst part
 
 Between 2013 and 2018, my career revolved around analyzing qualitative data in the legal-investigative world. I started out as an analyst at the [Manhattan DA's Office](https://www.manhattanda.org/district-attorney-vance-announces-expansion-anti-corruption-unit/) investigating city officials suspected of criminal activity. Then I moved over to the private sector as an investigator for a small [PI firm](https://www.questinvestigates.com/) where we did background checks, interviewed witnesses, and read lots of court cases. Finally, I moved back to the public sector as an auditor for the [NYC Campaign Finance Board](https://www.nyccfb.info/).
