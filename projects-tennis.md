@@ -44,7 +44,7 @@ def score_analyzer():
 
 <a href = "assets/images/bageled.png"><img src="assets/images/bageled.png" alt="bageled.nyc"></a>
 
-Looking forward to working on this project more.
+I'm looking forward to working on this project more.
 
 ## ATP tennis
 
