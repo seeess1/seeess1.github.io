@@ -4,7 +4,6 @@
 @import "{{ site.theme }}";
 * {
   font-family: 'DM Sans';
-  font-size: 20px;
   color: #305050;
 }
 a:link {
@@ -26,4 +25,7 @@ h2 {
 h3 {
   color: #1d3030;
   font-weight: bold;
+}
+body {
+ font-size: 20px;
 }
