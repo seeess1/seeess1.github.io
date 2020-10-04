@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>Data engineering</h1><br>
+<h1>Data engineering</h1>
 <h3>COVID-19 Compiler</h3>
 
 Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps like this [COVID-19 tracker](https://covid19.topos.com/), which lets users explore different ways to measure COVID-19 cases in the US:
