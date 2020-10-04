@@ -8,7 +8,7 @@ layout: default
 
 # Projects
 
-I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plus the occassional web development - like this website, for example). These are [some of my projects](./projects.md).
+I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plus the occassional web development - like this website, for example). [These are some of my projects](./projects.md).
 
 # About
 
