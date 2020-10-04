@@ -10,7 +10,7 @@ Up until September 2020, I was a data engineer at a Brooklyn-based startup calle
 
 <a href = "assets/images/cases.gif"><img src="assets/images/cases.gif" alt="COVID-19 Tracker"></a>
 
-And then layer demographic stats (like population, unemployment figures, and housing density) on top of case counts to look for correlations:
+And then layer demographic stats (like population, unemployment numbers, and housing density) on top of case counts to look for correlations:
 
 <a href = "assets/images/layering.gif"><img src="assets/images/layering.gif" alt="Layering stats"></a>
 
