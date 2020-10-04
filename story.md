@@ -22,9 +22,9 @@ I've played tennis all my life and have been playing in Brooklyn at Fort Greene 
 
 Since I joined, I've spearheaded a fundraising drive in which we raised $70k and resurfaced 6 tennis courts in 2019, [collected and analyzed data](./projects-tennis.md), and helped to put on events for hundreds of people.
 
-This is the team/project organization side of my brain.
-
 <a href = "assets/images/tennis-v4.png"><img src="assets/images/tennis-v4.png" alt="Fort Greene tennis"></a>
+
+(This is the team/project organization side of my brain.)
 <br>
 <br>
 ## Some funny backstory
