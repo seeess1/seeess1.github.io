@@ -12,7 +12,7 @@ Data is playing a bigger role at the Fort Greene Tennis Association than ever be
 
 <a href = "assets/images/tennis-map.gif"><img src="assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
 
-I've also analyzed tennis permit sales by NYC zip code using data I FOIA requested from the NYC Parks Department:
+I've also analyzed tennis permit sales by zip code using data I FOIA requested from the NYC Parks Department:
 
 <a href = "assets/images/geo-viz.png"><img src="assets/images/geo-viz.png" alt="Map of tennis permit sales"></a>
 
