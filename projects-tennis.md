@@ -6,7 +6,7 @@ layout: default
 
 # Data + tennis
 
-I've done side projects combining tennis and data as part of my work as a board member at the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), as a product-based side project, and just out of curiosity. 
+I've done side projects combining tennis and data to help with my work as a board member at the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), as part of an entrpreneurial project my friend and I started, and just for fun. 
 
 ### FGTA and NYC Tennis
 
