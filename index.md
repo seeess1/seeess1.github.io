@@ -4,7 +4,7 @@ layout: default
 
 <!-- <link rel="shortcut icon" type="image/x-icon" href="assets/images/icon.ico"> -->
 
-<a href = "assets/images/covid-map.gif"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
+<a href = "./projects.md"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
 
 # Projects
 
