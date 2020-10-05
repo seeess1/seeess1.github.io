@@ -3,7 +3,7 @@ layout: default
 ---
 <h1>Intro</h1>
 
-I live in Brooklyn, NY and I'm a data engineer (half 1) who can also organize teams and projects (half 2).
+I live in Brooklyn, NY and I'm a data engineer (the first half of my brain) who can also organize teams and projects (the second half).
 <br>
 <br>
 <h2>The first half</h2>
