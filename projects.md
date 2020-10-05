@@ -7,7 +7,7 @@ layout: default
 Up until September 2020, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps. 
 <br>
 <br>
-To make our maps, we needed lots of data: demographic stats from the Census, business metadata, vehicular traffic counts, restaurant reviews, and much more. My job was to collect all the data, clean and transform it, and make it ready to serve as the backbone for our applications. Here are a couple snapshots from Topos projects featuring the data I wrangled:
+To make our maps, we needed lots of data: demographic stats from the Census, business metadata, vehicular traffic counts, restaurant reviews, and much more. The data I collected, cleaned, and transformed served as the backbone for our applications, including...
 <br>
 <br>
 <h2>COVID-19 Compiler</h2>
@@ -21,12 +21,14 @@ It also lets users layer demographic stats (like population, unemployment number
 <br>
 <br>
 ## Retail
-We also helped retailers decide how to grow their business by making maps like this one, which finds similar neighborhoods across cities based on machine learning models:
+
+We helped retailers decide how to grow their business by making maps like this one, which finds similar neighborhoods across cities based on machine learning models:
 
 <a href = "assets/images/neighborhoods.gif"><img src="assets/images/neighborhoods.gif" alt="Neighborhoods gif"></a>
 <br>
 <br>
 ## Cocktails To Go
+
 And we even made maps for New Yorkers looking for [a place to get a drink outside](https://cocktails.topos.com/):
 
 <a href = "assets/images/cocktails-smartphone.png"><img src="assets/images/cocktails-smartphone.png" alt="Cocktails To Go"></a>
