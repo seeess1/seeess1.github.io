@@ -4,11 +4,12 @@ layout: default
 
 <!-- <link rel="shortcut icon" type="image/x-icon" href="assets/images/icon.ico"> -->
 
-<a href = "./portfolio-data.html"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
+<a href="./portfolio-data"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
 
 # Projects
 
-I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plus the occassional web development - like this website, for example). Take a look at some of my projects [here](./portfolio-data.md). 
+I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plus the occassional web development - like this website, for example). Take a look at some of my projects <a href="./portfolio-data">here</a>.
+<!-- [here](./portfolio-data.md).  -->
 <br>
 <br>
 I also happen to be very into tennis and have combined tennis with data in [some interesting ways](./portfolio-tennis.md).
