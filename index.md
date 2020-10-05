@@ -6,10 +6,10 @@ layout: default
 
 # Projects
 
-I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plus the occassional web development - like this website, for example). Take a look at some of my projects <a href="./portfolio-data">here</a>.
+I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plus the occassional web development - like this website, for example). Take a look at some of my projects <a href="./projects">here</a>.
 <br>
 <br>
-I also happen to be very into tennis and have combined tennis with data in <a href="./portfolio-tennis">some interesting ways</a>.
+I also happen to be very into tennis and have combined tennis with data in <a href="./data-and-tennis">some interesting ways</a>.
 <br>
 <br>
 # About

@@ -11,7 +11,7 @@ Between 2013 and 2018, I worked in the legal-investigative world as an analyst. 
 
 During that last one (auditing), I started to make the switch from qualitative to quantitative analysis. In my spare time, I learned Python and SQL before deciding to go full time at an applied data science masters program at [NYU](https://cusp.nyu.edu/) in Summer 2018. 
 
-Our program focused on the intersection between urban planning and open data (aka how can we use data to understand/improve cities?), which helped me transition to [Topos](https://topos.com/), a Brooklyn-based startup where we used data to understand cities and shared our insights with retail chains looking to expand. I was a data engineer at Topos and you can find out more about my work with them [here](./portfolio-data.md).
+Our program focused on the intersection between urban planning and open data (aka how can we use data to understand/improve cities?), which helped me transition to [Topos](https://topos.com/), a Brooklyn-based startup where we used data to understand cities and shared our insights with retail chains looking to expand. I was a data engineer at Topos and you can find out more about my work with them <a href="./projects">here</a>.
 
 In sum, I'm an analyst who likes data of all kinds and that's what's been tugging me along this path over the past 7 years.
 <br>
@@ -20,7 +20,7 @@ In sum, I'm an analyst who likes data of all kinds and that's what's been tuggin
 
 I've played tennis all my life and have been playing in Brooklyn at Fort Greene Park since I moved to NYC in 2012. In 2015, I became a board member at a non-profit called the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), which, you guessed it, manages all things tennis at Fort Greene Park. 
 
-Since I became a board member, I've learned how to plan and execute projects while working with a team of volunteers from the community. I've spearheaded a fundraising drive in which we raised $70k and resurfaced all 6 tennis courts in 2019, collected and analyzed data to create [maps and analytical insights](./portfolio-tennis.md), and helped to put on events for hundreds of people.
+Since I became a board member, I've learned how to plan and execute projects while working with a team of volunteers from the community. I've spearheaded a fundraising drive in which we raised $70k and resurfaced all 6 tennis courts in 2019, collected and analyzed data to create <a href="./data-and-tennis">maps and analytical insights</a>, and helped to put on events for hundreds of people.
 
 <a href = "assets/images/tennis-v4.png"><img src="assets/images/tennis-v4.png" alt="Fort Greene tennis"></a>
 <br>
