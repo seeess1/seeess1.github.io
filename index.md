@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<a href="./portfolio-data"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
+<a href="./projects"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
 
 # Projects
 
