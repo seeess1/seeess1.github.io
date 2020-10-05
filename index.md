@@ -8,7 +8,7 @@ I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plu
 
 <a href="./projects"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
 
-My projects include the COVID-19 tracker pictured above <a href="./projects">plus a lot more</a>.
+My projects include the COVID-19 tracker pictured above along with <a href="./projects">more projects in data analysis and data science</a>.
 
 And projects combining data with my long-term, highly committed relationship with tennis:
 
