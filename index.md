@@ -6,15 +6,13 @@ layout: default
 
 I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plus the occassional web development - like this website, for example).
 
-My projects include this COVID-19 tracker along with <a href="./projects">more projects in data analysis and data science</a>.
+Many of <a href="./projects">my projects</a> center around geospatial data, like this COVID-19 tracker:
 
 <a href="./projects"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
 
-And projects combining data with my long-term relationship to tennis:
+And I also <a href="./data-and-tennis">find ways</a> to combine data with my long-term, committed relationship with tennis:
 
 <a href="./data-and-tennis"><img src="assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
-
-More on tennis + data <a href="./data-and-tennis">here</a>.
 <br>
 <br>
 <h1><a href="./bio">About</a></h1>
