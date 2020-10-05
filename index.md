@@ -2,14 +2,15 @@
 layout: default
 ---
 
-<a href="./projects"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
-
 # Projects
 
-I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plus the occassional web development - like this website, for example). Take a look at some of my projects <a href="./projects">here</a>.
+I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plus the occassional web development - like this website, for example). My projects include this COVID-19 tracker <a href="./projects">and more</a>:
+
+<a href="./projects"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
 <br>
 <br>
-I also happen to be very into tennis and have combined tennis with data in <a href="./data-and-tennis">some interesting ways</a>.
+I also happen to be very into tennis and have combined tennis with data in <a href="./data-and-tennis">some interesting ways</a>:
+<a href = "./data-and-tennis"><img src="assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
 <br>
 <br>
 # About
