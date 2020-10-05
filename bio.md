@@ -11,6 +11,8 @@ Between 2013 and 2018, I worked in the legal-investigative world as an analyst. 
 
 During that last one (auditing), I started to make the switch from qualitative to quantitative analysis. In my spare time, I learned Python and SQL before deciding to go full time at an applied data science masters program at [NYU](https://cusp.nyu.edu/) in Summer 2018. 
 
+<a href = "https://cusp.nyu.edu/"><img src="assets/images/cusp.jpeg" alt="Fort Greene tennis"></a>
+
 Our program focused on the intersection between urban planning and open data (aka how can we use data to understand/improve cities?), which helped me transition to [Topos](https://topos.com/), a Brooklyn-based startup where we used data to understand cities and shared our insights with retail chains looking to expand. I was a data engineer at Topos and you can find out more about my work with them <a href="./projects">here</a>.
 
 In sum, I'm an analyst who likes data of all kinds and that's what's been tugging me along this path over the past 7 years.
