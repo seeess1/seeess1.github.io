@@ -20,7 +20,7 @@ In sum, I'm an analyst who likes data of all kinds and that's what's been tuggin
 
 I've played tennis all my life and have been playing in Brooklyn at Fort Greene Park since I moved to NYC in 2012. In 2015, I became a board member at a non-profit called the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), which, you guessed it, manages all things tennis at Fort Greene Park. 
 
-Since I joined, I've learned how to plan and execute projects while working with a team of volunteers from the community. I've spearheaded a fundraising drive in which we raised $70k and resurfaced all 6 tennis courts in 2019, collected and analyzed data to create [maps and analytical insights](./projects-tennis.md), and helped to put on events for hundreds of people.
+Since I became a board member, I've learned how to plan and execute projects while working with a team of volunteers from the community. I've spearheaded a fundraising drive in which we raised $70k and resurfaced all 6 tennis courts in 2019, collected and analyzed data to create [maps and analytical insights](./projects-tennis.md), and helped to put on events for hundreds of people.
 
 <a href = "assets/images/tennis-v4.png"><img src="assets/images/tennis-v4.png" alt="Fort Greene tennis"></a>
 <br>
