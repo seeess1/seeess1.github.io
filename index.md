@@ -3,10 +3,10 @@ layout: default
 ---
 <h1>Intro</h1>
 
-I live in Brooklyn, NY and I'm a data engineer (the first half of my brain) who can also organize teams and projects (the second half).
+I live in Brooklyn, NY and I'm a data engineer (one half of my brain) who can also organize teams and projects (the other half).
 <br>
 <br>
-<h2>The first half</h2>
+<h2>The data half</h2>
 
 I like Python, SQL, and maps (plus the occassional web development - like this website, for example).
 
@@ -24,6 +24,6 @@ But I'm also in a long-term, committed relationship with tennis and I've <a href
 <a href="./data-and-tennis"><img src="assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
 <br>
 <br>
-<h2>The second half</h2>
+<h2>The other half</h2>
 
 Along with data engineering and analysis, I'm also a board member at a non-profit in Brooklyn, where I work with other members of the community to put on events, raise money, and build connections with like-minded groups. I explain the two halves in more detail <a href="./bio">here</a>.
