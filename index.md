@@ -4,7 +4,7 @@ layout: default
 
 <h1><a href="./projects">Projects</a></h1>
 
-I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plus the occassional web development - like this website, for example):
+I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plus the occassional web development - like this website, for example).
 
 <a href="./projects"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
 
@@ -12,7 +12,7 @@ My projects include the COVID-19 tracker pictured above <a href="./projects">plu
 
 And projects combining data with my long-term, highly committed relationship with tennis:
 
-<a href = "./data-and-tennis"><img src="assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
+<a href="./data-and-tennis"><img src="assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
 
 More on tennis + data <a href="./data-and-tennis">here</a>.
 <br>
