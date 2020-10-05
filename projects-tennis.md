@@ -7,7 +7,7 @@ layout: default
 I've come up with self-directed projects combining tennis and data to help with my work as a board member at the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), as part of an entrpreneurial project my friend and I started, and out of general curiosity. 
 <br>
 <br>
-## FGTA and NYC Tennis
+## FGTA and NYC tennis
 
 Data is playing a bigger role at the Fort Greene Tennis Association than ever before and I've spearheaded several related projects. 
 <br>
