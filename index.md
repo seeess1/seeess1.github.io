@@ -2,16 +2,20 @@
 layout: default
 ---
 
-<h1><a href="./projects">Projects</a></h1>
+<h1>Projects</h1>
 
 I'm a data engineer living in Brooklyn, NY and I like Python, SQL, and maps (plus the occassional web development - like this website, for example).
 
-Many of <a href="./projects">my projects</a> center around geospatial data, like this COVID-19 tracker:
+<h2><a href="./projects">Maps</a></h2>
+
+Many of <a href="./projects">my projects</a> center around making maps using geospatial data, like this COVID-19 tracker:
 
 <a href="./projects"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
 <br>
 <br>
-But I'm also in a long-term, committed relationship with tennis and I've <a href="./data-and-tennis">found ways</a> to combine that with data:
+<h2><a href="./data-and-tennis">Tennis</a></h2>
+
+But I'm also in a long-term, committed relationship with tennis and I've <a href="./data-and-tennis">found ways</a> to combine that with data mapping:
 
 <a href="./data-and-tennis"><img src="assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
 <br>
