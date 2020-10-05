@@ -4,7 +4,8 @@ layout: default
 <h1>Intro</h1>
 
 I live in Brooklyn, NY and I'm a data engineer (half 1) who can also organize teams and projects (half 2).
-
+<br>
+<br>
 <h1>The first half</h1>
 
 I like Python, SQL, and maps (plus the occassional web development - like this website, for example).
@@ -16,7 +17,7 @@ Many of <a href="./projects">my projects</a> center around making maps using geo
 <a href="./projects"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
 <br>
 <br>
-<h2><a href="./data-and-tennis">Tennis</a></h2>
+<h2><a href="./data-and-tennis">Data + tennis</a></h2>
 
 But I'm also in a long-term, committed relationship with tennis and I've <a href="./data-and-tennis">found ways</a> to combine that with data:
 
