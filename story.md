@@ -7,11 +7,11 @@ There's an analyst half of my brain that feels most at home with data and progra
 
 ## The analyst half
 
-Between 2013 and 2018, my career revolved around analyzing qualitative data in the legal-investigative world. I started out as an analyst at the [Manhattan DA's Office](https://www.manhattanda.org/district-attorney-vance-announces-expansion-anti-corruption-unit/) investigating city officials suspected of criminal activity. Then I moved over to the private sector as an investigator for a small [PI firm](https://www.questinvestigates.com/) where we did background checks, interviewed witnesses, and read lots of court cases. Finally, I moved back to the public sector as an auditor for the [NYC Campaign Finance Board](https://www.nyccfb.info/).
+Between 2013 and 2018, I worked in the legal-investigative world as an analyst. I started out at the [Manhattan DA's Office](https://www.manhattanda.org/district-attorney-vance-announces-expansion-anti-corruption-unit/) investigating city officials suspected of criminal activity. Then I moved over to the private sector as an investigator for a small [PI firm](https://www.questinvestigates.com/) where we did background checks, interviewed witnesses, and read lots of court cases. Finally, I moved back to the public sector as an auditor for the [NYC Campaign Finance Board](https://www.nyccfb.info/).
 
-During that last one (auditing), I started to make the switch from qualitative to quantitative analysis. In my spare time, I learned basic Python and SQL until I decided to get serious and go full time. So I enrolled in an applied data science masters program at [NYU](https://cusp.nyu.edu/) in the summer of 2018. 
+During that last one (auditing), I started to make the switch from qualitative to quantitative analysis. In my spare time, I learned Python and SQL before deciding to go full time at an applied data science masters program at [NYU](https://cusp.nyu.edu/) in Summer 2018. 
 
-Our program focused on the intersection between urban planning and open data (aka how can we use data to understand/improve cities?), which helped me transition to [Topos](https://topos.com/), a Brooklyn-based startup that used data to understand cities and share our insights with retail chains looking to expand. I was a data engineer at Topos and you can find out more about my work with them [here](./projects.md).
+Our program focused on the intersection between urban planning and open data (aka how can we use data to understand/improve cities?), which helped me transition to [Topos](https://topos.com/), a Brooklyn-based startup where we used data to understand cities and shared our insights with retail chains looking to expand. I was a data engineer at Topos and you can find out more about my work with them [here](./projects.md).
 
 In sum, I'm an analyst who likes data of all kinds and that's what's been tugging me along this path over the past 7 years.
 <br>
