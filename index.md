@@ -27,4 +27,4 @@ But I'm also in a long-term, committed relationship with tennis and I've <a href
 <br>
 <h2>The team/project organizing half</h2>
 
-Along with data engineering and analysis, I'm also a board member at a non-profit in Brooklyn, where I work with other members of the community to put on events, raise money, and build connections with like-minded groups. I explain the two halves in more detail <a href="./bio">here</a>.
+Along with data engineering and analysis, I'm also a board member at a non-profit in Brooklyn. I explain the two halves in more detail <a href="./bio">here</a>.
