@@ -8,7 +8,7 @@ I'm a data engineer (one half of my brain) who can also organize teams and proje
 <br>
 <h2>The data half</h2>
 
-I like Python, SQL, and maps (plus the occassional web development - like this website, for example).
+I like Python, SQL, and maps (plus the occasional web development - like this website, for example).
 <br>
 <br>
 <h3><a href="./projects">Projects</a></h3>
