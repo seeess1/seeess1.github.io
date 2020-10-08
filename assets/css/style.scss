@@ -81,14 +81,3 @@ img {
 .close-classic:after {
   content: 'X'; /* ANSI X letter */
 }
-
-.dialog {
-  background: #ddd;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  float: left;
-  height: 200px;
-  margin: 20px;
-  position: relative;
-  width: 150px;  
-}
