@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* Setting fonts and colors */
+
 * {
   font-family: 'DM Sans';
   background-color:#006600;
@@ -34,6 +37,9 @@ a:visited {
   color: #ffff00;
   font-weight: bold;
 }
+
+/* Setting fonts and colors for Python code */
+
 .wrapper 
 {
   background-color:#ffffff;
@@ -52,9 +58,31 @@ code, pre {
 img {
   border-radius: 2%;
 }
+
+/* Trying to control for different colors on mobile */
+
 @media only screen and (min-width : 768px) {
     /* your mobile css, change this as you please */
     #omos {
         background-color: #006600;
     }
+}
+
+/* The Close Button */
+
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
 }
