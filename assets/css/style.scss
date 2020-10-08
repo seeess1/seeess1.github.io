@@ -70,19 +70,25 @@ img {
 
 /* The Close Button */
 
-.close {
+[class*='close-'] {
+  color: #ffffff;
   position: absolute;
-  top: 15px;
-  right: 35px;
-  color: #f1f1f1;
-  font-size: 40px;
-  font-weight: bold;
-  transition: 0.3s;
+  right: 5px;
+  text-decoration: none;
+  top: 5px;
 }
 
-.close:hover,
-.close:focus {
-  color: #bbb;
-  text-decoration: none;
-  cursor: pointer;
+.close-classic:after {
+  content: 'X'; /* ANSI X letter */
+}
+
+.dialog {
+  background: #ddd;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  float: left;
+  height: 200px;
+  margin: 20px;
+  position: relative;
+  width: 150px;  
 }
