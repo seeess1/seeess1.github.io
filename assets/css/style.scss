@@ -4,21 +4,21 @@
 @import "{{ site.theme }}";
 * {
   font-family: 'DM Sans';
-  color: #ffffff;
-  background-color:#006600;
+  color: #006600;
+  background-color:#ffffff;
 }
 h1 {
-  color: #ffffff;
+  color: #006600;
   font-size: 30px;
   font-weight: bold;
 }
 h2 {
-  color: #ffffff;
+  color: #006600;
   font-size: 25px;
   font-weight: bold;
 }
 h3 {
-  color: #ffffff;
+  color: #006600;
   font-weight: bold;
   font-size: 20px;
 }
@@ -36,13 +36,13 @@ a:visited {
 }
 .wrapper 
 {
-  background-color:#006600;
+  background-color:#ffffff;
 }
 .language-python highlighter-rouge
 {
-  background-color:#006600;
+  background-color:#ffffff;
 }
 .highlight
 {
-  background-color:#006600;
+  background-color:#ffffff;
 }
