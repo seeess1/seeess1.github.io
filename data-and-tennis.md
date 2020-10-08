@@ -15,15 +15,18 @@ Data is playing a bigger role at the Fort Greene Tennis Association than ever be
 To help people find places to play racket sports in NYC, I collected data with the location of every handball wall and public tennis court in NYC and used Python to clean it and geocode the addresses. Then I worked with a colleague to [map them](http://www.fortgreenetennis.org/nyc-courts):
 
 <a href = "assets/images/tennis-map.gif"><img src="assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
-
+<br>
+<br>
 I've also analyzed tennis permit sales by zip code using data I FOIA requested from the NYC Parks Department:
 
 <a href = "assets/images/geo-viz.png"><img src="assets/images/geo-viz.png" alt="Map of tennis permit sales"></a>
-
+<br>
+<br>
 And visualized trends in permit purchases among different age groups using the same data set from NYC Parks:
 
 <a href = "assets/images/permits-age.png"><img src="assets/images/permits-age.png" alt="Tennis permits age groups"></a>
-
+<br>
+<br>
 The point of all of this work is to understand the degree to which tennis is growing in NYC and to help meet the demand for tennis in the City (which is on the rise). The work is ongoing...
 <br>
 <br>
