@@ -4,16 +4,8 @@
 @import "{{ site.theme }}";
 * {
   font-family: 'DM Sans';
-  color: #000000;
+  color: #006600;
   background-color:#ffffff;
-}
-a:link {
-  color: #000000;
-  font-weight: bold;
-}
-a:visited {
-  color: #000000;
-  font-weight: bold;
 }
 h1 {
   color: #006600;
@@ -33,6 +25,14 @@ h3 {
 body {
  font-size: 18px;
  background-color:#006600;
+}
+a:link {
+  color: #000000;
+  font-weight: bold;
+}
+a:visited {
+  color: #000000;
+  font-weight: bold;
 }
 .wrapper
 {
