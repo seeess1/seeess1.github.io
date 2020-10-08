@@ -48,3 +48,12 @@ a:visited {
 img {
   border-radius: 2%;
 }
+@media only screen and (min-width : 768px) {
+    /* your mobile css, change this as you please */
+    #omos {
+        background-color: #006600;
+        height: 80vh;
+        clear: both;
+        text-align: center;
+    }
+}
