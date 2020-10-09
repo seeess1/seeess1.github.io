@@ -51,6 +51,10 @@ a:visited {
 .highlight
 {
   background-color:#ffffff;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
 }
 code, pre {
   background-color:#ffffff; 
