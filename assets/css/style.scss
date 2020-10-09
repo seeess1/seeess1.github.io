@@ -55,6 +55,10 @@ a:visited {
 code, pre {
   background-color:#ffffff; 
 }
+code span { background-color: transparent }
+
+/* Give images a rounded edge */
+
 img {
   border-radius: 2%;
 }
