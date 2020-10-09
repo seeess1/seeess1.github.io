@@ -48,10 +48,7 @@ And before joining Topos, I cut my teeth with data engineering, mapping, and ana
 * Analyzing the relationship between [bars and 311 complaints](https://github.com/seeess1/publicDrunkenness/blob/master/public_drunkenness.ipynb)
 * [LiDAR mapping](https://sketchfab.com/3d-models/nyu-cusp-lidar-exercise-a5b41ceffb5f47f8a9c11123de2f20ea)
 * [Using computer vision](https://github.com/seeess1/pedestrian_cv) to count pedestrians at an intersection on campus:
-<div class="box" id="box">
- <a class="boxclose" id="boxclose"></a>
 <a href = "assets/images/pedestrians.png"><img src="assets/images/pedestrians.png" alt="Computer vision"></a>
-</div>
 
 Plus exercises in [streaming big data](https://github.com/seeess1/bigData) and more [machine learning](https://github.com/seeess1/machineLearning).
 <br>
