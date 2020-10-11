@@ -3,10 +3,10 @@ layout: default
 ---
 <style>
 * {
-  background-color:#696969;
+  background-color:#2f4f4f;
 }
 body {
- background-color:#696969;
+ background-color:#2f4f4f;
 }
 </style>
 <h1>Intro</h1>
