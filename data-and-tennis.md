@@ -17,7 +17,7 @@ To help people find places to play racket sports in NYC, I collected data with t
 <a href = "assets/images/tennis-map.gif"><img src="assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
 <br>
 <br>
-I've also analyzed tennis permit sales by zip code using data I FOIA requested from the NYC Parks Department:
+I've also analyzed tennis permit sales by zip code using data I FOIL requested from the NYC Parks Department:
 
 <a href = "assets/images/geo-viz.png"><img src="assets/images/geo-viz.png" alt="Map of tennis permit sales"></a>
 <br>
