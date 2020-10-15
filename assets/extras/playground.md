@@ -61,3 +61,19 @@ But I'm also in a long-term, committed relationship with tennis and I've <a href
 <h2>The organizational half</h2>
 
 Along with data engineering and analysis, I've also been a board member at a non-profit in Brooklyn since 2015. I explain the two halves in more detail <a href="./bio">here</a>.
+
+<h1>Playing around with modals</h1>h1>
+<div class="w3-container">
+  <h2>W3.CSS Modal</h2>
+  <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-black">Open Modal</button>
+
+  <div id="id01" class="w3-modal">
+    <div class="w3-modal-content">
+      <div class="w3-container">
+        <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+        <p>Some text. Some text. Some text.</p>
+        <p>Some text. Some text. Some text.</p>
+      </div>
+    </div>
+  </div>
+</div>
