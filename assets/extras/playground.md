@@ -57,7 +57,7 @@ Many of <a href="./projects">my projects</a> center around making maps using geo
 
 But I'm also in a long-term, committed relationship with tennis and I've <a href="./data-and-tennis">found ways</a> to combine that with data:
 
-<a href="./data-and-tennis"><img src="assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
+<a href="./data-and-tennis"><img src="../images/tennis-map.gif" alt="NYC Tennis Courts"></a>
 <br>
 <br>
 <h2>The organizational half</h2>
