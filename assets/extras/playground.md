@@ -50,7 +50,7 @@ I like Python, SQL, and maps (plus the occasional web development - like this we
 
 Many of <a href="./projects">my projects</a> center around making maps using geospatial data, like this COVID-19 tracker:
 
-<a href="./projects"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
+<a href="./projects"><img src="../images/covid-map.gif" alt="COVID-19 Tracker"></a>
 <br>
 <br>
 <h3><a href="./data-and-tennis">Data + tennis</a></h3>
