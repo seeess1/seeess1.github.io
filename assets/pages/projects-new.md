@@ -26,6 +26,7 @@ This modal image pops out, which is nice. But it doesn't span all the way from t
     </div>
   </div>
 </div>
+<br>
 <h2>Solution?</h2>
 How do I make it so that the modal image stretches all the way across?
 
