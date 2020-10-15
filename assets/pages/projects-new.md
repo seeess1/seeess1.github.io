@@ -7,14 +7,16 @@ layout: default
 <h1>Modal testing</h1>
 <br>
 <br>
-<h2>Normal image<h2>
+<h2>Normal image</h2>
 This image spans all the way from the left margin of the text to the right margin of the text. I think it looks nice this way.
+<br>
 <br>
 <a href = "../images/cocktails-smartphone.png"><img src="../images/cocktails-smartphone.png" alt="Cocktails To Go"></a>
 <br>
 <br>
-<h2>Modal image<h2>
+<h2>Modal image</h2>
 This modal image pops out, which is nice. But it doesn't span all the way from the left text margin to the right text margin. It's slightly shrunken.
+<br>
 <br>
 <div class="w3-container">
   <img src="../images/cocktails-smartphone.png" style="width:100%;cursor:zoom-in"
