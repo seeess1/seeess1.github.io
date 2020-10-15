@@ -26,3 +26,9 @@ This modal image pops out, which is nice. But it doesn't span all the way from t
     </div>
   </div>
 </div>
+<h2>Solution?</h2>
+How do I make it so that the modal image stretches all the way across?
+
+P.S. How can I make the "x" in the close button of the modal image larger? I tried to control that in the style.scss file under the ".close" element but I don't think it changed anything.
+
+P.P.S. How can I make the modal also respond to the escape key? So if someone wants to close the image, they can just hit escape and it will close out.
