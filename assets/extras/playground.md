@@ -2,7 +2,7 @@
 layout: default
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
 * {
   font-family: 'DM Sans';
@@ -70,7 +70,7 @@ Along with data engineering and analysis, I've also been a board member at a non
 <!--   <h2>W3.CSS Modal Image</h2>
   <p>Click on the image to display it in full size:</p>
  -->
-  <img src="cusp.png" style="width:30%;cursor:zoom-in"
+  <img src="cusp.png" style="width:100%;cursor:zoom-in"
   onclick="document.getElementById('modal01').style.display='block'">
 
   <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
