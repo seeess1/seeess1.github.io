@@ -62,12 +62,12 @@ But I'm also in a long-term, committed relationship with tennis and I've <a href
 
 Along with data engineering and analysis, I've also been a board member at a non-profit in Brooklyn since 2015. I explain the two halves in more detail <a href="./bio">here</a>.
 
-<h1>Playing around with modals</h1>h1>
+<h1>Playing around with modals</h1>
 
 <div class="w3-container">
-  <h2>W3.CSS Modal Image</h2>
+<!--   <h2>W3.CSS Modal Image</h2>
   <p>Click on the image to display it in full size:</p>
-
+ -->
   <img src="cusp.png" style="width:30%;cursor:zoom-in"
   onclick="document.getElementById('modal01').style.display='block'">
 
