@@ -67,9 +67,6 @@ Along with data engineering and analysis, I've also been a board member at a non
 <h1>Playing around with modals</h1>
 
 <div class="w3-container">
-<!--   <h2>W3.CSS Modal Image</h2>
-  <p>Click on the image to display it in full size:</p>
- -->
   <img src="cusp.png" style="width:100%;cursor:zoom-in"
   onclick="document.getElementById('modal01').style.display='block'">
 
