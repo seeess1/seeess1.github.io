@@ -65,24 +65,16 @@ Along with data engineering and analysis, I've also been a board member at a non
 <h1>Playing around with modals</h1>h1>
 
 <div class="w3-container">
-  <h2>W3.CSS Modal</h2>
-  <p>Use w3-container classes to create different sections in the modal (e.g. header & footer).</p>
-  <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-black">Open Modal</button>
+  <h2>W3.CSS Modal Image</h2>
+  <p>Click on the image to display it in full size:</p>
 
-  <div id="id01" class="w3-modal">
-    <div class="w3-modal-content">
-      <header class="w3-container w3-teal"> 
-        <span onclick="document.getElementById('id01').style.display='none'" 
-        class="w3-button w3-display-topright">&times;</span>
-        <h2>Modal Header</h2>
-      </header>
-      <div class="w3-container">
-        <p>Some text..</p>
-        <p>Some text..</p>
-      </div>
-      <footer class="w3-container w3-teal">
-        <p>Modal Footer</p>
-      </footer>
+  <img src="cusp.png" style="width:30%;cursor:zoom-in"
+  onclick="document.getElementById('modal01').style.display='block'">
+
+  <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+    <div class="w3-modal-content w3-animate-zoom">
+      <img src="img_snowtops.jpg" style="width:100%">
     </div>
   </div>
 </div>
