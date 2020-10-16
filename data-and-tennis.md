@@ -84,13 +84,14 @@ def score_analyzer():
     </div>
   </div>
 </div>
+<br>
 I'm looking forward to working on this project more.
 <br>
 <br>
 ## ATP tennis
 
 I'm also generally curious to know more about life on the ATP tour, especially when it comes to the financial aspects of that lifestyle. To figure out which players are making bank, who's breaking even, and who's in the red, I found prize money data from 2019 in PDF format, transformed thousands of those PDF pages into a table using Python, and analyzed the data using SQL. Here are a couple early findings:
-
+<br>
 ### Weekly earnings
 
 <div class="w3-container">
@@ -103,8 +104,10 @@ I'm also generally curious to know more about life on the ATP tour, especially w
     </div>
   </div>
 </div>
+<br>
 
 Pictured above are the weekly earnings for different groups of ranked players. My analysis showed that players in the top 20 did, in fact, make bank in 2019. But then weekly earnings drop off a cliff, which is a problem for the lower ranks since it apparently costs around $3k per week just to compete on the tour.
+<br>
 
 ### Total prize money pot
 
@@ -118,6 +121,7 @@ Pictured above are the weekly earnings for different groups of ranked players. M
     </div>
   </div>
 </div>
+<br>
 
 This is a snapshot of which players took home the most money out of the pot of total prize money in 2019.
 That year, there was $230,506,600 in total prize money up for grabs. So we're seeing that ATP players in the top 100 captured 78% of that prize money while the other 22% was divided up among 400+ players.
