@@ -15,14 +15,14 @@ I like Python, SQL, and maps (plus the occasional web development - like this we
 
 Many of <a href="./projects">my projects</a> center around making maps using geospatial data, like this COVID-19 tracker:
 
-<a href="./projects"><img src="assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
+<a href="./projects"><img src="./assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
 <br>
 <br>
 <h3><a href="./data-and-tennis">Data + tennis</a></h3>
 
 But I'm also in a long-term, committed relationship with tennis and I've <a href="./data-and-tennis">found ways</a> to combine that with data:
 
-<a href="./data-and-tennis"><img src="assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
+<a href="./data-and-tennis"><img src="./assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
 <br>
 <br>
 <h2>The organizational half</h2>
