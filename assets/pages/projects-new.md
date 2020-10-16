@@ -15,13 +15,12 @@ This image spans all the way from the left margin of the text to the right margi
 This modal image pops out, which is nice. But it doesn't span all the way from the left text margin to the right text margin. It's slightly shrunken.
 <br>
 <br>
-11:03 update
+11:06 update
 <br>
 
 <div class="w3-container">
   <img src="../images/reservations.png" style="width:100%;cursor:zoom-in"
   onclick="document.getElementById('modal01').style.display='block'">
-
   <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
     <div class="w3-modal-content w3-animate-zoom">
