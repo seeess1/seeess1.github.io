@@ -15,6 +15,7 @@ This image spans all the way from the left margin of the text to the right margi
 This modal image pops out, which is nice. But it doesn't span all the way from the left text margin to the right text margin. It's slightly shrunken.
 <br>
 <br>
+
 <div class="w3-container">
   <img src="../images/reservations.png" style="width:100%;cursor:zoom-in"
   onclick="document.getElementById('modal01').style.display='block'">
@@ -26,6 +27,7 @@ This modal image pops out, which is nice. But it doesn't span all the way from t
     </div>
   </div>
 </div>
+
 <br>
 <h2>Solution?</h2>
 How do I make it so that the modal image stretches all the way across?
