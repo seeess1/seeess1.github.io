@@ -71,3 +71,8 @@ img {
 .wrapper {
    margin-top: 75px!important;
 }
+@media screen and (max-width: 600px) {
+	.wrapper {
+	margin-top: 50px!important;
+	}
+}
