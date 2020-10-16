@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<h1>Last update</h1>>
+<br>
+11:27 update
+<br>
+<br>
 <h1>Modal testing</h1>
 <br>
 I'm playing around with modal images but I noticed that my current method is shrinking the images. I'm guessing this is happening because I'm referencing this stylesheet: https://www.w3schools.com/w3css/4/w3.css. But I'm not sure how to fix it. Here's what I mean:
@@ -13,9 +18,6 @@ This image spans all the way from the left margin of the text to the right margi
 <br>
 <h2>Modal image</h2>
 This modal image pops out, which is nice. But it doesn't span all the way from the left text margin to the right text margin. It's slightly shrunken.
-<br>
-<br>
-11:22 update
 <br>
 
 <div class="w3-container">
