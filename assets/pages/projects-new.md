@@ -14,7 +14,7 @@ This image spans all the way from the left margin of the text to the right margi
 <h2>Modal image</h2>
 This modal image pops out, which is nice. But it doesn't span all the way from the left text margin to the right text margin. It's slightly shrunken.
 <br>
-Final mod
+10:29 update
 <br>
 
 <div class="w3-container">
