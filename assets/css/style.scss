@@ -66,3 +66,6 @@ code span { background-color: transparent }
 img {
   border-radius: 2%;
 }
+
+/* Modal modifications */
+@media (min-width:993px){.w3-modal-content{width:100%!important}
