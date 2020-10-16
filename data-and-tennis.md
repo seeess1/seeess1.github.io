@@ -43,7 +43,7 @@ I've also analyzed tennis permit sales by zip code using data I FOIL requested f
 And visualized trends in permit purchases among different age groups using the same data set from NYC Parks:
 
 <div class="w3-container">
-  <img src="./assets/images/geo-viz.png" style="width:100%;cursor:zoom-in"
+  <img src="./assets/images/permits-age.png" style="width:100%;cursor:zoom-in"
   onclick="document.getElementById('modal03').style.display='block'">
   <div id="modal03" class="w3-modal" onclick="this.style.display='none'">
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
