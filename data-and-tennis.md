@@ -14,17 +14,44 @@ Data is playing a bigger role at the Fort Greene Tennis Association than ever be
 <br>
 To help people find places to play racket sports in NYC, I collected data with the location of every handball wall and public tennis court in NYC and used Python to clean it and geocode the addresses. Then I worked with a colleague to [map them](http://www.fortgreenetennis.org/nyc-courts):
 
-<a href = "assets/images/tennis-map.gif"><img src="assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
+<div class="w3-container">
+  <img src="./assets/images/tennis-map.gif" style="width:100%;cursor:zoom-in"
+  onclick="document.getElementById('modal01').style.display='block'">
+  <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
+    <div class="w3-modal-content w3-animate-zoom">
+      <img src="./assets/images/tennis-map.gif.png" style="width:100%">
+    </div>
+  </div>
+</div>
 <br>
 <br>
 I've also analyzed tennis permit sales by zip code using data I FOIL requested from the NYC Parks Department:
 
-<a href = "assets/images/geo-viz.png"><img src="assets/images/geo-viz.png" alt="Map of tennis permit sales"></a>
+<div class="w3-container">
+  <img src="./assets/images/geo-viz.png" style="width:100%;cursor:zoom-in"
+  onclick="document.getElementById('modal02').style.display='block'">
+  <div id="modal02" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
+    <div class="w3-modal-content w3-animate-zoom">
+      <img src="./assets/images/geo-viz.png" style="width:100%">
+    </div>
+  </div>
+</div>
 <br>
 <br>
 And visualized trends in permit purchases among different age groups using the same data set from NYC Parks:
 
-<a href = "assets/images/permits-age.png"><img src="assets/images/permits-age.png" alt="Tennis permits age groups"></a>
+<div class="w3-container">
+  <img src="./assets/images/geo-viz.png" style="width:100%;cursor:zoom-in"
+  onclick="document.getElementById('modal03').style.display='block'">
+  <div id="modal03" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
+    <div class="w3-modal-content w3-animate-zoom">
+      <img src="./assets/images/permits-age.png" style="width:100%">
+    </div>
+  </div>
+</div>
 <br>
 <br>
 The point of all of this work is to understand the degree to which tennis is growing in NYC and to help meet the demand for tennis in the City (which is on the rise). The work is ongoing...
@@ -47,8 +74,16 @@ def score_analyzer():
                     " - " + str(set_score["away_score"]) + " "
 ```
 
-<a href = "assets/images/bageled.png"><img src="assets/images/bageled.png" alt="bageled.nyc"></a>
-
+<div class="w3-container">
+  <img src="./assets/images/bageled.png" style="width:100%;cursor:zoom-in"
+  onclick="document.getElementById('modal04').style.display='block'">
+  <div id="modal04" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
+    <div class="w3-modal-content w3-animate-zoom">
+      <img src="./assets/images/bageled.png" style="width:100%">
+    </div>
+  </div>
+</div>
 I'm looking forward to working on this project more.
 <br>
 <br>
@@ -58,13 +93,31 @@ I'm also generally curious to know more about life on the ATP tour, especially w
 
 ### Weekly earnings
 
-<a href = "assets/images/ranking-groups.png"><img src="assets/images/ranking-groups.png" alt="Ranking groups"></a>
+<div class="w3-container">
+  <img src="./assets/images/ranking-groups.png" style="width:100%;cursor:zoom-in"
+  onclick="document.getElementById('modal05').style.display='block'">
+  <div id="modal05" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
+    <div class="w3-modal-content w3-animate-zoom">
+      <img src="./assets/images/ranking-groups.png" style="width:100%">
+    </div>
+  </div>
+</div>
 
 Pictured above are the weekly earnings for different groups of ranked players. My analysis showed that players in the top 20 did, in fact, make bank in 2019. But then weekly earnings drop off a cliff, which is a problem for the lower ranks since it apparently costs around $3k per week just to compete on the tour.
 
 ### Total prize money pot
 
-<a href = "assets/images/pie-earnings.png"><img src="assets/images/pie-earnings.png" alt="Pie of earnings"></a>
+<div class="w3-container">
+  <img src="./assets/images/pie-earnings.png" style="width:100%;cursor:zoom-in"
+  onclick="document.getElementById('modal06').style.display='block'">
+  <div id="modal06" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
+    <div class="w3-modal-content w3-animate-zoom">
+      <img src="./assets/images/pie-earnings.png" style="width:100%">
+    </div>
+  </div>
+</div>
 
 This is a snapshot of which players took home the most money out of the pot of total prize money in 2019.
 That year, there was $230,506,600 in total prize money up for grabs. So we're seeing that ATP players in the top 100 captured 78% of that prize money while the other 22% was divided up among 400+ players.
