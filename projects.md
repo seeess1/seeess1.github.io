@@ -99,7 +99,6 @@ And before joining Topos, I cut my teeth with data engineering, mapping, and ana
 * [LiDAR mapping](https://sketchfab.com/3d-models/nyu-cusp-lidar-exercise-a5b41ceffb5f47f8a9c11123de2f20ea)
 * [Using computer vision](https://github.com/seeess1/pedestrian_cv) to count pedestrians at an intersection on campus:
 <br>
-<br>
 <div class="w3-container">
   <img src="./assets/images/pedestrians.png" style="width:100%;cursor:zoom-in"
   onclick="document.getElementById('modal06').style.display='block'">
