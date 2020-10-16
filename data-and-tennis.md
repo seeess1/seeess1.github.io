@@ -20,7 +20,7 @@ To help people find places to play racket sports in NYC, I collected data with t
   <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
     <div class="w3-modal-content w3-animate-zoom">
-      <img src="./assets/images/tennis-map.gif.png" style="width:100%">
+      <img src="./assets/images/tennis-map.gif" style="width:100%">
     </div>
   </div>
 </div>
