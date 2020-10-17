@@ -5,6 +5,8 @@ layout: default
 
 ## Modal images
 
+12:30 update
+
 Right now my modal image pops out, which is some progress.
 <br>
 <div class="w3-container">
@@ -19,12 +21,6 @@ Right now my modal image pops out, which is some progress.
 </div>
 <br>
 <br>
-<script> 
-window.onkeydown = function( event ) {
-    if ( event.keyCode == 27 ) {
-        document.getElementById('modal01').style.display='none’
-    }
-};
 <div class="w3-container">
   <img src="./images/cocktails-smartphone.png" style="width:100%;cursor:zoom-in"
   onclick="document.getElementById('modal01').style.display='block'">
@@ -34,8 +30,14 @@ window.onkeydown = function( event ) {
       <img src="./images/cocktails-smartphone.png" style="width:100%">
     </div>
   </div>
-</div>
+  <script> 
+window.onkeydown = function( event ) {
+    if ( event.keyCode == 27 ) {
+        document.getElementById('modal01').style.display='none’
+    }
+};
 </script>
+</div>
 <br>
 <br>
 Now I'd like to make it so that users can exit out of the pop up by hitting the escape key. I found [this on stackoverflow](https://stackoverflow.com/questions/1481626/how-to-handle-esc-keydown-on-javascript-popup-window) but I'm not sure how I would incorporate it into my code:
