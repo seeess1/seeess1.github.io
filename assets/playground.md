@@ -5,7 +5,7 @@ layout: default
 
 ## Modal images
 
-1:04 update
+1:07 update
 
 Modal:
 <br>      

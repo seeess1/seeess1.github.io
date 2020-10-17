@@ -30,8 +30,8 @@ I've also analyzed tennis permit sales by zip code using data I FOIL requested f
 
 <div class="w3-container">
   <img src="./assets/images/geo-viz.png" style="width:100%;cursor:zoom-in"
-  onclick="document.getElementById('modal02').style.display='block'">
-  <div id="modal02" class="w3-modal" onclick="this.style.display='none'">
+  onclick="document.getElementById('modal01').style.display='block'">
+  <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
     <div class="w3-modal-content w3-animate-zoom">
       <img src="./assets/images/geo-viz.png" style="width:100%">
@@ -44,8 +44,8 @@ And visualized trends in permit purchases among different age groups using the s
 
 <div class="w3-container">
   <img src="./assets/images/permits-age.png" style="width:100%;cursor:zoom-in"
-  onclick="document.getElementById('modal03').style.display='block'">
-  <div id="modal03" class="w3-modal" onclick="this.style.display='none'">
+  onclick="document.getElementById('modal01').style.display='block'">
+  <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
     <div class="w3-modal-content w3-animate-zoom">
       <img src="./assets/images/permits-age.png" style="width:100%">
@@ -75,8 +75,8 @@ def score_analyzer():
 
 <div class="w3-container">
   <img src="./assets/images/bageled.png" style="width:100%;cursor:zoom-in"
-  onclick="document.getElementById('modal04').style.display='block'">
-  <div id="modal04" class="w3-modal" onclick="this.style.display='none'">
+  onclick="document.getElementById('modal01').style.display='block'">
+  <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
     <div class="w3-modal-content w3-animate-zoom">
       <img src="./assets/images/bageled.png" style="width:100%">
@@ -96,8 +96,8 @@ I'm also generally curious to know more about life on the ATP tour, especially w
 
 <div class="w3-container">
   <img src="./assets/images/ranking-groups.png" style="width:100%;cursor:zoom-in"
-  onclick="document.getElementById('modal05').style.display='block'">
-  <div id="modal05" class="w3-modal" onclick="this.style.display='none'">
+  onclick="document.getElementById('modal01').style.display='block'">
+  <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
     <div class="w3-modal-content w3-animate-zoom">
       <img src="./assets/images/ranking-groups.png" style="width:100%">
@@ -111,8 +111,8 @@ Pictured above are the weekly earnings for different groups of ranked players. M
 ### Total prize money pot
 <div class="w3-container">
   <img src="./assets/images/pie-earnings.png" style="width:100%;cursor:zoom-in"
-  onclick="document.getElementById('modal06').style.display='block'">
-  <div id="modal06" class="w3-modal" onclick="this.style.display='none'">
+  onclick="document.getElementById('modal01').style.display='block'">
+  <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
     <div class="w3-modal-content w3-animate-zoom">
       <img src="./assets/images/pie-earnings.png" style="width:100%">
