@@ -7,7 +7,7 @@ layout: default
 
 12:51 update
 
-Right now my modal image pops out, which is some progress.
+Modal:
 <br>
 <div class="w3-container">
   <img src="./images/cocktails-smartphone.png" style="width:100%;cursor:zoom-in"
@@ -28,8 +28,8 @@ window.onkeydown = function( event ) {
 </div>
 <br>
 <br>
-Now I'd like to make it so that users can exit out of the pop up by hitting the escape key. I found [this on stackoverflow](https://stackoverflow.com/questions/1481626/how-to-handle-esc-keydown-on-javascript-popup-window) but I'm not sure how I would incorporate it into my code:
-
+Here's the code:
+<br>
 ```js
 <div class="w3-container">
   <img src="./images/cocktails-smartphone.png" style="width:100%;cursor:zoom-in"
