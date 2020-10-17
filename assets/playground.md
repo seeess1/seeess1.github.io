@@ -16,15 +16,16 @@ Modal:
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
     <div class="w3-modal-content w3-animate-zoom">
       <img src="./images/cocktails-smartphone.png" style="width:100%">
-    </div>
-  </div>
-  <script> 
+      <script> 
 window.onkeydown = function( event ) {
     if ( event.keyCode == 27 ) {
         document.getElementById('modal01').style.display='none’
     }
 };
 </script>
+    </div>
+  </div>
+  
 </div>
 <br>
 <br>
