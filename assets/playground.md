@@ -8,12 +8,12 @@ layout: default
 Right now my modal image pops out, which is some progress.
 <br>
 <div class="w3-container">
-  <img src="./assets/images/tennis-v4.png" style="width:100%;cursor:zoom-in"
+  <img src="./images/cocktails-smartphone.png" style="width:100%;cursor:zoom-in"
   onclick="document.getElementById('modal01').style.display='block'">
   <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
     <div class="w3-modal-content w3-animate-zoom">
-      <img src="./assets/images/tennis-v4.png" style="width:100%">
+      <img src="./images/cocktails-smartphone.png" style="width:100%">
     </div>
   </div>
 </div>
