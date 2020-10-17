@@ -7,7 +7,12 @@
     <link rel="shortcut icon" type="image/x-icon" href="../assets/images/favicon-v6.ico">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM Sans">
     <link rel="stylesheet" href="../assets/css/w3-mod.css">
-
+<script> 
+window.onkeydown = function( event ) {
+    if ( event.keyCode == 27 ) {
+        document.getElementById('modal01').style.display="none"}
+      };
+</script>
 {% seo %}
     <link rel="stylesheet" href="{{ "../assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>

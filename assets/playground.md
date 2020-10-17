@@ -8,14 +8,7 @@ layout: default
 1:02 update
 
 Modal:
-<br>
-      <script> 
-window.onkeydown = function( event ) {
-    if ( event.keyCode == 27 ) {
-        document.getElementById('modal01').style.display='none’
-    }
-};
-</script>
+<br>      
 <div class="w3-container">
   <img src="./images/cocktails-smartphone.png" style="width:100%;cursor:zoom-in"
   onclick="document.getElementById('modal01').style.display='block'">
