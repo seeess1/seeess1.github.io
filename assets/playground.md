@@ -18,13 +18,13 @@ img{
   cursor: url('./images/cursor-2.png'); 
 }
     li{
-        cursor: pointer;
+        cursor: url('./images/cursor-2.png');
     }
 </style>
 </head>
 # Playground
 
-5:35 update
+5:47 update
 
 ## Cursor
 
