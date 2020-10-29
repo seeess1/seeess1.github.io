@@ -9,7 +9,7 @@ layout: default
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM Sans">
     <link rel="stylesheet" href="./css/w3-mod.css">
     <style>* {
-  cursor: url('./images/cursor.png'), default;
+  cursor: url('./images/cursor.png'), auto;
 }
 a:link {
   cursor: url('./images/cursor.png');
