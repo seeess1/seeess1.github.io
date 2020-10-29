@@ -12,28 +12,16 @@ layout: default
   cursor: url('./images/cursor.png'), default;
 }
 a:link {
-  cursor: url('./images/cursor.png'), default;
+  cursor: url('./images/cursor.png');
 }
 a:visited {
-  cursor: url('./images/cursor.png'), default;
-}
-.link:hover {
-  cursor: url('./images/cursor.png'), default;
-}
-.div{
-  cursor: url('./images/cursor.png'), default;
-}
-div{
-  cursor: url('./images/cursor.png'), default;
-}
-.img:hover{
-  cursor: url('./images/cursor.png'), default; 
+  cursor: url('./images/cursor.png');
 }
 img:hover{
-  cursor: url('./images/cursor.png'), default; 
+  cursor: url('./images/cursor.png'); 
 }
 img{
-  cursor: url('./images/cursor.png'), default; 
+  cursor: url('./images/cursor.png'); 
 }
 </style>
 <script> 
@@ -47,7 +35,7 @@ window.onkeydown = function( event ) {
 
 ## Modal images
 
-1:02 update
+1:07 update
 
 Modal:
 <br>      
