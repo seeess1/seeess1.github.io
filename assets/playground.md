@@ -9,13 +9,13 @@ layout: default
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM Sans">
     <link rel="stylesheet" href="./css/w3-mod.css">
     <style>* {
-  cursor: url('./images/cursor.png');
+  cursor: url('./images/cursor.png'), default;
 }
 a:link {
-  cursor: url('./images/cursor.png');
+  cursor: url('./images/cursor.png'), default;
 }
 a:visited {
-  cursor: url('./images/cursor.png');
+  cursor: url('./images/cursor.png'), default;
 }</style>
 <script> 
 window.onkeydown = function( event ) {
