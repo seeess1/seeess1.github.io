@@ -3,7 +3,7 @@ layout: default
 ---
   <head>
     <style>* {
-  cursor: url('./images/cursor.png'), auto;
+  cursor: url('./images/cursor-2.png'), auto;
 }
 a {
   cursor: url('./images/cursor-2.png');
