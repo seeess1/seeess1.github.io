@@ -8,13 +8,10 @@ layout: default
     <link rel="shortcut icon" type="image/x-icon" href="../assets/images/favicon-v6.ico">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM Sans">
     <link rel="stylesheet" href="./css/w3-mod.css">
-    <style>* {
+    <style>body {
   cursor: url('./images/cursor.png'), auto;
 }
-a:link {
-  cursor: url('./images/cursor.png');
-}
-a:visited {
+a {
   cursor: url('./images/cursor.png');
 }
 img:hover{
