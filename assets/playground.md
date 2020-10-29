@@ -20,6 +20,9 @@ a:visited {
 .link:hover {
   cursor: url('./images/cursor.png'), default;
 }
+.w3-container{
+  cursor: url('./images/cursor.png'), default;
+}
 </style>
 <script> 
 window.onkeydown = function( event ) {
@@ -32,7 +35,7 @@ window.onkeydown = function( event ) {
 
 ## Modal images
 
-12:32 update
+12:37 update
 
 Modal:
 <br>      
