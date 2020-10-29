@@ -8,7 +8,13 @@ layout: default
     <link rel="shortcut icon" type="image/x-icon" href="../assets/images/favicon-v6.ico">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM Sans">
     <link rel="stylesheet" href="./css/w3-mod.css">
-    <style>* {
+    <style>body {
+  cursor: url('./images/cursor.png'), default;
+}
+a:link {
+  cursor: url('./images/cursor.png'), default;
+}
+a:visited {
   cursor: url('./images/cursor.png'), default;
 }</style>
 <script> 
@@ -22,7 +28,7 @@ window.onkeydown = function( event ) {
 
 ## Modal images
 
-12:24 update
+12:28 update
 
 Modal:
 <br>      
