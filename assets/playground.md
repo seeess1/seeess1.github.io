@@ -3,7 +3,7 @@ layout: default
 ---
   <head>
     <style>* {
-  cursor: url('./images/cursor.png'), url('./images/cursor-2.png');
+  cursor: url('./images/cursor.png'), auto;
 }
 a {
   cursor: url('./images/cursor.png');
@@ -24,7 +24,7 @@ img{
 </head>
 # Playground
 
-5:19 update
+5:28 update
 
 ## Cursor
 
