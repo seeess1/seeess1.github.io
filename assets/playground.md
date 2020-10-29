@@ -23,6 +23,9 @@ img{
 .w3-container{
   cursor: url('./images/cursor.png'); 
 }
+    li{
+        cursor: pointer;
+    }
 </style>
 <script> 
 window.onkeydown = function( event ) {
@@ -33,7 +36,7 @@ window.onkeydown = function( event ) {
 </head>
 # Playground
 
-1:18 update
+5:17 update
 
 ## Cursor
 
@@ -51,6 +54,14 @@ And here's an image:
     </div>
   </div>
 </div>
+
+And here's a list:
+    <ul>
+        <li>List item one</li>
+        <li>List item two</li>
+        <li>List item three</li>
+    </ul>
+
 
 ## Modal images
 
