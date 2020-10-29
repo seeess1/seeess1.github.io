@@ -2,14 +2,8 @@
 layout: default
 ---
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" type="image/x-icon" href="../assets/images/favicon-v6.ico">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM Sans">
-    <link rel="stylesheet" href="./css/w3-mod.css">
     <style>* {
-  cursor: url('./images/cursor.png'), auto;
+  cursor: url('./images/cursor.png'), url('./images/cursor-2.png');
 }
 a {
   cursor: url('./images/cursor.png');
@@ -27,14 +21,7 @@ img{
         cursor: pointer;
     }
 </style>
-<script> 
-window.onkeydown = function( event ) {
-    if ( event.keyCode == 27 ) {
-        document.getElementsByClassName("w3-container").style.display="none"}
-      };
-</script>
 </head>
-<body>
 # Playground
 
 5:19 update
@@ -66,4 +53,9 @@ And here's a list:
 ## Modal images
 
 Still need to figure out how to add the close-out functionality to the exit buttons.
-</body>
+<!-- <script> 
+window.onkeydown = function( event ) {
+    if ( event.keyCode == 27 ) {
+        document.getElementsByClassName("w3-container").style.display="none"}
+      };
+</script> -->
