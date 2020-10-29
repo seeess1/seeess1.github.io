@@ -23,6 +23,9 @@ img:hover{
 img{
   cursor: url('./images/cursor.png'); 
 }
+.w3-container{
+  cursor: url('./images/cursor.png'); 
+}
 </style>
 <script> 
 window.onkeydown = function( event ) {
@@ -35,7 +38,7 @@ window.onkeydown = function( event ) {
 
 ## Modal images
 
-1:07 update
+1:10 update
 
 Modal:
 <br>      
