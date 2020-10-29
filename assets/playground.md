@@ -20,10 +20,16 @@ a:visited {
 .link:hover {
   cursor: url('./images/cursor.png'), default;
 }
-.w3-container{
+.div{
+  cursor: url('./images/cursor.png'), default;
+}
+div{
   cursor: url('./images/cursor.png'), default;
 }
 .img{
+  cursor: url('./images/cursor.png'), default; 
+}
+img{
   cursor: url('./images/cursor.png'), default; 
 }
 </style>
@@ -38,7 +44,7 @@ window.onkeydown = function( event ) {
 
 ## Modal images
 
-12:38 update
+12:41 update
 
 Modal:
 <br>      
