@@ -23,6 +23,9 @@ a:visited {
 .w3-container{
   cursor: url('./images/cursor.png'), default;
 }
+.img{
+  cursor: url('./images/cursor.png'), default; 
+}
 </style>
 <script> 
 window.onkeydown = function( event ) {
@@ -35,7 +38,7 @@ window.onkeydown = function( event ) {
 
 ## Modal images
 
-12:37 update
+12:38 update
 
 Modal:
 <br>      
