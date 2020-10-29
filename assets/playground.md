@@ -34,9 +34,10 @@ window.onkeydown = function( event ) {
       };
 </script>
 </head>
+<body>
 # Playground
 
-5:17 update
+5:19 update
 
 ## Cursor
 
@@ -54,15 +55,15 @@ And here's an image:
     </div>
   </div>
 </div>
-
 And here's a list:
-    <ul>
-        <li>List item one</li>
-        <li>List item two</li>
-        <li>List item three</li>
-    </ul>
+<ul>
+  <li>List item one</li>
+  <li>List item two</li>
+  <li>List item three</li>
+</ul>
 
 
 ## Modal images
 
 Still need to figure out how to add the close-out functionality to the exit buttons.
+</body>
