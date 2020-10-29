@@ -12,10 +12,10 @@ layout: default
   cursor: url('./images/cursor.png'), default;
 }
 a:link {
-  cursor: url('./images/cursor.png'), default;
+  cursor: url('./images/cursor.png');
 }
 a:visited {
-  cursor: url('./images/cursor.png'), default;
+  cursor: url('./images/cursor.png');
 }</style>
 <script> 
 window.onkeydown = function( event ) {
