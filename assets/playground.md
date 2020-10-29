@@ -9,13 +9,13 @@ layout: default
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM Sans">
     <link rel="stylesheet" href="./css/w3-mod.css">
     <style>body {
-  cursor: url('./images/cursor.png'), default;
+  cursor: url('./images/cursor.png');
 }
 a:link {
-  cursor: url('./images/cursor.png') default;
+  cursor: url('./images/cursor.png');
 }
 a:visited {
-  cursor: url('./images/cursor.png') default;
+  cursor: url('./images/cursor.png');
 }</style>
 <script> 
 window.onkeydown = function( event ) {
@@ -28,7 +28,7 @@ window.onkeydown = function( event ) {
 
 ## Modal images
 
-12:31 update
+12:32 update
 
 Modal:
 <br>      
