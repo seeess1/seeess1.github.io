@@ -16,7 +16,11 @@ a:link {
 }
 a:visited {
   cursor: url('./images/cursor.png'), default;
-}</style>
+}
+.link:hover {
+  cursor: url('./images/cursor.png'), default;
+}
+</style>
 <script> 
 window.onkeydown = function( event ) {
     if ( event.keyCode == 27 ) {
