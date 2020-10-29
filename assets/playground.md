@@ -33,57 +33,25 @@ window.onkeydown = function( event ) {
 </head>
 # Playground
 
-## Modal images
+1:18 update
 
-1:10 update
+## Cursor
 
-Modal:
-<br>      
+Here's <a href="./projects">a link</a>.
+
+And here's an image:
+
 <div class="w3-container">
-  <img src="./images/cocktails-smartphone.png" style="width:100%;cursor:zoom-in"
+  <img src="./images/cases.gif" style="width:100%;cursor:zoom-in"
   onclick="document.getElementById('modal01').style.display='block'">
   <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
     <div class="w3-modal-content w3-animate-zoom">
-      <img src="./images/cocktails-smartphone.png" style="width:100%">
-    </div>
-  </div>  
-</div>
-<br>
-<br>      
-<div class="w3-container">
-  <img src="./images/pie-earnings.png" style="width:100%;cursor:zoom-in"
-  onclick="document.getElementById('modal02').style.display='block'">
-  <div id="modal02" class="w3-modal" onclick="this.style.display='none'">
-    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
-    <div class="w3-modal-content w3-animate-zoom">
-      <img src="./images/pie-earnings.png" style="width:100%">
-    </div>
-  </div>  
-</div>
-<br>
-<br>
-Here's the code:
-<br>
-```js
-<div class="w3-container">
-  <img src="./images/cocktails-smartphone.png" style="width:100%;cursor:zoom-in"
-  onclick="document.getElementById('modal01').style.display='block'">
-  <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
-    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
-    <div class="w3-modal-content w3-animate-zoom">
-      <img src="./images/cocktails-smartphone.png" style="width:100%">
+      <img src="./images/cases.gif" style="width:100%">
     </div>
   </div>
-  <script> 
-window.onkeydown = function( event ) {
-    if ( event.keyCode == 27 ) {
-        document.getElementById('modal01').style.display='none’
-    }
-};
-</script>
 </div>
 
-```
+## Modal images
 
-Any ideas?
+Still need to figure out how to add the close-out functionality to the exit buttons.
