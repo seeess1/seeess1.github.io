@@ -26,7 +26,10 @@ a:visited {
 div{
   cursor: url('./images/cursor.png'), default;
 }
-.img{
+.img:hover{
+  cursor: url('./images/cursor.png'), default; 
+}
+img:hover{
   cursor: url('./images/cursor.png'), default; 
 }
 img{
@@ -44,7 +47,7 @@ window.onkeydown = function( event ) {
 
 ## Modal images
 
-12:41 update
+1:02 update
 
 Modal:
 <br>      
