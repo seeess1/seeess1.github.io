@@ -6,16 +6,16 @@ layout: default
   cursor: url('./images/cursor.png'), auto;
 }
 a {
-  cursor: url('./images/cursor.png');
+  cursor: url('./images/cursor-2.png');
 }
 img:hover{
-  cursor: url('./images/cursor.png'); 
+  cursor: url('./images/cursor-2.png'); 
 }
 img{
-  cursor: url('./images/cursor.png'); 
+  cursor: url('./images/cursor-2.png'); 
 }
 .w3-container{
-  cursor: url('./images/cursor.png'); 
+  cursor: url('./images/cursor-2.png'); 
 }
     li{
         cursor: pointer;
@@ -24,7 +24,7 @@ img{
 </head>
 # Playground
 
-5:28 update
+5:35 update
 
 ## Cursor
 
