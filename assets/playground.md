@@ -7,7 +7,10 @@ layout: default
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="../assets/images/favicon-v6.ico">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM Sans">
-    <link rel="stylesheet" href="../assets/css/w3-mod.css">
+    <link rel="stylesheet" href="./css/w3-mod.css">
+    <style>body {
+  cursor: url('./images/cursor.png'), default;
+}</style>
 <script> 
 window.onkeydown = function( event ) {
     if ( event.keyCode == 27 ) {
