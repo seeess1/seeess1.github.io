@@ -8,7 +8,9 @@ One side of my brain feels most at home with data and programming while the othe
 <br>
 ## The data half
 
-Between 2013 and 2018, I worked in the legal-investigative world as an analyst. I started out at the [Manhattan DA's Office](https://www.manhattanda.org/district-attorney-vance-announces-expansion-anti-corruption-unit/) investigating city officials suspected of public corruption. Then I moved over to a small [PI firm](https://www.questinvestigates.com/) as an investigator where we did background checks, interviewed witnesses, and read lots of court cases. Finally, I moved back to the public sector as an auditor for the [NYC Campaign Finance Board](https://www.nyccfb.info/).
+I got a degree in Philosophy from Davidson College in 2010 (where I was, sadly, not part of Steph Curry's inner circle). I moved to NYC pretty soon after that and spent 2013 to 2018 working in the legal-investigative world as an analyst. 
+
+I started out at the [Manhattan DA's Office](https://www.manhattanda.org/district-attorney-vance-announces-expansion-anti-corruption-unit/) investigating city officials suspected of public corruption. Then I moved over to a small [PI firm](https://www.questinvestigates.com/) as an investigator where we did background checks, interviewed witnesses, and read lots of court cases. Finally, I moved back to the public sector as an auditor for the [NYC Campaign Finance Board](https://www.nyccfb.info/).
 
 During that last one (auditing), I started to make the switch from qualitative to quantitative analysis. In my spare time, I learned Python and SQL before deciding to go full time at an applied data science masters program at [NYU](https://cusp.nyu.edu/) in Summer 2018. 
 
