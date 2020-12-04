@@ -18,7 +18,7 @@ During that last one (auditing), I started to make the switch from qualitative t
 
 Our program focused on the intersection between urban planning and open data (aka how can we use data to understand/improve cities?), which helped me transition to [Topos](https://topos.com/), a Brooklyn-based startup where we used data to understand cities and shared our insights with retail chains looking to expand. I was a data engineer at Topos and you can find out more about my work with them <a href="./projects">here</a>.
 
-In sum, I'm an analyst who likes data of all kinds and that's what's been tugging me along this path over the past 7 years.
+In sum, I'm an analyst who likes data of all kinds and that's what's been tugging me along this path since 2013.
 <br>
 <br>
 ## The organizational half
