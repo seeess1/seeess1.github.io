@@ -7,13 +7,19 @@
     <link rel="shortcut icon" type="image/x-icon" href="../assets/images/favicon-v6.ico">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM Sans">
     <link rel="stylesheet" href="../assets/css/w3-mod.css">
-<script> 
-window.onkeydown = function( event ) {
-    if ( event.keyCode == 27 ) {
-        document.getElementsByClassName("w3-container").style.display="none"}
-      };
-</script>
-{% seo %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-55N60WQD3Y"></script>
+    <script>
+    	window.dataLayer = window.dataLayer || [];
+    	function gtag(){dataLayer.push(arguments);}
+    	gtag('js', new Date());
+    gtag('config', 'G-55N60WQD3Y');</script>
+	<script> 
+	window.onkeydown = function( event ) {
+	    if ( event.keyCode == 27 ) {
+	        document.getElementsByClassName("w3-container").style.display="none"}
+	      };
+	</script>
+	{% seo %}
     <link rel="stylesheet" href="{{ "../assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
