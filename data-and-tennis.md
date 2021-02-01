@@ -13,7 +13,7 @@ Since the onset of COVID-19, tennis has seen a [significant increase in particip
 
 We've seen more and more players coming out to Fort Greene for years, but I wanted to get some hard numbers to back up these observations. So I started collecting data from the courts, created a survey, and summarized the results in a tidy little [Data Studio report](https://datastudio.google.com/u/0/reporting/6520be9f-9cab-4426-8896-2ac97b74b574/page/hZ4vB) (our data collection and research is ongoing):
 <div class="w3-container">
-  <img src="./assets/images/fgta-report.gif" style="width:100%;cursor:zoom-in;border:3px solid white"
+  <img src="./assets/images/fgta-report.gif" style="width:100%;cursor:zoom-in;border:5px solid white"
   onclick="document.getElementById('modal02').style.display='block'">
   <div id="modal02" class="w3-modal" onclick="this.style.display='none'">
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
