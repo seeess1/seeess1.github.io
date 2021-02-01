@@ -56,7 +56,6 @@ def score_analyzer():
 ```
 <iframe width="100%" height="600px" src="https://datastudio.google.com/embed/reporting/02761227-2cfd-48d6-91e4-5b261788ef62/page/04osB" frameborder="0" style="border: 3px solid black; width: 100%; height: 600px;" allowfullscreen=""></iframe>
 <br>
-<br>
 I'm looking forward to working on this project more.
 <br>
 <br>
