@@ -39,7 +39,7 @@ To try and help distribute the demand for court time, I decided to make a map of
 <br>
 ## Bageled NYC
 
-I'm working with a creative partner on a project called [Bageled NYC](https://www.bageled.nyc/), where we print and sell bagel-inspired grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). To showcase our product, I created our website, which includes [a fun leaderboard](https://bageled.nyc/bagel-race) showing which pro tennis players currently have the most bagels on tour (updated hourly):
+I'm working with a creative partner on a project called [Bageled NYC](https://www.bageled.nyc/), where we print and sell bagel-inspired grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). I've worked on everything from production sourcing to social media outreach. One of my main projects was to create our website, which has steadily evolved and now includes [a fun leaderboard](https://bageled.nyc/bagel-race) showing which pro tennis players currently have the most bagels on tour (updated hourly):
 
 <iframe width="100%" height="600px" src="https://datastudio.google.com/embed/reporting/02761227-2cfd-48d6-91e4-5b261788ef62/page/04osB" frameborder="0" style="border: 3px solid black; width: 100%; height: 600px;" allowfullscreen=""></iframe>
 
