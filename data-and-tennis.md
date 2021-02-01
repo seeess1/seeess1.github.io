@@ -39,7 +39,11 @@ To try and help distribute the demand for court time, I decided to make a map of
 <br>
 ## Bageled NYC
 
-I'm working with a creative partner on producing bagel-themed grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). To showcase our product, I created [our website](https://www.bageled.nyc/), which includes a cloud-based Python script for scraping scores from pro tennis matches across the globe:
+I'm working with a creative partner on a project called [Bageled NYC](https://www.bageled.nyc/), where we print and sell bagel-inspired grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). To showcase our product, I created our website, which includes [a fun leaderboard](https://bageled.nyc/bagel-race) showing which pro tennis players currently have the most bagels on tour (updated hourly):
+
+<iframe width="100%" height="600px" src="https://datastudio.google.com/embed/reporting/02761227-2cfd-48d6-91e4-5b261788ef62/page/04osB" frameborder="0" style="border: 3px solid black; width: 100%; height: 600px;" allowfullscreen=""></iframe>
+
+To pull in the data for this leaderboard, I wrote a cloud-based Python script for scraping scores from pro tennis matches across the globe:
 ```python
 def score_analyzer():
     # Iterate through pro matches
@@ -52,9 +56,6 @@ def score_analyzer():
                     match_score += str(set_score["home_score"]) + \
                     " - " + str(set_score["away_score"]) + " "
 ```
-Plus [a fun leaderboard](https://bageled.nyc/bagel-race) showing which pro players have the most bagels (updated hourly):
-
-<iframe width="100%" height="600px" src="https://datastudio.google.com/embed/reporting/02761227-2cfd-48d6-91e4-5b261788ef62/page/04osB" frameborder="0" style="border: 3px solid black; width: 100%; height: 600px;" allowfullscreen=""></iframe>
 <br>
 I'm looking forward to working on this project more.
 <br>
