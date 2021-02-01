@@ -18,7 +18,7 @@ We've seen more and more players coming out to Fort Greene for years, but I want
   <div id="modal02" class="w3-modal" onclick="this.style.display='none'">
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
     <div class="w3-modal-content w3-animate-zoom">
-      <img src="./assets/images/fgta-report.gif" style="width:100%">
+      <img src="./assets/images/fgta-report.gif" style="width:100% border:3px solid white">
     </div>
   </div>
 </div>
