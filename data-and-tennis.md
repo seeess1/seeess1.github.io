@@ -9,10 +9,25 @@ I've come up with self-directed projects combining tennis and data to help with 
 <br>
 ## FGTA and NYC tennis
 
-Data is playing a bigger role at the Fort Greene Tennis Association than ever before and I've spearheaded several related projects. 
+Since the onset of COVID-19, tennis has seen a [significant increase in participation](https://www.pbs.org/newshour/show/how-has-covid-9-impacted-tennis) across the US. That has been especially true at Fort Greene Park, where we had lines of 50+ people starting each morning at around 6:30am. 
+
+We've seen more and more players coming out to Fort Greene for years, but I wanted to get some hard numbers to back up these observations. So I started collecting data from the courts, created a survey, and summarized the results in a tidy little [Data Studio report](https://datastudio.google.com/u/0/reporting/6520be9f-9cab-4426-8896-2ac97b74b574/page/hZ4vB) (our data collection and research is ongoing):
+<div class="w3-container">
+  <img src="./assets/images/fgta-report.gif" style="width:100%;cursor:zoom-in"
+  onclick="document.getElementById('modal02').style.display='block'">
+  <div id="modal02" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
+    <div class="w3-modal-content w3-animate-zoom">
+      <img src="./assets/images/fgta-report.gif" style="width:100%">
+    </div>
+  </div>
+</div>
 <br>
 <br>
-To help people find places to play racket sports in NYC, I collected data with the location of every handball wall and public tennis court in NYC and used Python to clean it and geocode the addresses. Then I worked with a colleague to [map them](http://www.fortgreenetennis.org/nyc-courts):
+
+<br>
+<br>
+To try and help distribute the demand for court time, I decided to make a map of tennis courts to help people find more places to play. So with a little Python, some NYC Open Data, and a dash of Google Maps results, we came up with [a map](http://www.fortgreenetennis.org/nyc-courts) of public and private tennis courts in NYC along with handball walls (they're great for practice!):
 
 <div class="w3-container">
   <img src="./assets/images/tennis-map.gif" style="width:100%;cursor:zoom-in"
@@ -26,39 +41,9 @@ To help people find places to play racket sports in NYC, I collected data with t
 </div>
 <br>
 <br>
-I've also analyzed tennis permit sales by zip code using data I FOIL requested from the NYC Parks Department:
-
-<div class="w3-container">
-  <img src="./assets/images/geo-viz.png" style="width:100%;cursor:zoom-in"
-  onclick="document.getElementById('modal02').style.display='block'">
-  <div id="modal02" class="w3-modal" onclick="this.style.display='none'">
-    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
-    <div class="w3-modal-content w3-animate-zoom">
-      <img src="./assets/images/geo-viz.png" style="width:100%">
-    </div>
-  </div>
-</div>
-<br>
-<br>
-And visualized trends in permit purchases among different age groups using the same data set from NYC Parks:
-
-<div class="w3-container">
-  <img src="./assets/images/permits-age.png" style="width:100%;cursor:zoom-in"
-  onclick="document.getElementById('modal03').style.display='block'">
-  <div id="modal03" class="w3-modal" onclick="this.style.display='none'">
-    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
-    <div class="w3-modal-content w3-animate-zoom">
-      <img src="./assets/images/permits-age.png" style="width:100%">
-    </div>
-  </div>
-</div>
-<br>
-The point of all of this work is to understand the degree to which tennis is growing in NYC and to help meet the demand for tennis in the City (which is on the rise). The work is ongoing...
-<br>
-<br>
 ## Bageled NYC
 
-I'm working with a creative partner on producing bagel-themed grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). To showcase our product, I created [our website](https://www.bageled.nyc/), which includes a cloud-based Python script for scraping scores from pro tennis matches across the globe:
+I'm working with a creative partner on producing bagel-themed grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). To showcase our product, I created [our website](https://www.bageled.nyc/), which includes a cloud-based Python script for scraping scores from pro tennis matches across the globe and a fun leaderboard showing which pro players have the most bagels (updated hourly):
 
 ```python
 def score_analyzer():
