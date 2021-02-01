@@ -74,6 +74,23 @@ And we even made maps for New Yorkers looking for [a place to get a drink outsid
 <br>
 <br>
 <br>
+## Personal Projects
+
+I like learning by doing, so I'm working on new projects just for fun, like [this data pipeline I set up](https://github.com/seeess1/twitter) for streaming in tweets with specific phrases or hashtags
+
+<div class="w3-container">
+  <img src="./assets/images/twitter.png" style="width:100%;cursor:zoom-in"
+  onclick="document.getElementById('modal04').style.display='block'">
+  <div id="modal04" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
+    <div class="w3-modal-content w3-animate-zoom">
+      <img src="./assets/images/twitter.png" style="width:100%">
+    </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
 # Data analysis
 
 When I wasn't transforming large data sets, I did my own analysis for Topos on topics like [trends in job postings nationwide](https://twitter.com/topos_ai/status/1258184297732849666) following the onset of COVID-19. Or looking at communities in the American Southwest that are particularly vulnerable to [public health crises](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb):
