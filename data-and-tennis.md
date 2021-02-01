@@ -24,9 +24,6 @@ We've seen more and more players coming out to Fort Greene for years, but I want
 </div>
 <br>
 <br>
-
-<br>
-<br>
 To try and help distribute the demand for court time, I decided to make a map of tennis courts to help people find more places to play. So with a little Python, some NYC Open Data, and a dash of Google Maps results, we came up with [a map](http://www.fortgreenetennis.org/nyc-courts) of public and private tennis courts in NYC along with handball walls (they're great for practice!):
 
 <div class="w3-container">
@@ -57,7 +54,10 @@ def score_analyzer():
                     match_score += str(set_score["home_score"]) + \
                     " - " + str(set_score["away_score"]) + " "
 ```
-
+<br>
+<iframe width="768" height="850" src="https://datastudio.google.com/embed/reporting/02761227-2cfd-48d6-91e4-5b261788ef62/page/04osB" frameborder="0" style="border: 3px solid black; width: 768px; height: 850px;" allowfullscreen=""></iframe>
+<br>
+<br>
 <div class="w3-container">
   <img src="./assets/images/bageled.png" style="width:100%;cursor:zoom-in"
   onclick="document.getElementById('modal04').style.display='block'">
