@@ -56,7 +56,6 @@ def score_analyzer():
                     match_score += str(set_score["home_score"]) + \
                     " - " + str(set_score["away_score"]) + " "
 ```
-<br>
 I'm looking forward to working on this project more.
 <br>
 <br>
