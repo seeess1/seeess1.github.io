@@ -55,7 +55,7 @@ def score_analyzer():
                     " - " + str(set_score["away_score"]) + " "
 ```
 <br>
-<iframe width="768" height="850" src="https://datastudio.google.com/embed/reporting/02761227-2cfd-48d6-91e4-5b261788ef62/page/04osB" frameborder="0" style="border: 3px solid black; width: 768px; height: 850px;" allowfullscreen=""></iframe>
+<iframe width=100% src="https://datastudio.google.com/embed/reporting/02761227-2cfd-48d6-91e4-5b261788ef62/page/04osB" frameborder="0" style="border: 3px solid black; width: 768px; height: 850px;" allowfullscreen=""></iframe>
 <br>
 <br>
 <div class="w3-container">
