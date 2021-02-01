@@ -23,7 +23,6 @@ We've seen more and more players coming out to Fort Greene for years, but I want
   </div>
 </div>
 <br>
-<br>
 To try and help distribute the demand for court time, I decided to make a map of tennis courts to help people find more places to play. So with a little Python, some NYC Open Data, and a dash of Google Maps results, we came up with [a map](http://www.fortgreenetennis.org/nyc-courts) of public and private tennis courts in NYC along with handball walls (they're great for practice!):
 
 <div class="w3-container">
