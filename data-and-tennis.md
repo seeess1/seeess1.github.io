@@ -41,7 +41,7 @@ To try and help distribute the demand for court time, I decided to make a map of
 
 I'm working with a creative partner on a project called [Bageled NYC](https://www.bageled.nyc/), where we print and sell bagel-inspired grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). I've worked on everything from production sourcing to social media outreach. One of my main projects was to create our website, which has steadily evolved and now includes [a fun leaderboard](https://bageled.nyc/bagel-race) showing which pro tennis players currently have the most bagels on tour (updated hourly):
 
-<iframe width="100%" height="600px" src="https://datastudio.google.com/embed/reporting/02761227-2cfd-48d6-91e4-5b261788ef62/page/04osB" frameborder="0" style="border: 3px solid black; width: 100%; height: 600px;" allowfullscreen=""></iframe>
+<iframe width="100%" height="500px" src="https://datastudio.google.com/embed/reporting/02761227-2cfd-48d6-91e4-5b261788ef62/page/04osB" frameborder="0" style="border: 3px solid black; width: 100%; height: 500px;" allowfullscreen=""></iframe>
 
 To pull in the data for this leaderboard, I wrote a cloud-based Python script for scraping scores from pro tennis matches across the globe:
 ```python
