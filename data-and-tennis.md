@@ -55,19 +55,8 @@ def score_analyzer():
                     " - " + str(set_score["away_score"]) + " "
 ```
 <br>
-<iframe width="100%" height="100%" src="https://datastudio.google.com/embed/reporting/02761227-2cfd-48d6-91e4-5b261788ef62/page/04osB" frameborder="0" style="border: 3px solid black; width: 100%; height: 100%;" allowfullscreen=""></iframe>
+<iframe width="100%" height="700px" src="https://datastudio.google.com/embed/reporting/02761227-2cfd-48d6-91e4-5b261788ef62/page/04osB" frameborder="0" style="border: 3px solid black; width: 100%; height: 700px;" allowfullscreen=""></iframe>
 <br>
-<br>
-<div class="w3-container">
-  <img src="./assets/images/bageled.png" style="width:100%;cursor:zoom-in"
-  onclick="document.getElementById('modal04').style.display='block'">
-  <div id="modal04" class="w3-modal" onclick="this.style.display='none'">
-    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
-    <div class="w3-modal-content w3-animate-zoom">
-      <img src="./assets/images/bageled.png" style="width:100%">
-    </div>
-  </div>
-</div>
 <br>
 I'm looking forward to working on this project more.
 <br>
