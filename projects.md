@@ -80,8 +80,8 @@ I like learning by doing, so I'm working on new projects just for fun, like [thi
 
 <div class="w3-container">
   <img src="./assets/images/twitter.png" style="width:100%;cursor:zoom-in"
-  onclick="document.getElementById('modal04').style.display='block'">
-  <div id="modal04" class="w3-modal" onclick="this.style.display='none'">
+  onclick="document.getElementById('modal05').style.display='block'">
+  <div id="modal05" class="w3-modal" onclick="this.style.display='none'">
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
     <div class="w3-modal-content w3-animate-zoom">
       <img src="./assets/images/twitter.png" style="width:100%">
