@@ -42,12 +42,12 @@ To try and help distribute the demand for court time, I decided to make a map of
 I'm working with a creative partner on a project called [Bageled NYC](https://www.bageled.nyc/), where we print and sell bagel-inspired grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). I've worked on everything from production sourcing to social media outreach. One of my main projects was to create our website, which has steadily evolved and now includes [a fun leaderboard](https://bageled.nyc/bagel-race) showing which pro tennis players currently have the most bagels on tour (updated hourly):
 
 <div class="w3-container">
-  <img src="./assets/images/bagel-race.gif" style="width:100%;cursor:zoom-in"
+  <img src="./assets/images/bagel-race.png" style="width:100%;cursor:zoom-in"
   onclick="document.getElementById('modal10').style.display='block'">
   <div id="modal10" class="w3-modal" onclick="this.style.display='none'">
     <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
     <div class="w3-modal-content w3-animate-zoom">
-      <img src="./assets/images/bagel-race.gif" style="width:100%">
+      <img src="./assets/images/bagel-race.png" style="width:100%">
     </div>
   </div>
 </div>
