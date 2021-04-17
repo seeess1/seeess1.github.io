@@ -16,7 +16,7 @@ During that last one (auditing), I started to make the switch from qualitative t
 
 <a href = "https://cusp.nyu.edu/"><img src="./assets/images/cusp.png" alt="CUSP at 370 Jay St."></a>
 
-Our program focused on the intersection between urban planning and open data (aka how can we use data to understand/improve cities?), which helped me transition into a data engineering role at [Topos](https://topos.com/), a Brooklyn-based startup where we used data to understand cities and shared our insights with retail chains looking to expand. Unfortunately for Topos, retail expansion and COVID-19 didn't mix well and the company was forced to close. But I'm continuing down the data engineering track in a new role at Earnest Research, where we work with big data across multiple sectors, including retail and healthcare, and will be learning to use tools like Airflow, dbt, and others.
+Our program focused on the intersection between urban planning and open data (aka how can we use data to understand/improve cities?), which helped me transition into a data engineering role at [Topos](https://topos.com/), a Brooklyn-based startup where we used data to understand cities and shared our insights with retail chains looking to expand. Unfortunately for Topos, retail expansion and COVID-19 didn't mix well and the company was forced to close. But I'm continuing down the data engineering track in a new role at [Earnest Research](https://www.earnestresearch.com/), where we work with big data across multiple sectors, including retail and healthcare, and will be learning to use tools like Airflow, dbt, and others.
 
 In sum, I'm an analyst who likes data of all kinds and that's what's been tugging me along this path since 2013.
 <br>
