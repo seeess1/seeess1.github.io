@@ -4,10 +4,10 @@ layout: default
 
 <h1>Data engineering</h1>
 
-I'm just getting started as a data engineer at Earnest Research, where we're working with big data across multiple sectors, including retail and healthcare, and where I'll be using tools like Airflow and dbt.
+I'm just getting started in a new data engineering role at Earnest Research, where we're using tools like Airflow and dbt and working with big data across multiple sectors, including retail and healthcare.
 <br>
 <br>
-Prior to Earnest, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps. 
+But prior to Earnest, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps. 
 <br>
 <br>
 To make our maps, we needed lots of data: demographic stats from the Census, business metadata, vehicular traffic counts, restaurant reviews, and much more. The data I collected, cleaned, and transformed served as the backbone for our applications, including...
