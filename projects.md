@@ -79,7 +79,7 @@ And we even made maps for New Yorkers looking for [a place to get a drink outsid
 <br>
 ## Personal Projects
 
-I like learning by doing, so I'm working on new projects just for fun, like [this data pipeline I set up](https://github.com/seeess1/twitter) for streaming in tweets with specific phrases or hashtags
+I prefer learning by doing, so I find projects to do on the side for fun, like [this data pipeline I set up](https://github.com/seeess1/twitter) for streaming in tweets with specific phrases or hashtags.
 
 <div class="w3-container">
   <img src="./assets/images/twitter.png" style="width:100%;cursor:zoom-in"
