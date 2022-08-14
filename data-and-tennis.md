@@ -35,11 +35,6 @@ def score_analyzer():
 I'm looking forward to working on this project more.
 <br>
 <br>
-## ATP tennis
-
-I'm also generally curious to know more about life on the ATP tour, especially when it comes to the financial aspects of that lifestyle. To figure out which players are making bank, who's breaking even, and who's in the red, I found prize money data from 2019 in PDF format, transformed thousands of those PDF pages into a table using Python, and analyzed the data using SQL. Here are a couple early findings:
-<br>
-<br>
 ## FGTA and NYC tennis
 
 Since the onset of COVID-19, tennis has seen a [significant increase in participation](https://www.pbs.org/newshour/show/how-has-covid-9-impacted-tennis) across the US. That has been especially true at Fort Greene Park, where we had lines of 50+ people starting each morning at around 6:30am. 
@@ -68,6 +63,11 @@ To try and help distribute the demand for court time, I decided to make a map of
     </div>
   </div>
 </div>
+<br>
+<br>
+## ATP tennis
+
+I'm also generally curious to know more about life on the ATP tour, especially when it comes to the financial aspects of that lifestyle. To figure out which players are making bank, who's breaking even, and who's in the red, I found prize money data from 2019 in PDF format, transformed thousands of those PDF pages into a table using Python, and analyzed the data using SQL. Here are a couple early findings:
 <br>
 <br>
 ### Weekly earnings
