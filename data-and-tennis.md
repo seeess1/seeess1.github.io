@@ -4,9 +4,9 @@ layout: default
 
 # Data + tennis
 
-I'm a lifelong tennis player and have stayed active in the game as a player, community organizer at the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), and through a side business with my friend called [Bageled NYC](https://bageled.nyc/). And in the Spring of 2022 I started working in tennis full time as a Data Engineer at [Universal Tennis](https://www.universaltennis.com/). At Universal Tennis, I keep our existing data pipelines running, build new pipelines for new products, and find ways to get involved any way I can in other aspects of the business.
+I'm a lifelong tennis player and have stayed active in the game as a player, community organizer at the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), and through a side business with my friend called [Bageled NYC](https://bageled.nyc/). And in the Spring of 2022 I started working in tennis full time as a Data Engineer at [Universal Tennis](https://www.universaltennis.com/). 
 
-Here's a little bit about some of my personal projects with tennis and data that helped get me to where I'm at as a data engineer working in the tennis industry:
+At Universal Tennis, I keep our existing data pipelines running, build new pipelines for new products, and find ways to get involved any way I can in other aspects of the business. And here's a little bit about some of my personal projects with tennis and data:
 <br>
 <br>
 ## Bageled NYC
