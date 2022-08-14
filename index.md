@@ -20,7 +20,7 @@ Many of <a href="./projects">my projects</a> center around making maps using geo
 <br>
 <h3><a href="./data-and-tennis">Data + tennis</a></h3>
 
-But I'm also in a long-term, committed relationship with tennis and I've <a href="./data-and-tennis">found ways</a> to combine that with data (including my current role as a Data Engineer at Universal Tennis):
+But I'm also in a long-term, committed relationship with tennis and I've <a href="./data-and-tennis">found ways</a> to combine that with data (including my current role as a Data Engineer at [Universal Tennis](https://www.universaltennis.com/)):
 
 <a href="./data-and-tennis"><img src="./assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
 <br>

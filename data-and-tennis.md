@@ -4,7 +4,40 @@ layout: default
 
 # Data + tennis
 
-I've come up with self-directed projects combining tennis and data to help with my work as a board member at the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), as part of an entrepreneurial project my friend and I started, and out of general curiosity. 
+I'm a lifelong tennis player and have stayed active in the game as a player, community organizer at the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/), and through a side business with my friend called [Bageled NYC](https://bageled.nyc/). And in the Spring of 2022 I started working in tennis full time as a Data Engineer at [Universal Tennis](https://www.universaltennis.com/). At Universal Tennis, I keep our existing data pipelines running, build new pipelines for new products, and find ways to get involved any way I can in other aspects of the business.
+
+Here's a little bit about some of my personal projects with tennis and data that helped get me to where I'm at as a data engineer working in the tennis industry:
+<br>
+<br>
+## Bageled NYC
+
+I'm working with a creative partner on a project called [Bageled NYC](https://www.bageled.nyc/), where we print and sell bagel-inspired grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). I've worked on everything from production sourcing to social media outreach. One of my main projects was to create our website, which has steadily evolved and now includes [a fun leaderboard](https://bageled.nyc/bagel-race) showing which pro tennis players currently have the most bagels on tour:
+<br>
+<br>
+<a href="https://datastudio.google.com/reporting/02761227-2cfd-48d6-91e4-5b261788ef62">
+   <img alt="Bagel Race" src="./assets/images/bagel-race.png">
+</a>
+<br>
+<br>
+To pull in the data for this leaderboard, I wrote a cloud-based Python script for scraping scores from pro tennis matches across the globe:
+```python
+def score_analyzer():
+    # Iterate through pro matches
+    for match in api_json["results"]:                
+            # Save the match score as a string
+            match_score = ""
+            set_scores = match["sport_event_status"]["period_scores"]
+            # Iterate through sets in the match
+            for set_score in set_scores:                
+                    match_score += str(set_score["home_score"]) + \
+                    " - " + str(set_score["away_score"]) + " "
+```
+I'm looking forward to working on this project more.
+<br>
+<br>
+## ATP tennis
+
+I'm also generally curious to know more about life on the ATP tour, especially when it comes to the financial aspects of that lifestyle. To figure out which players are making bank, who's breaking even, and who's in the red, I found prize money data from 2019 in PDF format, transformed thousands of those PDF pages into a table using Python, and analyzed the data using SQL. Here are a couple early findings:
 <br>
 <br>
 ## FGTA and NYC tennis
@@ -35,37 +68,6 @@ To try and help distribute the demand for court time, I decided to make a map of
     </div>
   </div>
 </div>
-<br>
-<br>
-## Bageled NYC
-
-I'm working with a creative partner on a project called [Bageled NYC](https://www.bageled.nyc/), where we print and sell bagel-inspired grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). I've worked on everything from production sourcing to social media outreach. One of my main projects was to create our website, which has steadily evolved and now includes [a fun leaderboard](https://bageled.nyc/bagel-race) showing which pro tennis players currently have the most bagels on tour (updated hourly):
-<br>
-<br>
-<a href="https://datastudio.google.com/reporting/02761227-2cfd-48d6-91e4-5b261788ef62">
-   <img alt="Bagel Race" src="./assets/images/bagel-race.png">
-</a>
-<br>
-<br>
-To pull in the data for this leaderboard, I wrote a cloud-based Python script for scraping scores from pro tennis matches across the globe:
-```python
-def score_analyzer():
-    # Iterate through pro matches
-    for match in api_json["results"]:                
-            # Save the match score as a string
-            match_score = ""
-            set_scores = match["sport_event_status"]["period_scores"]
-            # Iterate through sets in the match
-            for set_score in set_scores:                
-                    match_score += str(set_score["home_score"]) + \
-                    " - " + str(set_score["away_score"]) + " "
-```
-I'm looking forward to working on this project more.
-<br>
-<br>
-## ATP tennis
-
-I'm also generally curious to know more about life on the ATP tour, especially when it comes to the financial aspects of that lifestyle. To figure out which players are making bank, who's breaking even, and who's in the red, I found prize money data from 2019 in PDF format, transformed thousands of those PDF pages into a table using Python, and analyzed the data using SQL. Here are a couple early findings:
 <br>
 <br>
 ### Weekly earnings

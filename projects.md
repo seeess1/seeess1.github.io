@@ -4,13 +4,10 @@ layout: default
 
 <h1>Data engineering</h1>
 
-I'm just getting started in a new data engineering role at [Earnest Research](https://www.earnestresearch.com/), where we're using tools like Airflow and dbt and working with big data across multiple sectors, including retail and healthcare.
+I got into the data engineering game three years ago and have primarily worked with demographic, geospatial, retail, healthcare, and sports data.
 <br>
 <br>
-But prior to Earnest, I was a data engineer at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps. 
-<br>
-<br>
-To make our maps, we needed lots of data: demographic stats from the Census, business metadata, vehicular traffic counts, restaurant reviews, and much more. The data I collected, cleaned, and transformed served as the backbone for our applications, including...
+My first data engineering role was at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps. To make our maps, we needed lots of data: demographic stats from the Census, business metadata, vehicular traffic counts, restaurant reviews, and much more. The data I collected, cleaned, and transformed served as the backbone for our applications, including...
 <br>
 <br>
 <h2>COVID-19 Compiler</h2>
@@ -136,4 +133,4 @@ Plus exercises in [streaming big data](https://github.com/seeess1/bigData) and m
 <br>
 # Data + tennis
 
-I also look for projects that combine programming with my non-profit work and general interest in tennis. You can learn more about these projects <a href="./data-and-tennis">here</a>.
+I also look for personal projects that combine programming with my non-profit work and general interest in tennis. You can learn more about these projects <a href="./data-and-tennis">here</a>.
