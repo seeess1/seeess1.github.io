@@ -59,7 +59,7 @@ We worked with retailers by making maps like this one to help them find the best
 <br>
 ## Cocktails To Go
 
-And we even made maps for New Yorkers looking for [a place to get a drink outside](https://cocktails.topos.com/):
+And we even made maps for New Yorkers looking for [a place to get a drink outside](https://cocktails.topos.com/) in Summer 2020:
 
 <div class="w3-container">
   <img src="./assets/images/cocktails-smartphone.png" style="width:100%;cursor:zoom-in"
