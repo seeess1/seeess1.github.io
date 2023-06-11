@@ -41,7 +41,7 @@ It also let users layer demographic stats (like population, unemployment numbers
 
 ## Retail
 
-We worked with retailers by making maps like this one to help them find the best spot in any US city to open a new location based on machine learning models:
+We worked with retailers by making maps like this one to help them find the best spot in any US city to open a new store (based on machine learning models):
 
 <div class="w3-container">
   <img src="./assets/images/neighborhoods.gif" style="width:100%;cursor:zoom-in"
