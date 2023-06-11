@@ -24,7 +24,7 @@ Since then, I've stayed on the data engineering path and have found a way to ble
 From 2015 to 2023, I helped run the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/). While I was a board member at FGTA, I:
 
 - Led a fundraising drive in which we raised $70k and resurfaced all 6 tennis courts in 2019.
-- Collected and analyzed data to create <a href="./data-and-tennis">maps and analytical insights</a>
+- Collected and analyzed data to create <a href="./data-and-tennis">maps and analytical insights</a>.
 - And helped to put on events for hundreds of people (among many other things).
 
 FGTA became a [nationally-recognized organization](https://www.usta.com/en/home/stay-current/national/fort-greene-park-tennis-hotbed-highlights-growth-of-recreational.html) and I'm really glad I got to be a part of it.
