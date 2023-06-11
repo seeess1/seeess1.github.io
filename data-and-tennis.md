@@ -11,7 +11,7 @@ At Universal Tennis, I keep our existing data pipelines running, build new pipel
 <br>
 ## Bageled NYC
 
-I'm working with a creative partner on a project called [Bageled NYC](https://www.bageled.nyc/), where we print and sell bagel-inspired grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). I've worked on everything from production sourcing to social media outreach. One of my main projects was to create our website, which has steadily evolved and now includes [a fun leaderboard](https://bageled.nyc/bagel-race) showing which pro tennis players currently have the most bagels on tour:
+I'm working with a creative partner on a project called [Bageled NYC](https://www.bageled.nyc/), where we print and sell bagel-inspired grips for tennis rackets (in tennis, a score of 6-0 is also called a "bagel"). I've worked on everything from production sourcing to social media outreach. One of my main projects was to create our website, which has steadily evolved and now includes [a fun leaderboard](https://bageled.nyc/bagel-race) showing which pro tennis players have the most bagels on tour:
 <br>
 <br>
 <a href="https://datastudio.google.com/reporting/02761227-2cfd-48d6-91e4-5b261788ef62">
@@ -32,14 +32,11 @@ def score_analyzer():
                     match_score += str(set_score["home_score"]) + \
                     " - " + str(set_score["away_score"]) + " "
 ```
-I'm looking forward to working on this project more.
 <br>
 <br>
 ## FGTA and NYC tennis
 
-Since the onset of COVID-19, tennis has seen a [significant increase in participation](https://www.pbs.org/newshour/show/how-has-covid-9-impacted-tennis) across the US. That has been especially true at Fort Greene Park, where we had lines of 50+ people starting each morning at around 6:30am. 
-
-We've seen more and more players coming out to Fort Greene for years, but I wanted to get some hard numbers to back up these observations. So I started collecting data from the courts, created a survey, and summarized the results in a tidy little [Data Studio report](https://datastudio.google.com/u/0/reporting/6520be9f-9cab-4426-8896-2ac97b74b574/page/hZ4vB) (our data collection and research is ongoing):
+Since the onset of COVID-19, tennis has seen a [significant increase in participation](https://www.pbs.org/newshour/show/how-has-covid-9-impacted-tennis) across the US. To track that trend at our local park, I started collecting data from the courts, created a survey, and summarized the results in a tidy little [Data Studio report](https://datastudio.google.com/u/0/reporting/6520be9f-9cab-4426-8896-2ac97b74b574/page/hZ4vB):
 <div class="w3-container">
   <img src="./assets/images/fgta-report.gif" style="width:100%;cursor:zoom-in;border:5px solid white"
   onclick="document.getElementById('modal02').style.display='block'">
