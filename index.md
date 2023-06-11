@@ -21,4 +21,4 @@ But I'm also in a long-term, committed relationship with tennis and I've <a href
 <br>
 <h2>The organizational half</h2>
 
-Along with data engineering and analysis, I was also a board member at a non-profit in Brooklyn from 2015 to 2023. More on that <a href="./bio">here</a> if you're interested.
+Along with data engineering and analysis, I was also a board member at a non-profit in Brooklyn from 2015 to 2023, where I was focused on organizing volunteers to support our local community courts. More on that <a href="./bio">here</a> if you're interested.
