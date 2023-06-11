@@ -103,4 +103,4 @@ Plus exercises in [streaming big data](https://github.com/seeess1/bigData) and m
 <br>
 # Data + tennis
 
-As a Data Engineer at Universal Tennis, I've finally found a way to combine my work with tennis. I build pipelines to keep our player ratings up to date and manage our data engineering team. But I've also worked on a few personal projects, which you can see <a href="./data-and-tennis">here</a>.
+As a Data Engineer at Universal Tennis, I've finally found a way to combine my work with tennis. I build pipelines to keep our player ratings up-to-date and manage our data engineering team. But I've also worked on a few personal projects, which you can see <a href="./data-and-tennis">here</a>.
