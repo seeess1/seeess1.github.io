@@ -38,8 +38,7 @@ It also let users layer demographic stats (like population, unemployment numbers
   </div>
 </div>
 <br>
-<br>
-<br>
+
 ## Retail
 
 We worked with retailers by making maps like this one to help them find the best spot in any US city to open a new location based on machine learning models:
