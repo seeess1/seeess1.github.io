@@ -4,14 +4,14 @@ layout: default
 
 <h1>Data engineering</h1>
 
-I got into the data engineering game three years ago and have primarily worked with demographic, geospatial, retail, healthcare, and sports data.
+I got into the data engineering game five years ago and have worked with demographic, geospatial, retail, healthcare, and sports data.
 <br>
 <br>
 My first data engineering role was at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps. To make our maps, we needed lots of data: demographic stats from the Census, business metadata, vehicular traffic counts, restaurant reviews, and much more. The data I collected, cleaned, and transformed served as the backbone for our applications, including...
 <br>
 <br>
 <h2>COVID-19 Compiler</h2>
-In Spring 2020 we built a [COVID-19 tracker](https://covid19.topos.com/), which lets users explore different ways to measure COVID-19 cases in the US:
+In Spring 2020 we built a [COVID-19 tracker](https://covid19.topos.com/), which let users explore different ways to measure COVID-19 cases in the US:
 
 <div class="w3-container">
   <img src="./assets/images/cases.gif" style="width:100%;cursor:zoom-in"
@@ -25,7 +25,7 @@ In Spring 2020 we built a [COVID-19 tracker](https://covid19.topos.com/), which 
 </div>
 <br>
 
-It also lets users layer demographic stats (like population, unemployment numbers, and housing density) on top of case counts to look for interesting overlaps:
+It also let users layer demographic stats (like population, unemployment numbers, and housing density) on top of case counts to look for interesting overlaps:
 
 <div class="w3-container">
   <img src="./assets/images/layers.gif" style="width:100%;cursor:zoom-in"
@@ -42,7 +42,7 @@ It also lets users layer demographic stats (like population, unemployment number
 <br>
 ## Retail
 
-We helped retailers decide how to grow their business by making maps like this one, which finds similar neighborhoods across cities based on machine learning models:
+We worked with retailers by making maps like this one to help them find the best spot in any US city to open a new location based on machine learning models:
 
 <div class="w3-container">
   <img src="./assets/images/neighborhoods.gif" style="width:100%;cursor:zoom-in"
