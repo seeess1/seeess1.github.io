@@ -33,6 +33,7 @@ From 2015 to 2023, I helped run the [Fort Greene Tennis Association](http://www.
     </div>
   </div>
 </div>
+<br>
 
 While I was a board member at FGTA, I:
 
