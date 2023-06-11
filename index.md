@@ -8,12 +8,7 @@ I'm a data engineer (one half of my brain) who can also organize teams and proje
 <br>
 <h2>The data half</h2>
 
-I like Python, SQL, and maps (plus the occasional web development - like this website, for example).
-<br>
-<br>
-<h3><a href="./projects">Projects</a></h3>
-
-Many of <a href="./projects">my projects</a> center around making maps using geospatial data, like this COVID-19 tracker:
+I like Python, SQL, and maps (plus the occasional web development - like this website, for example). I've worked with geospatial data to help make this COVID-19 tracker:
 
 <a href="./projects"><img src="./assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
 <br>
@@ -27,4 +22,4 @@ But I'm also in a long-term, committed relationship with tennis and I've <a href
 <br>
 <h2>The organizational half</h2>
 
-Along with data engineering and analysis, I've also been a board member at a non-profit in Brooklyn since 2015. I explain the two halves in more detail <a href="./bio">here</a>.
+Along with data engineering and analysis, I was also a board member at a non-profit in Brooklyn from 2015 to 2023. More on that <a href="./bio">here</a> if you're interested.
