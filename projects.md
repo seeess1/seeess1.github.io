@@ -7,11 +7,22 @@ layout: default
 I got into the data engineering game five years ago and have worked with demographic, geospatial, retail, healthcare, and sports data.
 <br>
 <br>
-My first data engineering role was at a Brooklyn-based startup called [Topos](https://topos.com/), where we specialized in making maps. To make our maps, we needed lots of data: demographic stats from the Census, business metadata, vehicular traffic counts, restaurant reviews, and much more. The data I collected, cleaned, and transformed served as the backbone for our applications, including...
+My first data engineering role was at a Brooklyn-based startup called [Topos](https://topos.com/), where we helped retailers find new locations to open up shop by making maps, like this one:
 <br>
 <br>
-<h2>COVID-19 Compiler</h2>
-In Spring 2020 we built a [COVID-19 tracker](https://covid19.topos.com/), which let users explore different ways to measure COVID-19 cases in the US:
+<div class="w3-container">
+  <img src="./assets/images/neighborhoods.gif" style="width:100%;cursor:zoom-in"
+  onclick="document.getElementById('modal03').style.display='block'">
+  <div id="modal03" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
+    <div class="w3-modal-content w3-animate-zoom">
+      <img src="./assets/images/neighborhoods.gif" style="width:100%">
+    </div>
+  </div>
+</div>
+<br>
+
+But when COVID-19 began its spread, retail activity slowed to a halt and we decided to focus our efforts on the epidemic. So we took our map-making skills and built a [COVID-19 tracker](https://covid19.topos.com/), which let users explore different ways to measure COVID-19 cases in the US:
 
 <div class="w3-container">
   <img src="./assets/images/cases.gif" style="width:100%;cursor:zoom-in"
@@ -39,26 +50,7 @@ It also let users layer demographic stats (like population, unemployment numbers
 </div>
 <br>
 
-## Retail
-
-We worked with retailers by making maps like this one to help them find the best spot in any US city to open a new store (based on machine learning models):
-
-<div class="w3-container">
-  <img src="./assets/images/neighborhoods.gif" style="width:100%;cursor:zoom-in"
-  onclick="document.getElementById('modal03').style.display='block'">
-  <div id="modal03" class="w3-modal" onclick="this.style.display='none'">
-    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
-    <div class="w3-modal-content w3-animate-zoom">
-      <img src="./assets/images/neighborhoods.gif" style="width:100%">
-    </div>
-  </div>
-</div>
-<br>
-<br>
-<br>
-## Cocktails To Go
-
-And we even made maps for New Yorkers looking for [a place to get a drink outside](https://cocktails.topos.com/) in Summer 2020:
+And when people started needing a break from the desparation of COVID, we came up with a map [of places to get a drink outside](https://cocktails.topos.com/) to help New Yorkers blow off some steam:
 
 <div class="w3-container">
   <img src="./assets/images/cocktails-smartphone.png" style="width:100%;cursor:zoom-in"
@@ -76,7 +68,7 @@ And we even made maps for New Yorkers looking for [a place to get a drink outsid
 
 # Data analysis
 
-When I wasn't transforming large data sets, I did my own analysis for Topos on topics like [trends in job postings nationwide](https://twitter.com/topos_ai/status/1258184297732849666) following the onset of COVID-19. Or looking at communities in the American Southwest that are particularly vulnerable to [public health crises](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb):
+When I wasn't transforming large data sets at Topos, I did my own analysis on topics like [trends in job postings nationwide](https://twitter.com/topos_ai/status/1258184297732849666) following the onset of COVID-19. Or looking at communities in the American Southwest that are particularly vulnerable to [public health crises](https://medium.com/topos-ai/high-covid-19-vulnerability-seen-in-and-near-navajo-nation-and-hopi-reservation-in-arizona-edba321699cb):
 
 <div class="w3-container">
   <img src="./assets/images/reservations.png" style="width:100%;cursor:zoom-in"
@@ -91,6 +83,7 @@ When I wasn't transforming large data sets, I did my own analysis for Topos on t
 <br>
 <br>
 <br>
+
 # Data science
 
 And before joining Topos, I cut my teeth with data engineering, mapping, and analysis at NYU in an [applied data science program](https://cusp.nyu.edu/). My projects included: 
