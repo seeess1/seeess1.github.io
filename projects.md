@@ -4,7 +4,7 @@ layout: default
 
 <h1>Data engineering</h1>
 
-I got into the data engineering game five years ago and have worked with demographic, geospatial, retail, healthcare, and sports data.
+I got into the data engineering game in 2019 and have worked with demographic, geospatial, retail, healthcare, and sports data.
 <br>
 <br>
 My first data engineering role was at a Brooklyn-based startup called [Topos](https://topos.com/), where we helped retailers find new locations to open up shop by making maps, like this one:
@@ -22,7 +22,7 @@ My first data engineering role was at a Brooklyn-based startup called [Topos](ht
 </div>
 <br>
 
-But when COVID-19 began its spread, retail activity slowed to a halt and we decided to focus our efforts on the epidemic. So we took our map-making skills and built a [COVID-19 tracker](https://covid19.topos.com/), which let users explore different ways to measure COVID-19 cases in the US:
+But when COVID-19 began its spread, retail activity slowed to a halt and we decided to focus our efforts on the epidemic. So we took our map-making skills and built a COVID-19 tracker, which let users explore different ways to measure COVID-19 cases in the US:
 
 <div class="w3-container">
   <img src="./assets/images/cases.gif" style="width:100%;cursor:zoom-in"
