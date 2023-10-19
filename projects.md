@@ -50,7 +50,7 @@ It also let users layer demographic stats (like population, unemployment numbers
 </div>
 <br>
 
-And when people started needing a break from the desparation of COVID, we came up with a map [of places to get a drink outside](https://cocktails.topos.com/) to help New Yorkers blow off some steam:
+And when people started needing a break from the desparation of COVID, we came up with a map of places to get a drink outside to help New Yorkers blow off some steam:
 
 <div class="w3-container">
   <img src="./assets/images/cocktails-smartphone.png" style="width:100%;cursor:zoom-in"

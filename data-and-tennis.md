@@ -36,7 +36,7 @@ def score_analyzer():
 <br>
 ## FGTA and NYC tennis
 
-Since the onset of COVID-19, tennis has seen a [significant increase in participation](https://www.pbs.org/newshour/show/how-has-covid-9-impacted-tennis) across the US. To track that trend at our local park, I started collecting data from the courts, created a survey, and summarized the results in a tidy little [Data Studio report](https://datastudio.google.com/u/0/reporting/6520be9f-9cab-4426-8896-2ac97b74b574/page/hZ4vB):
+Since the onset of COVID-19, tennis has seen a [significant increase in participation](https://www.pbs.org/newshour/show/how-has-covid-9-impacted-tennis) across the US. To track that trend at our local park, I started collecting data from the courts, created a survey, and summarized the results in a tidy little Data Studio report:
 <div class="w3-container">
   <img src="./assets/images/fgta-report.gif" style="width:100%;cursor:zoom-in;border:5px solid white"
   onclick="document.getElementById('modal02').style.display='block'">
