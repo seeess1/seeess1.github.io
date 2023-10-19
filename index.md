@@ -8,7 +8,7 @@ I'm a data engineer (one half of my brain) who can also organize teams and proje
 <br>
 <h2>The data half</h2>
 
-I like Python, SQL, and maps (plus the occasional web development - like this website, for example). I've worked with all kinds of data and worked with teams building different types of applications, like this COVID-19 tracker, for example:
+I like Python, SQL, and maps. I've worked with all kinds of data and worked with teams building different types of applications, like this COVID-19 tracker, for example:
 
 <a href="./projects"><img src="./assets/images/covid-map.gif" alt="COVID-19 Tracker"></a>
 <br>
