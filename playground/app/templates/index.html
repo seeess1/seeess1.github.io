@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Playground: Home | Sam Burns
+{% endblock %}
+
+{% block content %}
+    <h2>Welcome!</h2>
+    <p>This is a WIP Flask app!</p>
+    <!-- Button to navigate to the data page -->
+    <a href="{{ url_for('show_data') }}" class="button">Show me some data</a>
+{% endblock %}

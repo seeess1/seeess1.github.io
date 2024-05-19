@@ -1,0 +1,18 @@
+/* Center align the content */
+.center {
+    text-align: center;
+}
+/* Style for table */
+table {
+    margin: 0 auto; /* Center the table */
+    border-collapse: collapse;
+    width: 80%; /* Adjust width as needed */
+}
+th, td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+th {
+    background-color: #f2f2f2;
+}

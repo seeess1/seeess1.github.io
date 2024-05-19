@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Playground: Data | Sam Burns
+{% endblock %}
+
+{% block content %}
+    <h2 class="center">Data</h2>
+    <table>
+        <tbody>
+            {% for table in tables %}
+                {{ table|safe }}
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
+
+<!-- Link to data-specific styles CSS file -->
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='data_styles.css') }}">
