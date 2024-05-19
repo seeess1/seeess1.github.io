@@ -1,6 +1,6 @@
 from flask import Flask, send_from_directory, render_template
 import pandas as pd
-from app.helpers.data_reader import read_data_csv
+from playground.app.helpers.data_reader import read_data_csv
 
 app = Flask(__name__)
 
@@ -13,7 +13,7 @@ def index():
 @app.route('/data')
 def show_data():
     # Read data from CSV file using the data_reader module
-    df = read_data_csv('app/data/data.csv')
+    df = read_data_csv('playground/app/data/data.csv')
     print(df)  # Add this line to print the DataFrame
     # Pass the DataFrame to the template
     return render_template('data.html', tables=[df.to_html(index=False)], titles=df.columns.values)
