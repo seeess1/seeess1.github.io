@@ -15,7 +15,7 @@ During that last one (auditing), I started to make the switch from qualitative t
 
 <a href = "https://cusp.nyu.edu/"><img src="./assets/images/cusp.png" alt="CUSP at 370 Jay St."></a>
 
-Since then, I've stayed on the data engineering path and have found a way to blend it together with tennis(!) in my current role as a Data Engineer at [Universal Tennis](https://www.universaltennis.com/).
+Since then, I've stayed on the data engineering path and have worked in different domains, from retail site selection to clean energy. I've even found a way to blend it together with tennis(!) in a side project I have called [Bageled NYC](https://bageled.nyc/).
 <br>
 <br>
 

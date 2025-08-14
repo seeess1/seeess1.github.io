@@ -4,7 +4,7 @@ layout: default
 
 <h1>Data engineering</h1>
 
-I got into the data engineering game in 2019 and have worked with demographic, geospatial, retail, healthcare, and sports data.
+I got into the data engineering game in 2019 and have worked with energy, geospatial, demographic, and sports data.
 <br>
 <br>
 My first data engineering role was at a Brooklyn-based startup called [Topos](https://topos.com/), where we helped retailers find new locations to open up shop by making maps, like this one:
