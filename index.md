@@ -14,7 +14,7 @@ I like Python, SQL, and maps. I've worked with all kinds of data and worked with
 <br>
 <br>
 
-But I'm also in a long-term, committed relationship with tennis and I've <a href="./data-and-tennis">found ways</a> to combine that with data (including my current role as a Data Engineer at [Universal Tennis](https://www.universaltennis.com/)):
+But I'm also in a long-term, committed relationship with tennis and I've <a href="./data-and-tennis">found ways</a> to combine that with data, including in my role as the co-creator behind [Bageled NYC](https://bageled.nyc/).
 
 <a href="./data-and-tennis"><img src="./assets/images/tennis-map.gif" alt="NYC Tennis Courts"></a>
 <br>
