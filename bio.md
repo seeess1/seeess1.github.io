@@ -16,32 +16,5 @@ During that last one (auditing), I started to make the switch from qualitative t
 <a href = "https://cusp.nyu.edu/"><img src="./assets/images/cusp.png" alt="CUSP at 370 Jay St."></a>
 
 Since then, I've stayed on the data engineering path and have worked in different domains, from retail site selection to clean energy. I've even found a way to blend it together with tennis(!) in a side project I have called [Bageled NYC](https://bageled.nyc/).
-<br>
-<br>
 
-## On the side...
-
-From 2015 to 2023, I helped run the [Fort Greene Tennis Association](http://www.fortgreenetennis.org/).
-
-<div class="w3-container">
-  <img src="./assets/images/tennis-v4.png" style="width:100%;cursor:zoom-in"
-  onclick="document.getElementById('modal01').style.display='block'">
-  <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
-    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
-    <div class="w3-modal-content w3-animate-zoom">
-      <img src="./assets/images/tennis-v4.png" style="width:100%">
-    </div>
-  </div>
-</div>
-<br>
-
-While I was a board member at FGTA, I:
-
-- Led a fundraising drive in which we raised $70k and resurfaced all 6 tennis courts in 2019.
-- Collected and analyzed data to create <a href="./tennis">maps and analytical insights</a>.
-- And helped to put on events for hundreds of people (among many other things).
-
-FGTA became a [nationally-recognized organization](https://www.usta.com/en/home/stay-current/national/fort-greene-park-tennis-hotbed-highlights-growth-of-recreational.html) and I'm really glad I got to be a part of it.
-<br>
-<br>
-<br>
+Having lived in NYC since 2011, it's the place I call home. If you wanna say hi, you can probably find me near a tennis court or working a shift at the Park Slope Food Coop. <a href="mailto: hi@samhburns.com">Email also works.</a>
