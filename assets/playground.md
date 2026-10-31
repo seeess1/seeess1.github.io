@@ -28,7 +28,7 @@ img{
 
 ## Cursor
 
-Here's <a href="./projects">a link</a>.
+Here's <a href="./software">a link</a>.
 
 And here's an image:
 
