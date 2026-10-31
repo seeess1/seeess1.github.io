@@ -4,7 +4,7 @@ layout: default
 
 <h1>Data engineering</h1>
 
-I'm currently a Senior Software Engineer at [Catalyst Power](https://catalystpower.com/). We sell power to commercial and industrial customers, help them transition to renewable energy sources, and own and operate our own power generation. I make sure that the data supplying those business lines is accurate and up-to-date.
+I'm currently a Senior Software Engineer at [Catalyst Power](https://catalystpower.com/). We sell power to commercial and industrial customers, help them transition to renewable energy sources, and operate our own power generation. I make sure that the data supplying those business lines is accurate and up-to-date.
 
 It's been a somewhat meandering road to get here. But the energy world is what I've been looking for in many ways and I'm excited to be working in it. Here's a bit more background on how I got here...
 
@@ -24,7 +24,7 @@ In 2017, I started learning some basic Python programming. I liked it enough to 
   </div>
 </div>
 <br>
-As a data engineer, my job was to build out the underlying geospatial metrics that fed our maps, which incorporated demographic, foot traffic, vehicular traffic, and business location datasets. But when COVID-19 began its spread, and retail activity slowed to a halt, we decided to apply our map-making skills to build a COVID-19 tracker, which allowed researchers, healthcare workers, and general users to explore different ways to understand the epidemic:
+As a data engineer, my job was to build out the underlying geospatial metrics that fed our maps, which incorporated demographic, foot traffic, vehicular traffic, and business location datasets. But when COVID-19 began to spread, and retail activity slowed to a halt, we decided to apply our map-making skills to build a COVID-19 tracker, which allowed researchers, healthcare workers, and general users to explore different ways to understand the epidemic:
 
 <div class="w3-container">
   <img src="./assets/images/cases.gif" style="width:100%;cursor:zoom-in"
@@ -54,7 +54,7 @@ Topos, sadly, wasn't able to make it out of the COVID-19 epidemic and had to clo
 </div>
 <br>
 
-All the while, I continued to be involved in the tennis world, and along came an opportunity to combine my software experience with my lifelong passion for tennis. I took on a role as data engineer at [UTR Sports](www.utrsports.net), a racket sports ratings and events platform used across the globe. I worked closely with their data science team to continue to improve on the ratings system (the bedrock of the company's products) and ended up managing the data engineering team and leading our projects.
+All the while, I continued to be <a href="./tennis">involved in the tennis world</a>, and along came an opportunity to combine my software experience with my lifelong passion for tennis. I took on a role as data engineer at [UTR Sports](www.utrsports.net), a racket sports ratings and events platform used across the globe. I worked closely with their data science team to continue to improve on the ratings system (the bedrock of the company's products) and ended up managing the data engineering team and leading our projects.
 
 
 <div class="w3-container">
@@ -96,7 +96,7 @@ My lifelong passion for tennis has also spawned a few software and hardware proj
 </div>
 <br>
 
-...and my latest project, which is an online radio show where we commentate on local, recreational tennis tournaments and provide real-time scores and stats:
+...and my latest project, which is an [online radio show](https://radio.bageled.nyc/) where we commentate on local, recreational tennis tournaments and provide real-time scores and stats:
 
 <div class="w3-container">
   <img src="./assets/images/radio-bageled-nyc.gif" style="width:100%;cursor:zoom-in"
@@ -109,5 +109,3 @@ My lifelong passion for tennis has also spawned a few software and hardware proj
   </div>
 </div>
 <br>
-
-More on my work in tennis <a href="./tennis">here</a>.
