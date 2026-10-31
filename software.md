@@ -24,8 +24,7 @@ In 2017, I started learning some basic Python programming. I liked it enough to 
   </div>
 </div>
 <br>
-
-As a data engineer, my job was to build out the underlying geospatial metrics that fed our maps, which incorporated demographic, foot traffic, vehicular traffic, and business location datasets. But when COVID-19 began its spread, and retail activity slowed to a halt, we decided to apply our map-making skills to build a COVID-19 tracker, which allowed researchers, healthcare workers, and general users to explore different ways to understand the spread of COVID-19 cases in the US:
+As a data engineer, my job was to build out the underlying geospatial metrics that fed our maps, which incorporated demographic, foot traffic, vehicular traffic, and business location datasets. But when COVID-19 began its spread, and retail activity slowed to a halt, we decided to apply our map-making skills to build a COVID-19 tracker, which allowed researchers, healthcare workers, and general users to explore different ways to understand the epidemic:
 
 <div class="w3-container">
   <img src="./assets/images/cases.gif" style="width:100%;cursor:zoom-in"
@@ -55,7 +54,7 @@ Topos, sadly, wasn't able to make it out of the COVID-19 epidemic and had to clo
 </div>
 <br>
 
-I started to find more direction during my time at Earnest and had an opportunity to combine my software experience with my lifelong passion for tennis as a data engineer at [UTR Sports](www.utrsports.net), a racket sports ratings and events platform used across the globe. I worked closely with their data science team to continue to improve on the ratings system (the bedrock of the company's products) and ended up managing the data engineering team and leading our projects.
+All the while, I continued to be involved in the tennis world, and along came an opportunity to combine my software experience with my lifelong passion for tennis. I took on a role as data engineer at [UTR Sports](www.utrsports.net), a racket sports ratings and events platform used across the globe. I worked closely with their data science team to continue to improve on the ratings system (the bedrock of the company's products) and ended up managing the data engineering team and leading our projects.
 
 
 <div class="w3-container">
@@ -83,7 +82,21 @@ My lifelong passion for tennis has also spawned a few software and hardware proj
    <img alt="Bagel Race" src="./assets/images/bagel-race.png">
 </a>
 
-...a personal scoreboard that I [designed and 3D-printed](https://bageled.nyc/DIY-scoreboard). And my latest project, which is an online radio show where we commentate on local, recreational tennis tournaments and provide real-time scores and stats:
+...a personal scoreboard that I [designed and 3D-printed](https://bageled.nyc/DIY-scoreboard)...
+
+<div class="w3-container">
+  <img src="./assets/images/scoreboard.gif" style="width:100%;cursor:zoom-in"
+  onclick="document.getElementById('modal01').style.display='block'">
+  <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
+    <div class="w3-modal-content w3-animate-zoom">
+      <img src="./assets/images/scoreboard.gif" style="width:100%">
+    </div>
+  </div>
+</div>
+<br>
+
+...and my latest project, which is an online radio show where we commentate on local, recreational tennis tournaments and provide real-time scores and stats:
 
 <div class="w3-container">
   <img src="./assets/images/radio-bageled-nyc.gif" style="width:100%;cursor:zoom-in"
