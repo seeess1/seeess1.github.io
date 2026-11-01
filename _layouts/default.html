@@ -28,7 +28,7 @@
   <body>
     <div id="emoji-container"></div>
     <script>
-      const items = ['💻', '🎾', '💻', '🎾', '💻', '🎾', '/assets/images/klaus.png', '/assets/images/izzleton.png', '/assets/images/izzlet.png'];
+      const items = ['💻', '🎾', '💻', '🎾', '💻', '🎾', '🔌', '/assets/images/klaus.png', '💻', '/assets/images/izzleton.png', '🎾', '/assets/images/izzlet.png'];
       const container = document.getElementById('emoji-container');
 
       function createShootingStar() {
@@ -43,6 +43,10 @@
           img.style.height = '70px';
           img.style.margin = '0';
           img.style.padding = '0';
+          img.style.objectFit = 'contain';
+          item.style.width = '70px';
+          item.style.height = '70px';
+          item.style.overflow = 'visible';
           item.appendChild(img);
         } else {
           item.textContent = selected;
@@ -107,10 +111,7 @@
       }
 
       setInterval(() => {
-        const count = Math.floor(Math.random() * 2) + 1;
-        for (let i = 0; i < count; i++) {
-          setTimeout(() => createShootingStar(), i * 300);
-        }
+        createShootingStar();
       }, 12000);
 
       createShootingStar();
