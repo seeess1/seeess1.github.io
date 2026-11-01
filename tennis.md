@@ -8,7 +8,7 @@ I'm a lifelong tennis player and have stayed active in the game as a player, for
 
 ## Bageled NYC
 
-I'm working with a creative partner on a project called [Bageled NYC](https://www.bageled.nyc/), where we create bagel-inspired tennis merch, run events, and create content (in tennis, a score of 6-0 is also called a "bagel"). I've worked on everything from illustration to production sourcing to social media. And we've been lucky enough to be [featured in New York Magazine's The Strategist](https://bageled.nyc/Press) among other outlets. It's been a fun ride!
+I'm working with a creative partner on a project called [Bageled NYC](https://www.bageled.nyc/), where we create bagel-inspired tennis merch, run events, and create content (in tennis, a score of 6-0 is also called a "bagel"). I've worked on everything from illustration to production sourcing to social media. And we've been lucky enough to be [featured in New York Magazine's The Strategist](https://bageled.nyc/Press) along with other outlets. It's been a fun ride!
 
 ## Fort Greene Tennis Association
 
