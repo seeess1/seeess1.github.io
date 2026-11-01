@@ -28,13 +28,25 @@
   <body>
     <div id="emoji-container"></div>
     <script>
-      const emojis = ['💻', '🎾'];
+      const items = ['💻', '🎾', '💻', '🎾', '💻', '🎾', '/assets/images/klaus.png', '/assets/images/izzleton.png', '/assets/images/izzlet.png'];
       const container = document.getElementById('emoji-container');
 
       function createShootingStar() {
-        const emoji = document.createElement('div');
-        emoji.className = 'emoji-bg';
-        emoji.textContent = emojis[Math.floor(Math.random() * emojis.length)];
+        const item = document.createElement('div');
+        item.className = 'emoji-bg';
+        const selected = items[Math.floor(Math.random() * items.length)];
+
+        if (selected.includes('.png')) {
+          const img = document.createElement('img');
+          img.src = selected;
+          img.style.width = '70px';
+          img.style.height = '70px';
+          img.style.margin = '0';
+          img.style.padding = '0';
+          item.appendChild(img);
+        } else {
+          item.textContent = selected;
+        }
 
         const edge = Math.floor(Math.random() * 4);
         let startX = 0, startY = 0, endX = 0, endY = 0;
@@ -61,11 +73,11 @@
           endX = startX + (Math.random() * 400 - 200);
         }
 
-        emoji.style.left = startX + 'px';
-        emoji.style.top = startY + 'px';
-        emoji.style.position = 'fixed';
+        item.style.left = startX + 'px';
+        item.style.top = startY + 'px';
+        item.style.position = 'fixed';
 
-        container.appendChild(emoji);
+        container.appendChild(item);
 
         const deltaX = endX - startX;
         const deltaY = endY - startY;
@@ -73,19 +85,20 @@
         const duration = 14000;
 
         const isMobile = window.innerWidth < 768;
-        emoji.style.opacity = isMobile ? 0.4 : 0.25;
+        const isImage = selected.includes('.png');
+        item.style.opacity = isImage ? (isMobile ? 0.6 : 0.45) : (isMobile ? 0.4 : 0.25);
 
         function animate() {
           const elapsed = Date.now() - startTime;
           const progress = Math.min(elapsed / duration, 1);
 
-          emoji.style.left = (startX + deltaX * progress) + 'px';
-          emoji.style.top = (startY + deltaY * progress) + 'px';
+          item.style.left = (startX + deltaX * progress) + 'px';
+          item.style.top = (startY + deltaY * progress) + 'px';
 
           if (progress < 1) {
             requestAnimationFrame(animate);
           } else {
-            emoji.remove();
+            item.remove();
           }
         }
 
