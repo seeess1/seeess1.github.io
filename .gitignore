@@ -5,3 +5,12 @@
 playground/favicon**
 
 _archive
+
+# Local dev requirements
+_site
+404.html
+Gemfile
+Gemfile.lock
+_posts/
+about.markdown
+index.markdown
