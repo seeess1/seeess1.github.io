@@ -54,7 +54,7 @@ Topos, sadly, wasn't able to make it out of the COVID-19 epidemic and had to clo
 </div>
 <br>
 
-All the while, I continued to be <a href="./tennis">involved in the tennis world</a>, and an opportunity came along combining my software experience with my lifelong passion for tennis. I took on the role as data engineer at [UTR Sports](www.utrsports.net), a racket sports ratings and events platform used across the globe. I worked closely with their data science team to continue to improve on the ratings system (the bedrock of the company's products) and ended up managing the data engineering team and leading our projects.
+All the while, I continued to be <a href="./tennis">involved in the tennis world</a>, and an opportunity came along that combined my software experience with my lifelong passion for tennis. I took on the role as data engineer at [UTR Sports](www.utrsports.net), a racket sports ratings and events platform used across the globe. I worked closely with their data science team to continue to improve on the ratings system (the bedrock of the company's products) and ended up managing the data engineering team and leading our projects.
 
 
 <div class="w3-container">
@@ -78,11 +78,18 @@ As my studies progressed, I saw an opportunity to combine my intellectual intere
 ## A special note on tennis
 
 My lifelong passion for tennis has also spawned a few software and hardware projects along the way, like [a fun leaderboard](https://bageled.nyc/bagel-race) showing which pro tennis players have the most bagels on tour...
+
+<div class="w3-container">
+  <img src="./assets/images/race.gif" style="width:100%;cursor:zoom-in"
+  onclick="document.getElementById('modal01').style.display='block'">
+  <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+    <span class="w3-button w3-hover-yellow w3-xlarge w3-display-topright">X</span>
+    <div class="w3-modal-content w3-animate-zoom">
+      <img src="./assets/images/race.gif" style="width:100%">
+    </div>
+  </div>
+</div>
 <br>
-<br>
-<a href="https://datastudio.google.com/reporting/02761227-2cfd-48d6-91e4-5b261788ef62">
-   <img alt="Bagel Race" src="./assets/images/bagel-race.png">
-</a>
 
 ...a personal scoreboard that I [designed and 3D-printed](https://bageled.nyc/DIY-scoreboard)...
 
