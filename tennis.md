@@ -35,7 +35,7 @@ I'm working with a creative partner on a project called [Bageled NYC](https://ww
 </div>
 <br>
 
-The [Fort Greene Tennis Association](https://www.fortgreenetennis.org/) (aka "FGTA") is a Brooklyn-based non-profit that runs tournaments and events and raises money to maintain the tennis courts at Fort Greene Park. From 2015 to 2023, I volunteered as a board member at FGTA, where I:
+The [Fort Greene Tennis Association](https://www.fortgreenetennis.org/) (aka "FGTA") is a Brooklyn-based non-profit that runs tournaments and events and raises money to maintain the tennis courts at [Fort Greene Park](https://www.google.com/maps/place/fort+greene+park+brooklyn/data=!4m2!3m1!1s0x89c25bb6edaffebd:0x78ef226ebb3eed50). From 2015 to 2023, I volunteered as a board member at FGTA, where I:
 
 - Served as President and later as Director of Fundraising.
 - Led a fundraising drive in which we raised $70k and resurfaced all 6 tennis courts in 2019.
