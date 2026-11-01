@@ -91,7 +91,7 @@ My lifelong passion for tennis has also spawned a few software and hardware proj
 </div>
 <br>
 
-...a personal scoreboard that I [designed and 3D-printed](https://bageled.nyc/DIY-scoreboard)...
+...an interactive scoreboard that I [designed and 3D-printed](https://bageled.nyc/DIY-scoreboard)...
 
 <div class="w3-container">
   <img src="./assets/images/scoreboard.gif" style="width:100%;cursor:zoom-in"
