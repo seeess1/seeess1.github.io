@@ -17,4 +17,4 @@ During that last one (auditing), I started to make the switch from qualitative t
 
 Since then, I've stayed on the data engineering path and have worked in different domains, from retail site selection to clean energy. I've even found a way to blend it together with tennis(!) in a side project I have called [Bageled NYC](https://bageled.nyc/).
 
-Having lived in NYC since 2011, it's the place I call home. If you wanna say hi, you can probably find me near a tennis court or working a shift at the Park Slope Food Coop. <a href="mailto: hi@samhburns.com">Email also works.</a> Oh, and yes those are my three cats, Klaus, Izzy, and Izzy (it's [a long story](https://www.gq.com/story/men-can-be-cat-ladies-too)).
+Having lived in NYC since 2011, it's the place I call home. If you wanna say hi, you can probably find me near a tennis court or working a shift at the Park Slope Food Coop. <a href="mailto: hi@samhburns.com">Email also works.</a> Oh, and yes those are my three cats sliding across your screen: Klaus, Izzy, and Izzy (it's [a long story](https://www.gq.com/story/men-can-be-cat-ladies-too)).
