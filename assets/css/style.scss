@@ -66,8 +66,8 @@ code span { background-color: transparent }
 img {
   border-radius: 5px;
   opacity: 1 !important;
-  position: relative;
   z-index: 2;
+  display: block;
 }
 
 /* Giving padding to top of page and controlling scrollbar */
