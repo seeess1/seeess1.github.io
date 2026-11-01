@@ -72,7 +72,8 @@
         const startTime = Date.now();
         const duration = 14000;
 
-        emoji.style.opacity = 0.25;
+        const isMobile = window.innerWidth < 768;
+        emoji.style.opacity = isMobile ? 0.4 : 0.25;
 
         function animate() {
           const elapsed = Date.now() - startTime;
